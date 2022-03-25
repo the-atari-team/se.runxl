@@ -22,7 +22,14 @@ runxl assumes that your atari 8-bit programs are stored in
 
 	/usr/share/atari
 
-and subfolders.
+and subfolders. This can be changed in the runxl script file.
+
+runxl supports the following file types and starts them automatically with the correct emulator options:
+* Disk images: *.atr, *.xfd
+* Binay executables: *.com, *.exe, *.xex
+* Cassette boots: *.cas
+* Rom dumps: *.rom, *.bin
+* Basic files: *.bas, *.lst
 
 
 ## Usage
@@ -43,7 +50,7 @@ the index files must be called runxlindex*.txt, this means that valid index file
 
 you get the idea.
 
-Each index file is responsible for the disk images (xfd, atr) or atari programs (xex) of the directory whre it is located.
+Each index file relates to the disk images (xfd, atr) or atari programs (xex, com, exe, bas, lst) of the directory where it is located.
 
 ### Index file format
 1st line: Name of the collection
@@ -67,11 +74,11 @@ Example index file:
 	Game_Disk_2.atr|F1 Worm race (Basic)|
 	Game_Disk_2.atr|Crazy Chef (Basic)|
 
-With this index file, cou can type
+With this index file, you can i.e. type
 
 	./runxl Minced
 
-and runxl will find the all corresponding entries, displays a list and asks for the program to start.
+and runxl will find the all corresponding entries, including the one from the index file, displays a list and asks for the program to start.
 
 ## TBD
 * more documentation
