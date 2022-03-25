@@ -1,0 +1,1062 @@
+Yogi Megadisk
+/usr/share/atari/XL_Tools/YogiLoader.atr
+GAMES001.ATR|Preppie! II                     
+GAMES001.ATR|Preppie!                        
+GAMES001.ATR|Space Eggs                      
+GAMES001.ATR|Boulderdash II                  
+GAMES001.ATR|Crystal Castles                 
+GAMES001.ATR|Avalanche                       
+GAMES001.ATR|Berzerk                         
+GAMES001.ATR|Frogger II: Threedeep           
+GAMES001.ATR|Frogger (Disk version)          
+GAMES001.ATR|Joust                           
+GAMES001.ATR|Adventure7: Mystery Fun House   
+GAMES001.ATR|Donkey Kong                     
+GAMES001.ATR|Protector II                    
+GAMES001.ATR|Popeye                          
+GAMES001.ATR|Snowkie                         
+GAMES001.ATR|Wizard of Wor (Disk version)    
+GAMES001.ATR|Missile Command                 
+GAMES001.ATR|Zaxxon                          
+GAMES001.ATR|Operation Whirlwind             
+GAMES001.ATR|Pole Position                   
+GAMES001.ATR|Ms. PacMan                      
+GAMES001.ATR|Digger Bonk                     
+GAMES001.ATR|Archon                          
+GAMES001.ATR|Mountain King                   
+GAMES001.ATR|Gorf (Disk version)             
+GAMES001.ATR|Fort Apocalypse (Cart version)  
+GAMES001.ATR|Galaxian                        
+GAMES001.ATR|Jumpman Jr.                     
+GAMES001.ATR|Speedway Blast                  
+GAMES001.ATR|Claim Jumper                    
+GAMES001.ATR|Submarine Commander             
+GAMES001.ATR|Caverns of Mars II              
+GAMES001.ATR|Sea Dragon                      
+GAMES001.ATR|Quasimodo                       
+GAMES001.ATR|Journey to the Planets          
+GAMES001.ATR|Master of the Lamps             
+GAMES001.ATR|Drop Zone                       
+GAMES001.ATR|Alley Cat                       
+GAMES001.ATR|Archon II: Adept                
+GAMES001.ATR|Baja Buggies                    
+GAMES001.ATR|Ball Blaster                    
+GAMES001.ATR|BC's Quest for Tires            
+GAMES001.ATR|Blue Max (Disk version)         
+GAMES001.ATR|Bristles                        
+GAMES001.ATR|Centipede (5200 version)        
+GAMES001.ATR|Choplifter!                     
+GAMES001.ATR|Congo Bongo                     
+GAMES001.ATR|Defender                        
+GAMES001.ATR|Dig Dug                         
+GAMES001.ATR|Fortress                        
+GAMES001.ATR|Flip and Flop                   
+GAMES001.ATR|Pinhead                         
+GAMES001.ATR|Super Zaxxon                                      
+GAMES004.ATR|Blue Print (5200)               
+GAMES004.ATR|Beamrider                       
+GAMES004.ATR|AdventureWriter                 
+GAMES004.ATR|Crash Dive                      
+GAMES004.ATR|Cloud Hopper                    
+GAMES004.ATR|Deathstar                       
+GAMES004.ATR|Rainbow Walker                  
+GAMES004.ATR|Starbowl Football               
+GAMES004.ATR|Delta Drawing                   
+GAMES004.ATR|O'Reiley's Mine                 
+GAMES004.ATR|Preppie! (w/intermissions)      
+GAMES004.ATR|Star League Baseball            
+GAMES004.ATR|Buck Rogers                     
+GAMES004.ATR|Atlantis                        
+GAMES004.ATR|Salmon Run                      
+GAMES004.ATR|Bruce Lee                       
+GAMES004.ATR|Q*Bert                          
+GAMES004.ATR|Ghost Encounters                
+GAMES004.ATR|Plattermania                    
+GAMES004.ATR|Astro Chase                     
+GAMES004.ATR|Sentinel I                      
+GAMES004.ATR|Moon Patrol                     
+GAMES004.ATR|Cosmic Tunnels (Capt Sticky 4)  
+GAMES004.ATR|Drelbs (Sloppy Crack)           
+GAMES004.ATR|Pitfall II: Lost Caverns        
+GAMES004.ATR|Pitfall                         
+GAMES004.ATR|Arena                           
+GAMES004.ATR|Pogoman                         
+GAMES004.ATR|Tutankham                       
+GAMES004.ATR|Livewire                        
+GAMES004.ATR|Star Trek Strategic Op Sim.     
+GAMES004.ATR|Mario Brothers                  
+GAMES004.ATR|Moon Patrol                     
+GAMES004.ATR|Jumping Jim                     
+GAMES004.ATR|Pushy Pig (one of the worst games ever)
+GAMES004.ATR|Dunzhin Warrior of RAS I        
+GAMES004.ATR|Candy Factory                   
+GAMES004.ATR|Asteroids                       
+GAMES004.ATR|Silicon Warrior                 
+GAMES004.ATR|Miner 2049er                    
+GAMES004.ATR|Star Raiders                    
+GAMES004.ATR|Shamus                          
+GAMES004.ATR|Slime                           
+GAMES004.ATR|Hard Hat Mack                   
+GAMES004.ATR|Rosen's Brigade                 
+GAMES004.ATR|Jungle Hunt                     
+GAMES004.ATR|Oil's Well                      
+GAMES004.ATR|Kangaroo                        
+GAMES004.ATR|Reversi                         
+GAMES004.ATR|Pacific Coast Highway           
+GAMES004.ATR|Pacman                          
+GAMES004.ATR|Myriapede                       
+GAMES004.ATR|Breakout (paddles)              
+GAMES004.ATR|Pitstop                         
+GAMES004.ATR|River Raid                      
+GAMES004.ATR|Dog Daze Deluxe                 
+GAMES004.ATR|Necromancer                     
+GAMES004.ATR|Jet Boot Jack                   
+GAMES004.ATR|Super Bunny                     
+GAMES004.ATR|Stealth  (aka Landscape)        
+GAMES004.ATR|Star Wars                       
+GAMES004.ATR|Spy Hunter                      
+GAMES003.ATR|Gremlins (5200)                 
+GAMES003.ATR|Jr. PacMan                      
+GAMES003.ATR|Pole Position Race Designer     
+GAMES003.ATR|Pengo                           
+GAMES003.ATR|Gumball                         
+GAMES003.ATR|Millipede                       
+GAMES003.ATR|Fighter Pilot                   
+GAMES003.ATR|Gunfight                        
+GAMES003.ATR|Rally Speedway                  
+GAMES003.ATR|Star Raiders II                 
+GAMES003.ATR|Caverns of Mars                 
+GAMES003.ATR|Pharaoh's Curse                 
+GAMES003.ATR|Juice                           
+GAMES003.ATR|Flak                            
+GAMES003.ATR|Getaway                         
+GAMES003.ATR|Jawbreaker II                   
+GAMES003.ATR|Space Invaders                  
+GAMES003.ATR|Qix (unreleased version)        
+GAMES003.ATR|Adventureland (Scott Adams #1)  
+GAMES003.ATR|Pirate Adventure (Scott Adams #2)   
+GAMES003.ATR|Mission Impossible (Scott Adams #3) 
+GAMES003.ATR|Voodoo Castle (Scott Adams #4)  
+GAMES003.ATR|Zybex                           
+GAMES003.ATR|Gyruss                          
+GAMES003.ATR|Gridrunner                      
+GAMES003.ATR|Capture the Flag                
+GAMES003.ATR|Chuckie Egg                     
+GAMES003.ATR|Springer                        
+GAMES003.ATR|Unicum                          
+GAMES003.ATR|Ataroid                         
+GAMES003.ATR|Draconus                        
+GAMES003.ATR|Air Hockey                      
+GAMES003.ATR|Perxor                          
+GAMES003.ATR|Amazing                         
+GAMES003.ATR|Backtrack                       
+GAMES003.ATR|Karmic Caverns                  
+GAMES003.ATR|Battle in the B Ring            
+GAMES003.ATR|Atom Smasher                    
+GAMES003.ATR|Beamatron                       
+GAMES003.ATR|Blast!                          
+GAMES003.ATR|Space Blaster                   
+GAMES003.ATR|Bumperball                      
+GAMES003.ATR|Chomper                         
+GAMES003.ATR|Demon Birds                     
+GAMES003.ATR|Empire Strikes Back (Hit reset) 
+GAMES003.ATR|Star Crystals                   
+GAMES003.ATR|Zone Ranger                     
+GAMES003.ATR|Shadow World                    
+GAMES003.ATR|Sargon II                       
+GAMES003.ATR|Leader Board Golf               
+GAMES003.ATR|Air Strike II                   
+GAMES003.ATR|Citadel Warrior                 
+GAMES003.ATR|Neptune's Daughter              
+GAMES003.ATR|Gateway to Apshai               
+GAMES003.ATR|Encounter!                      
+GAMES003.ATR|Zeppelin                        
+GAMES003.ATR|Capture the Flag                
+GAMES003.ATR|Boulderdash                     
+GAMES004.ATR|Tapper                          
+GAMES004.ATR|Cosmic Glob                     
+GAMES004.ATR|Aztec Challenge                 
+GAMES004.ATR|Loco                            
+GAMES004.ATR|Arex                            
+GAMES004.ATR|Water Ski School                
+GAMES004.ATR|Robin Hood                      
+GAMES004.ATR|Forbidden Forest                
+GAMES004.ATR|Xevious                         
+GAMES004.ATR|Hazard Run                      
+GAMES004.ATR|Electrician                     
+GAMES004.ATR|Raid Over Moscow                
+GAMES004.ATR|Montanna Solitaire              
+GAMES004.ATR|Adventures of Mr. Fish          
+GAMES004.ATR|Jetman                          
+GAMES004.ATR|Agent USA (hit reset)           
+GAMES004.ATR|H.E.R.O.                        
+GAMES004.ATR|Desmond's Dungeon               
+GAMES004.ATR|Pooyan                          
+GAMES004.ATR|Shamus: Case II                 
+GAMES004.ATR|Super Pacman                    
+GAMES004.ATR|Quarxon                         
+GAMES004.ATR|Repton                          
+GAMES004.ATR|Mr Robot & His Robot Factory    
+GAMES004.ATR|Mr Do!                          
+GAMES004.ATR|Satan's Hollow                  
+GAMES004.ATR|Donkey Kong Junior              
+GAMES004.ATR|The Last Starfighter            
+GAMES004.ATR|Seafox                          
+GAMES004.ATR|MegaMania                       
+GAMES004.ATR|Atari Adventure (?)             
+GAMES004.ATR|California Gold                 
+GAMES004.ATR|Saigon The Final Days           
+GAMES004.ATR|Moon Shuttle                    
+GAMES004.ATR|Bug Attack                      
+GAMES004.ATR|Centipede                       
+GAMES004.ATR|Robotron: 2084                  
+GAMES004.ATR|The Comet Game                  
+GAMES004.ATR|Sky Blazer                      
+GAMES004.ATR|Space Dungeon (5200)            
+GAMES004.ATR|The Count (Scott Adams #5)   
+GAMES004.ATR|Whomper Stomper                 
+GAMES004.ATR|Starfire                        
+GAMES004.ATR|Laser Ants                      
+GAMES004.ATR|Zenji                           
+GAMES004.ATR|Up'n Down                       
+GAMES004.ATR|Tracer                          
+GAMES004.ATR|Atartris 1.01                   
+GAMES004.ATR|Emerald Isle                    
+GAMES004.ATR|Snowball                        
+GAMES004.ATR|Dimension X                     
+GAMES004.ATR|Pastfinder                      
+GAMES004.ATR|Blue Max: 2001                  
+GAMES005.ATR|Tennis                          
+GAMES005.ATR|Taxi Cab Hill                   
+GAMES005.ATR|Spindizzy                       
+GAMES005.ATR|Trailblazer                     
+GAMES005.ATR|Hacker                          
+GAMES005.ATR|Qix (cart versions)             
+GAMES005.ATR|Wavy Navy                       
+GAMES005.ATR|WarGames                        
+GAMES005.ATR|Sidewinder                      
+GAMES005.ATR|Screaming Wings                 
+GAMES005.ATR|Warlok                          
+GAMES005.ATR|Hard Hat Willy                  
+GAMES005.ATR|Zombies (use Dos to load)       
+GAMES005.ATR|Burried Bucks                   
+GAMES005.ATR|Fast Eddie                      
+GAMES005.ATR|Worms?                          
+GAMES005.ATR|Darts                           
+GAMES005.ATR|Plaque Man                      
+GAMES005.ATR|Chop Suey                       
+GAMES005.ATR|Billiards                       
+GAMES005.ATR|Return to Eden                  
+GAMES005.ATR|Embargo                         
+GAMES005.ATR|Mr. Bear's Picnic               
+GAMES005.ATR|Legionaire                      
+GAMES005.ATR|Night Mission Pinball           
+GAMES005.ATR|Orc Attack                      
+GAMES005.ATR|The Activison Decathalon        
+GAMES005.ATR|Kaboom!                         
+GAMES005.ATR|Submission                      
+GAMES005.ATR|Stratos                         
+GAMES005.ATR|Facemaker                       
+GAMES005.ATR|Behind Jaggi Lines! (Prototype) 
+GAMES005.ATR|Basketball                      
+GAMES005.ATR|Turmoil                         
+GAMES005.ATR|Vanguard (Prototype)            
+GAMES005.ATR|3D Tic Tac Toe                  
+GAMES005.ATR|The Wall                        
+GAMES005.ATR|Tetrix                          
+GAMES005.ATR|Humpty Dumpty                   
+GAMES005.ATR|Cat Nap                         
+GAMES005.ATR|Cavelord                        
+GAMES005.ATR|Galactic Chase                  
+GAMES005.ATR|K-Razy Shootout                 
+GAMES005.ATR|Kayos                           
+GAMES005.ATR|Ghost Hunter                    
+GAMES005.ATR|Shoot                           
+GAMES005.ATR|Eastern Front 1941              
+GAMES005.ATR|Crossfire                       
+GAMES005.ATR|Danger Ranger                   
+GAMES005.ATR|Pengon                          
+GAMES005.ATR|Elektra Glide (load from DOS)   
+GAMES005.ATR|Czarny Orzet                    
+GAMES005.ATR|Crypts of Egypt                 
+GAMES005.ATR|Viper                           
+GAMES006.ATR|Triad                           
+GAMES006.ATR|Wumpus Hunter                   
+GAMES006.ATR|Xagon                           
+GAMES006.ATR|Star Rider                      
+GAMES006.ATR|Gauntlet                        
+GAMES006.ATR|Pac Man (Eric Wolz)             
+GAMES006.ATR|Parallax                        
+GAMES006.ATR|Pogo Joe                        
+GAMES006.ATR|Sea Bandit                      
+GAMES006.ATR|RealSports Football             
+GAMES006.ATR|Phobos                          
+GAMES006.ATR|Keystone Kapers                 
+GAMES006.ATR|Canyon Climber (Slow music/cass)
+GAMES006.ATR|Chicken                         
+GAMES006.ATR|Megalegs                        
+GAMES006.ATR|Jawbreaker (org. maze)          
+GAMES006.ATR|Shooting Arcade                 
+GAMES006.ATR|Wall War                        
+GAMES006.ATR|Sea Dragon (professional crack) 
+GAMES006.ATR|K-Razy Kritters                 
+GAMES006.ATR|K-Star Patrol                   
+GAMES006.ATR|Outlaw/Howitzer                 
+GAMES006.ATR|Music Composer                  
+GAMES006.ATR|Kidgrid                         
+GAMES006.ATR|Jumbo Jet Pilot                 
+GAMES006.ATR|Firebird                        
+GAMES006.ATR|Amphibian!                      
+GAMES006.ATR|Calculator
+GAMES006.ATR|Tax Dodge                       
+GAMES006.ATR|Bumperball                      
+GAMES006.ATR|Serpentine                      
+GAMES006.ATR|Fantastic Voyage                
+GAMES006.ATR|Jawbreaker (Lawsuit maze)       
+GAMES006.ATR|Chess                           
+GAMES006.ATR|Match Racer (fun)               
+GAMES006.ATR|Nautilus                        
+GAMES006.ATR|Star Island                     
+GAMES006.ATR|Jawbreaker 2                    
+GAMES006.ATR|Protector                       
+GAMES006.ATR|Canyon Climber (fast music.dsk) 
+GAMES006.ATR|Demon Attack                    
+GAMES006.ATR|Bug Off                         
+GAMES006.ATR|Stellar Shuttle                 
+GAMES006.ATR|Onslaught                       
+GAMES006.ATR|Jeepers Creepers                
+GAMES006.ATR|Thrax Lair                      
+GAMES006.ATR|Super Cubes                     
+GAMES006.ATR|Labyrinth                       
+GAMES006.ATR|Picnic Paranoia (hit reset)     
+GAMES006.ATR|Mouskattack                     
+GAMES006.ATR|Andromeda                       
+GAMES006.ATR|Froggie                         
+GAMES006.ATR|Dog Daze                        
+GAMES006.ATR|Abracadabra!                    
+GAMES006.ATR|Robot Battle                    
+GAMES006.ATR|Caterpiggle (released to PD)    
+GAMES006.ATR|Haunted Hill                    
+GAMES006.ATR|Apple Panic                     
+GAMES006.ATR|Millipedes                      
+GAMES006.ATR|Cypher Bowl                     
+GAMES006.ATR|Computer War                    
+GAMES006.ATR|Final Orbit (?)                 
+GAMES006.ATR|Caverns of Khafka               
+GAMES007.ATR|Boulderdash (Cart. version)     
+GAMES007.ATR|Atari Invaders (hack)           
+GAMES007.ATR|Action Quest (aka Ghost Encounter)
+GAMES007.ATR|Alien Swarm                     
+GAMES007.ATR|Montezuma's Revenge (cart ver.)  
+GAMES007.ATR|Countdown                       
+GAMES007.ATR|Juno First                      
+GAMES007.ATR|Mr. TNT                         
+GAMES007.ATR|Checkers                        
+GAMES007.ATR|The Exterminator                
+GAMES007.ATR|Chimera (PAL)                   
+GAMES007.ATR|Countermeasure                  
+GAMES007.ATR|On-Track Racing                 
+GAMES007.ATR|Twerps                          
+GAMES007.ATR|Bio-Defense                     
+GAMES007.ATR|James Bond                      
+GAMES007.ATR|Final Legacy                    
+GAMES007.ATR|Wing Wars                       
+GAMES007.ATR|Major League Hockey             
+GAMES007.ATR|Firefleet                       
+GAMES007.ATR|Up Up and Away                  
+GAMES007.ATR|Spiderman (Questprobe Adv. #2)  
+GAMES007.ATR|Motorcross 800                  
+GAMES007.ATR|Speed Ski                       
+GAMES007.ATR|Rack 'Em Up!                    
+GAMES007.ATR|Ion Roadway                     
+GAMES007.ATR|Raid on Gravitron               
+GAMES007.ATR|Clowns and Balloons             
+GAMES007.ATR|TK Bowl                         
+GAMES007.ATR|Maxwell Manor Skull of Doom     
+GAMES007.ATR|Eyrus                           
+GAMES007.ATR|Montezuma's Revenge (Disk ver.)  
+GAMES007.ATR|Ghost Chaser                    
+GAMES007.ATR|Kik-Start                       
+GAMES007.ATR|Hardball                        
+GAMES007.ATR|The Tail of Beta Lyrae          
+GAMES007.ATR|Ballblazer                      
+GAMES007.ATR|Super Cobra                     
+GAMES007.ATR|N.Y.C. The Big Apple            
+GAMES007.ATR|Crystal Raider                  
+GAMES007.ATR|LRaider (?)                     
+GAMES007.ATR|Food Fight (XL/XE only)         
+GAMES007.ATR|Two Maze                        
+GAMES007.ATR|Waxworks (Mysterious Adv #11)   
+GAMES007.ATR|Adventure in Time               
+GAMES007.ATR|Perseus and Andromeda (Myst. Adventure #7) 
+GAMES007.ATR|Ten Little Indians (Myst. Adventure #10)   
+GAMES007.ATR| ?  (Mysterious Adventure #8)    
+GAMES007.ATR|Feasability Experiment (Myst. Adventure #7)
+GAMES007.ATR|Stranded                        
+GAMES007.ATR| ? (Scott Adams Adv. #13)       
+GAMES007.ATR|Golden Baton (Mysterious Adventure #1) 
+GAMES007.ATR|The Time Machine (Myst. Adventure #2)               
+GAMES008.ATR|Porky's                         
+GAMES008.ATR|Lorien's Tomb                   
+GAMES008.ATR|Robbo                           
+GAMES008.ATR|Rescue at 94k                   
+GAMES008.ATR|Super Husa                      
+GAMES008.ATR|Wloczykij                       
+GAMES008.ATR|Easy Money                      
+GAMES008.ATR|Eureka!                         
+GAMES008.ATR|Hawkmoon                        
+GAMES008.ATR|Samurai's Game                  
+GAMES008.ATR|Tiger Attack                    
+GAMES008.ATR|Speed Hawk                      
+GAMES008.ATR|Rockman (PAL)                   
+GAMES008.ATR|Kissin' Kousins                 
+GAMES008.ATR|Pitstop II                      
+GAMES008.ATR|Quest for Quintana Roo          
+GAMES008.ATR|Timebound                       
+GAMES008.ATR|Challenge 5                     
+GAMES008.ATR|Don't Shoot That Word!          
+GAMES008.ATR|Adventure Creator               
+GAMES008.ATR|Bannercatch                     
+GAMES008.ATR|The Spy Strikes Back            
+GAMES008.ATR|Retrofire                       
+GAMES008.ATR|Cohen's Towers                  
+GAMES008.ATR|Galactic Avenger                
+GAMES008.ATR|Night Raiders                   
+GAMES008.ATR|Maniac Miner                    
+GAMES008.ATR|Spark Bugs                      
+GAMES008.ATR|River Rat                       
+GAMES008.ATR|Starfire Warrior                
+GAMES008.ATR|Pathfinder (?)                  
+GAMES008.ATR|Worm War I                      
+GAMES008.ATR|Pieman                          
+GAMES008.ATR|Tumble Bugs                     
+GAMES008.ATR|Roadblock                       
+GAMES008.ATR|Diamonds                        
+GAMES008.ATR|Topper                          
+GAMES008.ATR|The E Factor!                   
+GAMES008.ATR|Der Blitz!                      
+GAMES008.ATR|Capture the Flag                
+GAMES008.ATR|Gossip
+GAMES008.ATR|Rebel Fighter                   
+GAMES008.ATR|Juggler                         
+GAMES008.ATR|Stargate Courier                
+GAMES008.ATR|Galahad and the Holy Grail      
+GAMES008.ATR|Up For Grabs                    
+GAMES008.ATR|One On One                      
+GAMES008.ATR|Hyperblast!                     
+GAMES008.ATR|Jigsaws: Arch de Triumph        
+GAMES009.ATR|Backtrack                       
+GAMES009.ATR|Jigsaws: Tower of London        
+GAMES009.ATR|Air Support                     
+GAMES009.ATR|PacMan (Martin Day Knockoff)    
+GAMES009.ATR|Castle Attack                   
+GAMES009.ATR|Ghostbusters (copy to dosmenu)  
+GAMES009.ATR|Electrician (w/ Title screen)   
+GAMES009.ATR|Arachnid                        
+GAMES009.ATR|Puzzle Gates of the Incas       
+GAMES009.ATR|Scooter                         
+GAMES009.ATR|Railking                        
+GAMES009.ATR|Mogul Maniac                    
+GAMES009.ATR|Rat Race                        
+GAMES009.ATR|Halftime Battlin' Bands         
+GAMES009.ATR|Factor Blast                    
+GAMES009.ATR|Rip Off! (Not orig. title)      
+GAMES009.ATR|Battleroom                      
+GAMES009.ATR|Ernie's Magic Shapes            
+GAMES009.ATR|Crisis Moutain (copy to dosmenu)
+GAMES009.ATR|Chisler (paddles)               
+GAMES009.ATR|David's Midnight Magic (copy to dosmenu)
+GAMES009.ATR|Playful Professor               
+GAMES009.ATR|Go                              
+GAMES009.ATR|Lone Raider (Doesnt seem to work)
+GAMES009.ATR|Shatablast  
+GAMES009.ATR|See-Saw Scramble                
+GAMES009.ATR|Meteor                          
+GAMES009.ATR|Dianes Magic Game               
+GAMES009.ATR|Chambers of Zorp                
+GAMES009.ATR|Weakon                          
+GAMES009.ATR|Cosmic Defender                 
+GAMES009.ATR|Marvel Adventure #1: The Hulk   
+GAMES009.ATR|Axis Assassin (copy to dosmenu) 
+GAMES009.ATR|Keychase (doesnt seem to work)  
+GAMES009.ATR|Desmond's Dungeon               
+GAMES009.ATR|Alp Man                         
+GAMES009.ATR|Agent 009                       
+GAMES009.ATR|Musiepede                       
+GAMES009.ATR|Lunar Leepers (Doesnt work?)    
+GAMES009.ATR|Colony 7 (?)                    
+GAMES009.ATR|Nordic Ski                      
+GAMES009.ATR|Movie Musical Madness           
+GAMES009.ATR|Melt-Down                       
+GAMES009.ATR|Matchboxes                      
+GAMES009.ATR|Piranha                         
+GAMES009.ATR|Rough Rider                     
+GAMES009.ATR|Craps Simulator                 
+GAMES009.ATR|Tree Surgeon                    
+GAMES009.ATR|Photo Finish Grayhoud Racing    
+GAMES009.ATR|Math Busters (?)                
+GAMES009.ATR|Omega                           
+GAMES009.ATR|Pramid Puzzler                  
+GAMES009.ATR|Computer Adventure (Untitled)   
+GAMES009.ATR|Henri                           
+GAMES009.ATR|Exocet Blastoff                 
+GAMES009.ATR|Fly Blaster                     
+GAMES010.ATR|Lawkeeper                       
+GAMES010.ATR|Lazer Type                      
+GAMES010.ATR|Nadral                          
+GAMES010.ATR|Lepus Revenge                   
+GAMES010.ATR|Mirco Shuttle                   
+GAMES010.ATR|Kazoo                           
+GAMES010.ATR|Hover Bovver                    
+GAMES010.ATR|Warlords (Paddles)              
+GAMES010.ATR|Whirlinurd                      
+GAMES010.ATR|Yargo's Dilemma Pt 1            
+GAMES010.ATR|Puzzle Construction Set         
+GAMES010.ATR|Maze War                        
+GAMES010.ATR|Pac Man (yet another home brew)
+GAMES010.ATR|Rome and the Barbarians         
+GAMES010.ATR|3-D Red Baron                   
+GAMES010.ATR|Score4 (compiled Basic Crap)    
+GAMES010.ATR|Floor Walker                    
+GAMES010.ATR|Star Gunner (Doesnt seem to work)
+GAMES010.ATR|Ratapede (home brew centipede)  
+GAMES010.ATR|International Karate            
+GAMES010.ATR|Troll War (What is this shit?)  
+GAMES010.ATR|Dan Strikes Back (aka Diane's M.)
+GAMES010.ATR|Jigsaws: Pathenon               
+GAMES010.ATR|Attack of the Mutant Camels     
+GAMES010.ATR|Cuthbert Goes Walkabout         
+GAMES010.ATR|TTracer                         
+GAMES010.ATR|Java Jim                        
+GAMES010.ATR|Football 5200                   
+GAMES010.ATR|Meltdown                        
+GAMES010.ATR|Linking Logic                   
+GAMES010.ATR|Rats' Revenge                   
+GAMES010.ATR|The Scrolls of Abandon          
+GAMES010.ATR|Commbat (modem game)            
+GAMES010.ATR|Logic Levels                    
+GAMES010.ATR|Memory Manor                    
+GAMES010.ATR|Mirco Chess                     
+GAMES010.ATR|Laser Gates (Alpha)             
+GAMES010.ATR|Castle Hassle (aka Ghost Encounter)
+GAMES010.ATR|Pyamid Run                      
+GAMES010.ATR|Ardy the Aardvark               
+GAMES010.ATR|Jigsaws: Bavarian Castle        
+GAMES010.ATR|Lucifer's Realm                 
+GAMES010.ATR|Mr. M                           
+GAMES010.ATR|Pole Position Race Designer     
+GAMES010.ATR|Black Hawk (needs run addr of $3
+GAMES010.ATR|Space Conflict II               
+GAMES010.ATR|The Great American Cross Country
+GAMES010.ATR|Space Journey                   
+GAMES010.ATR|Operation: Novatari (says DEMO)
+GAMES010.ATR|Elevator Repairman              
+GAMES010.ATR|Warrior of Ras #2: Kaiv         
+GAMES010.ATR|Kissin' Kousins (w/ cheat)      
+GAMES010.ATR|Last Warrior (?)                
+GAMES010.ATR|Maxter Mind                     
+GAMES010.ATR|Seahorses                       
+GAMES010.ATR|Ken Uston's Puzzle Mania
+GAMES010.ATR|Nemo's Vault                    
+GAMES010.ATR|Dr. Seuss's Follow the Mix Up Pu
+GAMES010.ATR|Orbit                           
+GAMES010.ATR|Rescue Prince
+GAMES010.ATR|Puzzle Panic (aka Ken Uston's)                     
+GAMES011.ATR|Blue Thunder                    
+GAMES011.ATR|Jumping Jack (Doesn't Work?)    
+GAMES011.ATR|Alpha Shield                    
+GAMES011.ATR|Dan Strikes Back                
+GAMES011.ATR|MASH 4077 (Doesn't Work?)       
+GAMES011.ATR|Space Invaders (5200)           
+GAMES011.ATR|Destination: Unknown            
+GAMES011.ATR|Diamond Mind                    
+GAMES011.ATR|Pushky                          
+GAMES011.ATR|Copter Chase                    
+GAMES011.ATR|Ballistic Interceptor           
+GAMES011.ATR|The Dreadnaught Factor          
+GAMES011.ATR|Exit Watch                      
+GAMES011.ATR|Checkers 2.1                    
+GAMES011.ATR|Escape from Satellite A19790C   
+GAMES011.ATR|Bacterion: The Plague of 2369   
+GAMES011.ATR|Odin                            
+GAMES011.ATR|The Paradise Threat             
+GAMES011.ATR|Jigsaws: Hickory Dickory Dock   
+GAMES011.ATR|Ghost!                          
+GAMES011.ATR|T.G.I.F.                        
+GAMES011.ATR|Impact                          
+GAMES011.ATR|Astron IX                       
+GAMES011.ATR|Subattack (compiled Basic crap) 
+GAMES011.ATR|Crossword Magic (Doesn't Work?) 
+GAMES011.ATR|Bootleg                         
+GAMES011.ATR|Destiny: The Cruiser            
+GAMES011.ATR|Malpass The Asteroid Mines      
+GAMES011.ATR|Moon Marauder                   
+GAMES011.ATR|Mankala                         
+GAMES011.ATR|Panic                           
+GAMES011.ATR|Sperm Invaders (hack)           
+GAMES011.ATR|Thunderbombs                    
+GAMES011.ATR|Livewire 2                      
+GAMES011.ATR|Pensate                         
+GAMES011.ATR|Fire One                        
+GAMES011.ATR|Pool 400                        
+GAMES011.ATR|Starfire                       
+GAMES011.ATR|Renaissance                    
+GAMES011.ATR|Raster Blaster                 
+GAMES011.ATR|Dig Dug (5200)                 
+GAMES011.ATR|Equestrian                     
+GAMES011.ATR|Collision Course               
+GAMES011.ATR|Spiderquake                    
+GAMES011.ATR|Insects (centipede ripoff)      
+GAMES011.ATR|ATC (Air Traffic Controller)    
+GAMES011.ATR|Mad Netter                     
+GAMES011.ATR|V.C.                           
+GAMES011.ATR|Airstrike (doesn't work)       
+GAMES011.ATR|Flying Ace                     
+GAMES011.ATR|Time Runner                    
+GAMES011.ATR|Spider Invasion                
+GAMES011.ATR|Starbase Fighter               
+GAMES011.ATR|Swamp Chomp                     
+GAMES011.ATR|Star Trux                      
+GAMES011.ATR|Atari Blackjack Casino          
+GAMES012.ATR|Snowplow		
+GAMES012.ATR|The Last V-8                    
+GAMES012.ATR|Troll War II                    
+GAMES012.ATR|Analog Man                      
+GAMES012.ATR|Snooker                         
+GAMES012.ATR|Gunfight                        
+GAMES012.ATR|Crypts of Plumbous              
+GAMES012.ATR|Attack at EP-CYG-4              
+GAMES012.ATR|Star Sentry                     
+GAMES012.ATR|Race in Space                   
+GAMES012.ATR|Squish 'Em                      
+GAMES012.ATR|Acey Duecy                      
+GAMES012.ATR|Boulders (?)                    
+GAMES012.ATR|Queen of Hearts                 
+GAMES012.ATR|Spirder City                    
+GAMES012.ATR|Final Flight!                   
+GAMES012.ATR|Nineball                        
+GAMES012.ATR|Laser Strike (Atari Space Invade
+GAMES012.ATR|Laser Ants                      
+GAMES012.ATR|Captain Cosmo                   
+GAMES012.ATR|Princess and the Frog           
+GAMES012.ATR|Kamakaze (untested- needs dos?) 
+GAMES012.ATR|Alien Ambush                    
+GAMES012.ATR|Picnic Paranoia
+GAMES012.ATR|Lifespan                        
+GAMES012.ATR|Soccer                          
+GAMES012.ATR|Jigsaws: Baa Baa Black Sheep    
+GAMES012.ATR|Planetary Defense               
+GAMES012.ATR|Cytron Masters                  
+GAMES012.ATR|Tricky Tracks                   
+GAMES012.ATR|Super Asteroids (Atari asteroids
+GAMES012.ATR|Klystron Raider                 
+GAMES012.ATR|Starion (doesnt work-xl?)
+GAMES012.ATR|Sea Chase                       
+GAMES012.ATR|Soccer                          
+GAMES012.ATR|Dark Star (doesnt work-xl)?
+GAMES012.ATR|Moonbase IO                     
+GAMES012.ATR|Crowley Manor                   
+GAMES012.ATR|Astro Grover                    
+GAMES012.ATR|Big Bird's Funhouse             
+GAMES012.ATR|Sesame Street Letter-Go-Round   
+GAMES012.ATR|Delta Drawing                   
+GAMES012.ATR|Kids on Keys                    
+GAMES012.ATR|Incredible Laboratory           
+GAMES012.ATR|Fraction Fever                  
+GAMES012.ATR|SS Achilles                     
+GAMES012.ATR|Pool 1.5                        
+GAMES012.ATR|Steeple Jack                    
+GAMES012.ATR|Pong                            
+GAMES012.ATR|Tetrix                          
+GAMES012.ATR|Highway Duel                    
+GAMES012.ATR|Red Moon                        
+GAMES012.ATR|Speed Ski                       
+GAMES012.ATR|Speed Ski 2 
+GAMES012.ATR|Munsiepede 2 
+GAMES012.ATR|Star Intruder
+GAMES012.ATR|Slide                           
+GAMES012.ATR|Mr. Cool                        
+GAMES012.ATR|Pharaoh's Pyamid                
+GAMES012.ATR|Lunar Defender                  
+GAMES013.ATR|Space Station 2048              
+GAMES013.ATR|Bonk                            
+GAMES013.ATR|Birth of the Phoenix            
+GAMES013.ATR|Whiz Kid Spell                  
+GAMES013.ATR|Escape from Traam               
+GAMES013.ATR|Twogun                          
+GAMES013.ATR|The Designer's Pencil           
+GAMES013.ATR|Droids                          
+GAMES013.ATR|Stars                           
+GAMES013.ATR|Dancing Feats                   
+GAMES013.ATR|Rollem (2 files- requires dos)  
+GAMES013.ATR|Zone X                          
+GAMES013.ATR|Saucer                          
+GAMES013.ATR|Espial                          
+GAMES013.ATR|Jigsaws: London Bridge          
+GAMES013.ATR|Aztec Challenge (Better Crack)  
+GAMES013.ATR|C'Est la Vie                    
+GAMES013.ATR|Moon Beam Arcade                
+GAMES013.ATR|Knockout!                       
+GAMES013.ATR|The Electroids                  
+GAMES013.ATR|Snowball Fite                   
+GAMES013.ATR|Paperweight 
+GAMES013.ATR|Rythmizer AT1                   
+GAMES013.ATR|Blast!                          
+GAMES013.ATR|Homer's Homey Craze             
+GAMES013.ATR|Colossal Cave (Dosent work xl?)
+GAMES013.ATR|Drivers Seat (2 files needs dos)
+GAMES013.ATR|Planet Miners (Basic- oops wrong
+GAMES013.ATR|Fear                            
+GAMES013.ATR|Catapede  (yet another centipdede clone)
+GAMES013.ATR|Ghostbusters w/ voice (unable to
+GAMES013.ATR|Fastgammon                      
+GAMES013.ATR|Syntron (robotron rip off)      
+GAMES013.ATR|Busy Baby                       
+GAMES013.ATR|Atari Blackjack Casino (duplicate)
+GAMES013.ATR|Amazed                          
+GAMES013.ATR|G Men                           
+GAMES013.ATR|Galaxy Defender (doesnt work XL)
+GAMES013.ATR|Fishing Fun (doesnt work xl)?
+GAMES013.ATR|Karate Champ II
+GAMES013.ATR|Chopper Hunt (recycled Buried Bu
+GAMES013.ATR|The Soft Toy (doesnt work xl?)
+GAMES013.ATR|Cosmic Zap                      
+GAMES013.ATR|Atarivia (cracking group game)
+GAMES013.ATR|Boulder Bombers                 
+GAMES013.ATR|One Man and His Droid           
+GAMES013.ATR|Deathzone                       
+GAMES013.ATR|Air Raid                        
+GAMES013.ATR|Big Bird's Special Delivery     
+GAMES013.ATR|Jigsaws: Windsor Castle         
+GAMES013.ATR|Cosmic Life                     
+GAMES013.ATR|Roundabout                      
+GAMES013.ATR|Alphabeta Zoo                   
+GAMES013.ATR|Devil's Dare                    
+GAMES013.ATR|Cellar Terror                   
+GAMES013.ATR|Mongoose (2 files needs dos)
+GAMES013.ATR|Tank Commander                  
+GAMES013.ATR|Attack of the Mutant Camels 
+GAMES013.ATR|Eliza                           
+GAMES013.ATR|Marauder                        
+GAMES014.ATR|Buffalo Stampede                
+GAMES014.ATR|Story Machine                   
+GAMES014.ATR|Jungle Boy                      
+GAMES014.ATR|Captain Sticky's Gold           
+GAMES014.ATR|Blip!                           
+GAMES014.ATR|Into the Eagle's Nest           
+GAMES014.ATR|Airwolf                         
+GAMES014.ATR|Burgers!                        
+GAMES014.ATR|Rocket Repairman                
+GAMES014.ATR|Colony                          
+GAMES014.ATR|Spaceball                       
+GAMES014.ATR|Green Beret                     
+GAMES014.ATR|Crab Nebula                     
+GAMES014.ATR|The Clash of Kings              
+GAMES014.ATR|Ducks Ahoy!                     
+GAMES014.ATR|ET Phone Home!                  
+GAMES014.ATR|Arkanoid                        
+GAMES014.ATR|Meteor                          
+GAMES014.ATR|Savage Pond                     
+GAMES014.ATR|Spy Games                       
+GAMES014.ATR|Electra  (PAL)                  
+GAMES014.ATR|Zeus  (PAL)                     
+GAMES014.ATR|Saper (PAL)                     
+GAMES014.ATR|The Warsaw Robbo                
+GAMES014.ATR|Riot                            
+GAMES014.ATR|Tusker                          
+GAMES014.ATR|Sexversi (PAL)                  
+GAMES014.ATR|Jumping Jack (PAL)              
+GAMES014.ATR|Przemytnik                      
+GAMES014.ATR|Adax (PAL)                      
+GAMES014.ATR|Digi Duck                       
+GAMES014.ATR|Dark Abyss                      
+GAMES014.ATR|Pang (PAL)                      
+GAMES014.ATR|Change (PAL)                    
+GAMES014.ATR|Ship                            
+GAMES014.ATR|Axilox                          
+GAMES014.ATR|Barahir                         
+GAMES014.ATR|Puzmania Schame                 
+GAMES014.ATR|Android (PAL)                   
+GAMES014.ATR|Midnight                        
+GAMES014.ATR|Cyuilizacja                     
+GAMES014.ATR|Krucjata (works sometimes PAL)  
+GAMES014.ATR|Knock!                          
+GAMES014.ATR|Kapitan Planeta                 
+GAMES014.ATR|Wisielec 
+GAMES015.ATR|Screwlight                      
+GAMES015.ATR|Streets                         
+GAMES015.ATR|Cyrtabor                        
+GAMES015.ATR|Wladca                          
+GAMES015.ATR|Major Bronx                     
+GAMES015.ATR|Miecze Valdgira II              
+GAMES015.ATR|Magic Krysztaku                 
+GAMES015.ATR|Hydraulik (PAL)                 
+GAMES015.ATR|Hydraulik                       
+GAMES015.ATR|Dziedzictwo Gigantow            
+GAMES015.ATR|Dagobar (PAL)                   
+GAMES015.ATR|Saper (PAL)                     
+GAMES015.ATR|Najemnik                        
+GAMES015.ATR|Spaer Construction Set          
+GAMES015.ATR|Spy Master                      
+GAMES015.ATR|Cannibals                       
+GAMES015.ATR|Rebound                         
+GAMES015.ATR|Androton                        
+GAMES015.ATR|Firebug                         
+GAMES015.ATR|The Duelists (don't hit break!) 
+GAMES015.ATR|Flash Gordon (aka Spider City)  
+GAMES015.ATR|Revenge of the Plutonian Flies  
+GAMES015.ATR|Cosmic Glob                     
+GAMES015.ATR|Krazy Katerpillars              
+GAMES015.ATR|Labyrinth                       
+GAMES015.ATR|Miecze Valdgira                 
+GAMES015.ATR|The Jet Action  (PAL)           
+GAMES015.ATR|Heart Break (Does this work?)   
+GAMES015.ATR|Drop It (Like Weltris)          
+GAMES015.ATR|Table Football        
+GAMES015.ATR|Burt's Brew Biz!                
+GAMES015.ATR|Despatch Rider                  
+GAMES015.ATR|Trion (in 3d!)                  
+GAMES015.ATR|Deathzone                       
+GAMES015.ATR|Round Up (Like stampede on vcs) 
+GAMES015.ATR|Gato (req. 128k)                
+GAMES015.ATR|Mission                         
+GAMES015.ATR|Ninja Commando                  
+GAMES015.ATR|Moutain Bike Racer              
+GAMES015.ATR|Jocky Wilson's Darts Challenge  
+GAMES016.ATR|Superman: The Game              
+GAMES016.ATR|Blinky's Scary School           
+GAMES016.ATR|Amaurote                        
+GAMES016.ATR|180 (darts)                     
+GAMES016.ATR|Sidewinder II                   
+GAMES016.ATR|Spellbound                      
+GAMES016.ATR|Henry's House                   
+GAMES016.ATR|Typo Attack                     
+GAMES016.ATR|Uridium (PAL)                   
+GAMES016.ATR|Plastron                        
+GAMES016.ATR|Laser Hawk                      
+GAMES016.ATR|Ixion                           
+GAMES016.ATR|Jet Set Willy                   
+GAMES016.ATR|Contagion                       
+GAMES016.ATR|Astro-Droid (PAL)               
+GAMES016.ATR|Thrust                          
+GAMES016.ATR|Zorro (file version-complete?)  
+GAMES016.ATR|Pillbox                         
+GAMES016.ATR|Lode Runner (cart version?)     
+GAMES016.ATR|Pirate's Cove                   
+GAMES016.ATR|Stratosphere                    
+GAMES016.ATR|Prizrak Nuly                    
+GAMES016.ATR|Golfer                          
+GAMES016.ATR|H2o                             
+GAMES016.ATR|Bomb Fusion                     
+GAMES016.ATR|Space Battle                    
+GAMES016.ATR|Matterhorn                      
+GAMES016.ATR|Creep (PAL)                     
+GAMES016.ATR|Demon Racer                     
+GAMES016.ATR|Speed Run                       
+GAMES016.ATR|Gomoku                          
+GAMES016.ATR|BMX Simulator                   
+GAMES016.ATR|The Big House                   
+GAMES016.ATR|Fruit Machine (Slots)           
+GAMES016.ATR|Hivmania                        
+GAMES016.ATR|Kick Off (PAL)                  
+GAMES016.ATR|The Last Guardian               
+GAMES016.ATR|Manuevering                     
+GAMES016.ATR|Tetris 3d                       
+GAMES016.ATR|My Jong                         
+GAMES016.ATR|Track and Field                 
+GAMES016.ATR|Saratoga                        
+GAMES016.ATR|Draconus II                     
+GAMES016.ATR|Black Lamp                      
+GAMES016.ATR|Killer 'Thello                  
+GAMES017.ATR|Asteroids II                    
+GAMES017.ATR|Astrowarriors                   
+GAMES017.ATR|Ankh (How do you play this?)    
+GAMES017.ATR|Bug Hunt (requires Light Gun)   
+GAMES017.ATR|Crystal Raider                  
+GAMES017.ATR|Cimex Rex                       
+GAMES017.ATR|Diamonds (Different version)    
+GAMES017.ATR|Druid                           
+GAMES017.ATR|Excelsor                        
+GAMES017.ATR|Eliminator                      
+GAMES017.ATR|Fire Chief (Beta?)              
+GAMES017.ATR|Fort Apocalpyse (Disk version)  
+GAMES017.ATR|Genetic Drift                   
+GAMES017.ATR|Hockey                          
+GAMES017.ATR|Hijack!                         
+GAMES017.ATR|Heavy Metal                     
+GAMES017.ATR|Keyboard Organ (?)              
+GAMES017.ATR|Killa Cycle                     
+GAMES017.ATR|Krazy Kopter                    
+GAMES017.ATR|Landscape                       
+GAMES017.ATR|Mirax Force                     
+GAMES017.ATR|Maniac!                         
+GAMES017.ATR|Monster Smash!                  
+GAMES017.ATR|Moon Beam Arcade                
+GAMES017.ATR|Nuclear Nick                    
+GAMES017.ATR|Nemo's Vault                    
+GAMES017.ATR|Ollie's Follies                 
+GAMES017.ATR|Olympic Dual                    
+GAMES017.ATR|Panic Express                   
+GAMES017.ATR|Poussinet                       
+GAMES017.ATR|Pool 87                         
+GAMES017.ATR|Poker SAM                       
+GAMES017.ATR|Ruff and Ready                  
+GAMES017.ATR|Sneakers                        
+GAMES017.ATR|Swat                            
+GAMES017.ATR|Twilight World                  
+GAMES017.ATR|Slot Machine                    
+GAMES017.ATR|Snow Ball Fight                 
+GAMES017.ATR|Seawolf II                      
+GAMES017.ATR|Shadow Hawk One                 
+GAMES017.ATR|Snapper, The                    
+GAMES017.ATR|Video Classics                  
+GAMES017.ATR|Warhawk (PAL)                   
+GAMES017.ATR|Winter Wally                    
+GAMES017.ATR|Zeppelin (Cheat)                
+GAMES017.ATR|Spiky Harold                    
+GAMES017.ATR|Timeslip                        
+GAMES017.ATR|Thrust                          
+GAMES017.ATR|Saratoga                        
+GAMES017.ATR|Panther                         
+GAMES018.ATR|Bank Bang!                      
+GAMES018.ATR|Captain Gather (PAL)            
+GAMES018.ATR|Darkness Hour                   
+GAMES018.ATR|Jaffar                          
+GAMES018.ATR|Kult                            
+GAMES018.ATR|Micro Man                       
+GAMES018.ATR|Microx                          
+GAMES018.ATR|Montstrum                       
+GAMES018.ATR|Shit                            
+GAMES018.ATR|Smus                            
+GAMES018.ATR|Snowball                        
+GAMES018.ATR|Aurum                           
+GAMES018.ATR|Tanks                           
+GAMES018.ATR|The Jet Action                  
+GAMES018.ATR|Thinker                         
+GAMES018.ATR|Trix (Columns)                  
+GAMES018.ATR|Turbican                        
+GAMES018.ATR|U 235                           
+GAMES018.ATR|Upior                           
+GAMES018.ATR|Whoops 2                        
+GAMES018.ATR|Zbir                            
+GAMES018.ATR|Ball Trap (compiled basic crap) 
+GAMES018.ATR|Boing II                        
+GAMES018.ATR|Bricklayer                      
+GAMES018.ATR|Da' Fuzz                        
+GAMES018.ATR|Dizzy Dice                      
+GAMES018.ATR|Escape from Doomworld           
+GAMES018.ATR|Evolution                       
+GAMES018.ATR|Genesis                         
+GAMES018.ATR|Gun Powder Charlie              
+GAMES018.ATR|Hearts                          
+GAMES018.ATR|Hlavolam 1                      
+GAMES018.ATR|Hlavolam 2                      
+GAMES018.ATR|Jump!                           
+GAMES018.ATR|Jurrasic Park                   
+GAMES018.ATR|Kasiarz                         
+GAMES018.ATR|Logo-Square                     
+GAMES018.ATR|Lowca                           
+GAMES018.ATR|Nexuss                          
+GAMES018.ATR|Parker Brothers Chess           
+GAMES018.ATR|Pond                            
+GAMES018.ATR|Professor I.Q.                  
+GAMES018.ATR|Quadron                         
+GAMES018.ATR|Robin Wojowik Czasu             
+GAMES018.ATR|Sargon III                      
+GAMES018.ATR|Sysyphos                        
+GAMES018.ATR|Spy's Demise (Disk Version)     
+GAMES019.ATR|Speed Matter                    
+GAMES019.ATR|Static                          
+GAMES019.ATR|Technoid                        
+GAMES019.ATR|Triumph                         
+GAMES019.ATR|Vegas Jackpot                   
+GAMES019.ATR|Yogi's Great Escape             
+GAMES019.ATR|Zardon                          
+GAMES019.ATR|Invasion                        
+GAMES019.ATR|Space Hawk (title scr messed up)
+GAMES019.ATR|Cavern Eriban (?)               
+GAMES019.ATR|Spy's Demise (Cassette Version) 
+GAMES019.ATR|Starquake                       
+GAMES019.ATR|Jumpjet                         
+GAMES019.ATR|Breath of the Dragon            
+GAMES019.ATR|Frogs and Flies                 
+GAMES019.ATR|Milk Race                       
+GAMES019.ATR|Monkey Magic                    
+GAMES019.ATR|Dimension X (better crack)      
+GAMES019.ATR|Fidget                          
+GAMES019.ATR|Master Chess                    
+GAMES019.ATR|Cuttlemania! (PAL)              
+GAMES019.ATR|Zorro (cassette version)        
+GAMES019.ATR|Sun Star                        
+GAMES019.ATR|Power Down                      
+GAMES019.ATR|Tapei XL                        
+GAMES019.ATR|Groove (PAL)                    
+GAMES019.ATR|Viper                           
+GAMES019.ATR|Ninja Master                    
+GAMES019.ATR|Joe Blade                       
+GAMES019.ATR|Lost Tomb                       
+GAMES019.ATR|Darg                            
+GAMES019.ATR|Mike's Casino                   
+GAMES019.ATR|Trial By Fire!                  
+GAMES019.ATR|Thera Med Toothpaste            
+GAMES019.ATR|Stone Fire                      
+GAMES019.ATR|Slither                         
+GAMES019.ATR|Rambug II                       
+GAMES019.ATR|Motorcycle Maze                 
+GAMES019.ATR|K-Robbo No 1                    
+GAMES019.ATR|K-Robbo No 2                    
+GAMES019.ATR|K-Robbo No 3                    
+GAMES019.ATR|K-Robbo No 4                    
+GAMES019.ATR|Mig Alley Ace                   
+GAMES019.ATR|Leaper                          
+GAMES019.ATR|Last Chance                     
+GAMES019.ATR|Microdeal Shuttle               
+GAMES019.ATR|Munchy Madness (Quest for Hearts)
+GAMES019.ATR|R.O.T.O.                        
+GAMES019.ATR|Colossus Chess 4.1              
+GAMES019.ATR|Gladiator                       
+GAMES020.ATR|Megablast I: Prepare to Die
+GAMES020.ATR|Bewesoft's Race
+GAMES020.ATR|Emil-Hilf
+GAMES020.ATR|Zahlrat
+GAMES020.ATR|Bilbo
+GAMES020.ATR|Sludge
+GAMES020.ATR|Wyzle!
+GAMES020.ATR|Matrix
+GAMES020.ATR|Block Puzzle
+GAMES020.ATR|Robox
+GAMES020.ATR|Dungeonlords
+GAMES020.ATR|Checkers
+GAMES020.ATR|Boulder Dash (3)
+GAMES020.ATR|Cambodia
+GAMES020.ATR|Captain Beeble
+GAMES020.ATR|Captain Cosmo
+GAMES020.ATR|Carnival Massacre
+GAMES020.ATR|Colossus (chess) 3.0
+GAMES020.ATR|Crazy Clown Jumper
+GAMES020.ATR|Boulder Dash (4)
+GAMES020.ATR|Planetary Defense
+GAMES020.ATR|Fill'Er Up! II
+GAMES020.ATR|Floyd the Droid Goes Blastin'
+GAMES020.ATR|Game of Live!
+GAMES020.ATR|Storm
+GAMES020.ATR|Night Strike!
+GAMES020.ATR|Bank Panik
+GAMES020.ATR|Space Shuttle: A Journey Into Space
+GAMES020.ATR|Speed King
+GAMES020.ATR|Eggard 
+GAMES020.ATR|Little Devil
+GAMES020.ATR|Planet Attack
+GAMES020.ATR|King of the Ring
+GAMES020.ATR|House of Usher
+GAMES020.ATR|SS Achilles
+GAMES020.ATR|Misja
+GAMES020.ATR|SOS Saturn
+GAMES020.ATR|Droga Wojownika
+GAMES020.ATR|Deimos
+GAMES020.ATR|Vicky
+GAMES020.ATR|Syn Boga Wiatru
+GAMES020.ATR|Simple Minds
+GAMES020.ATR|Mines!
+GAMES020.ATR|Lizard
+GAMES020.ATR|The Citadel

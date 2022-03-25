@@ -1,0 +1,327 @@
+#!/bin/bash
+
+# Basisverzeichnis der Atari-Programme OHNE abschliessnden Slash
+BASEDIR="/usr/share/atari"
+# Feste startoptionen fuer atari800
+STARTOPTIONS="-width 800 -height 600 -windowed"
+# Pfad zur bevorzugten DOS-Disk
+DOSDISKPATH="/usr/share/atari/XL_Proggies/XL-DISKS_Lars/TURBO.XFD"
+
+USAGE="Benutzung: runxl [-lhosr] [-n number] Suchbegriff"
+
+HELP=$( cat << EOF
+runxl v.1.3.4 - Programm zum komfortablen Starten des Atari800-Emulators
+Benutzung: runxl [-lhosefbd] [-n number] Suchbegriff
+
+Der Suchbegriff wird zur Suche in den Dateinamen der Atari-Programme verwendet 
+Ohne weitere Optionen wird eine Liste der auf den Suchbegriff passenden
+Programme gezeigt und interaktiv nach der Nummer des zu startenden Programmes
+gefragt..
+
+Optionen:
+-h        Diese Meldung (Hilfe)
+-l        nur Programme auflisten, nicht nach Startnummer fragen
+-n <num>  Starte Programm Nr. <num> aus der Ergebnisliste, die mit -l angezeigt wird
+-r        Starte das erstbeste passende Programm
+
+Emulatoroptionen:
+-f        Fullscreen
+-o        alten Atari 800 emulieren
+-e        emuliere 130XE mit 128 KB
+-b        Boot mit eigeschaltetem BASIC
+-d        Boot einer DOS-Diskette, Programmdisk in D2
+-s        Zeige Emulatorgeschwindigkeit in %
+EOF
+)
+
+# Interne Variablen:
+
+# MODI (interne verwendung)
+# 0 = starten des erstbesten Programmes
+# 1 = Programme auflisten
+# 2 = bestimmtes Programm starten
+# 3 = erst auflisten, dann Programmnamen abfragen und starten
+MODE=3
+
+# Option zum starten eines bestimmten programmtyps für den Emulator
+RUNCMD=""
+
+# zusätzliche optionen für den Emulator
+OPTIONS=""
+
+# Verwendet fuer spezielle optionen fuer z.b. Yogi-Disks, wird dynamisch mit dem Pfad zum loader gefÃ¼llt
+DISKEMUPTS=""
+
+# Funktionen:
+
+# --------------------------------------------------------------------------------
+# Numeriertes Auflisten aller Dateien in denen $GAMENAME vorkommt 
+listprogs()
+{
+   createlist
+   if [ "$NUMFINDS" -gt "0" ]; then
+       echo
+       echo "   Nr.  Name"
+       echo "--------------------------------------------------------------"
+
+       # Namen herausklauben, numerieren, anzeigen
+       cat /tmp/atarilist | cut -d '|' -f 2 | nl
+       echo
+       rm /tmp/atarilist
+   else
+       echo "Kein Programm gefunden."
+   fi
+}
+
+# --------------------------------------------------------------------------------
+# Erstelle eine temporaere Liste der gesuchten Programme in /tmp/atarilist
+# und ermittle Anzahl der Eintraege (in $NUMFINDS)
+# Aufbau der Liste:
+# Pfad zum disk-image oder atari-executable|Angezeigter Name|Zusaetzliche Emulator-Optionen
+createlist()
+{
+   # Suche files nach Dateinamen und schreibe die Funde in die Datei flist
+   find $BASEDIR -iname "*$GAMENAME*" -type f | grep "[axcbe][teafiox][rxsdnme]$" | awk -F"/" '
+      {
+         printf("%s|%s|\n",$0,$NF) 
+      }' > /tmp/flist
+
+   # Suche in runxmlindex*.text und haenge die Funde an die Ergebnisliste an
+   # Die erste Zeile von runxmlindex enthaelt den Namen der Disk
+   # Die zweite Zeile die Zusatzoptionen zum Starten des Emulators die fuer alle indizierten Files gelten. 
+   # Bei den Yogi-Disks ist es das Yogiloader-Image
+   # Eine Index-Zeile ist folgendermassen aufgebaut:
+   # Dateiname Disk-Image (ohne Pfad)|Angezeigter Name des Spiels|Emulator-optionen 
+   # (z.b. wenn das Spiel nicht auf einem XL laeuft, oder ein DOS gebootet werden muss)
+   find -L $BASEDIR -iname "runxlindex*.txt" -type f -exec awk -F"|" '
+      BEGIN { 
+         IGNORECASE = 1;
+      }
+      {
+         # Erste Zeile der Indexdatei auswerten
+         if (NR == 1) {
+            # Titel der Disk(s) die durch die aktuelle Datei indiziert sind
+            diskname=$0;
+
+            # Pfad zur Indexdatei ermitteln, ist geleichzeitig Pfad zu den indizierten Disks
+            mindex = match(FILENAME, "^.*/");
+            filepath = substr(FILENAME,1,RLENGTH);
+         }
+
+         # Zweite Zeile der Indexdatei
+         if (NR == 2) {
+            diskopts=$0
+         }
+      }
+      tolower($2) ~ /'$GAMENAME'/ {
+         if (NR > 2) {
+            gsub(/[ \t]+$/, "", $2);
+            printf("%s%s|%s (%s)|%s %s\n",filepath,$1,$2,diskname,$3,diskopts);
+         }
+      }
+   ' {} \; > /tmp/ilist
+
+
+   echo "--------------ilist:------------"
+   cat /tmp/flist
+   echo "--------------ilist:------------"
+   cat /tmp/ilist
+
+   echo "--------------filtered:------------"
+   awk -F"|" '
+      BEGIN {
+         while ((getline < "/tmp/ilist") > 0)
+            myarray[$1] = $1
+      }
+      {
+         if (!($1 in myarray))
+            printf("%s\n",$0)
+      }' /tmp/flist
+
+
+exit
+#   sort -t '|' -k2 /tmp/alist > /tmp/atarilist
+#   NUMFINDS=$(cat /tmp/atarilist | wc -l)
+#   rm /tmp/alist
+}
+
+# --------------------------------------------------------------------------------
+# Auswaehlen des Atari-Programmes Nr. $GAMENUMBER aus der Liste der auf $GAMENAME
+# passenden files. Vollstaendiger Pfad befindet sich in $AFILE
+findprog()
+{
+   createlist
+   if ([ "$GAMENUMBER" -le "$NUMFINDS" ] && [ "$GAMENUMBER" -ge "1" ]) then 
+      # Pfad lesen
+      AFILE=$(cat /tmp/atarilist | head -$GAMENUMBER | tail -1 | cut -d '|' -f1)
+
+      # lesen der zusatzoptionen, bei normalen programmen leer, bei yogi-disks pfad zum loader
+      DISKEMUOPTS=$(cat /tmp/atarilist | head -$GAMENUMBER | tail -1 | cut -d '|' -f3)
+   else
+      echo "Programmnummer muss zwischen 1 und $NUMFINDS liegen."
+      exit
+   fi
+   rm /tmp/atarilist
+}
+
+# --------------------------------------------------------------------------------
+#  Finde das erste atari-programm in dessen Dateinamen $GAMENAME vorkommt
+# VollstÃ¤ndiger Pfad befindet sich in $AFILE
+findfirstprog()
+{
+   AFILE=$(find $BASEDIR -iname "*$GAMENAME*atr" -type f | head -1)
+   if [ "$AFILE" == "" ]; then
+      AFILE=$(find $BASEDIR -iname "*$GAMENAME*xfd" -type f | head -1)
+      if [ "$AFILE" == "" ]; then
+         AFILE=$(find $BASEDIR -iname "*$GAMENAME*xex" -type f | head -1)
+      fi
+   fi
+}
+# --------------------------------------------------------------------------------
+
+if [ $# -lt 1 ]; then
+   echo "$USAGE"
+   exit 1
+fi
+
+# Gamename ist immer letztes Argument, in variable Ã¼berfÃ¼hren
+GNAME=${@: -1}
+# in lowercase wandeln
+GAMENAME=${GNAME,,}
+
+if [ ${GAMENAME:0:1} == "-" -a $GAMENAME != "-h"  ]; then
+   echo "$USAGE"
+   exit 1
+fi
+
+# Parameter auswerten
+while getopts n:lhosrefbd OPT; do
+  case $OPT in
+     l)
+        # programme auflisten
+        if [ $# -lt 2 ]; then
+           echo "$USAGE"
+           exit 1
+        fi
+        MODE=1
+        ;;
+     r) # erstes der gefundenen Programme starten
+        MODE=0
+        ;;
+     n)
+        # Bestimmtes programm aus der Liste starten
+        MODE=2
+        GAMENUMBER=$OPTARG
+        ;;
+     h)
+        # Help
+        echo "$HELP"
+        exit
+        ;;
+     o)
+        # o = old Atari 400/800
+        OPTIONS="-atari"
+        ;;
+     e)
+        # e = Atari 130 XE
+        OPTIONS="-xe"
+        ;;
+     s)
+        # s = show speed
+        OPTIONS="$OPTIONS -showspeed"
+        ;;
+     f)
+        # f = fullscreen
+        OPTIONS="$OPTIONS -fullscreen"
+        ;;
+     b)
+        # b = basic
+        OPTIONS="$OPTIONS -basic"
+        ;;
+     d)
+        # d = DOS
+        OPTIONS="$OPTIONS $DOSDISKPATH"
+        ;;
+     \?)
+        #echo "Falscher Parameter: -$OPT" >&2
+        exit 1
+        ;;
+  esac
+done
+
+case $MODE in
+   0) # -r suchen und starten des ersten passenden Programmes
+      findfirstprog
+      ;;
+   1) # -l Auflisten der gefundenen programme
+      listprogs
+      exit
+      ;;
+   2) # -n starten eines bestimmten programmes aus der liste
+      findprog
+      ;;
+   3) # ohne parameter: Auflisten der Programme aund Abfragen welches davon gestartet werden soll
+      listprogs
+      # Interaktives Abfragen der Spielenummer
+      if [ "$NUMFINDS" -eq 0 ];
+      then
+	 exit
+      fi
+      echo "Welches Programm starten? [1-$NUMFINDS]"
+      read GAMENUMBER
+
+      # Test ob eingabe numerisch ist, ansonsten Scriptende
+      if [[ $GAMENUMBER =~ ^[0-9]+$ ]]; then
+         findprog
+      else
+         exit
+      fi
+      ;;
+esac
+
+# Pfad zum Programm ist ermittelt, starten
+if [ "$AFILE" != "" ];
+then
+   EXTENSION="`echo ${AFILE: -3}|tr '[:upper:]' '[:lower:]'`"
+   case $EXTENSION in
+      xex|com|exe)
+         RUNCMD="-run"
+         ;;
+      atr|xfd)
+         RUNCMD=""
+         ;;
+      bas|lst)
+         RUNCMD="-basic -run"
+         ;;
+      cas)
+         RUNCMD="-boottape"
+         ;;
+      rom|bin)
+         RUNCMD="-cart"
+         ;;
+      *)
+         echo "Unbekannter Dateityp: $EXTENSION"
+         exit
+         ;;
+   esac
+else
+   echo "$GAMENAME nicht gefunden."
+   exit
+fi
+
+if [ "$MODE" -eq "0" -o "$MODE" -eq "2" ]; then
+  echo  \"`basename "$AFILE"`\" "  starten? [J/n]"
+  read TASTE
+fi
+
+if [ "$TASTE" == "n" ]; then
+   echo "dann eben nicht."
+else
+  # Erzeugen und ausfÃ¼hren des Startscriptes
+  #echo  "atari800 $STARTOPTIONS $OPTIONS $DISKEMUOPTS $RUNCMD '$AFILE'" > /tmp/atariscript
+  #chmod +x /tmp/atariscript
+  #/tmp/atariscript
+  #rm /tmp/atariscript
+fi
+exit
+

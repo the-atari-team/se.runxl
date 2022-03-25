@@ -1,0 +1,185 @@
+Lars' Atari Disks
+
+01A.xfd|Mario Brothers|-atari
+01A.xfd|Keystone Kapers|
+01A.xfd|Quasimodo|                     
+01A.xfd|Q*Bert|                     
+01A.xfd|Atari Music Composer (DOS)|{dos}
+01A.xfd|Rally Speedway|                     
+01A.xfd|Pengo|                     
+01A.xfd|Crossfire|                     
+01A.xfd|Sound in Stereo|-atari -b                     
+01A.xfd|Master of Time Sound|
+01B.xfd|Pogo Joe|-atari -b
+01B.xfd|Rainbow Walker|
+01B.xfd|Raster Blaster|
+01B.xfd|The Rotberg Synthesizer|-atari -b
+01B.xfd|Pitfall II|
+01B.xfd|Dimension X|
+01B.xfd|Blue Max: 2001|
+01C.xfd|Turbo Dos XL|
+01C.xfd|Buried Buck$|
+02A.xfd|Archon|
+02A.xfd|Bruce Lee|
+02A.xfd|Wizard of Wor|
+02A.xfd|Embargo|-atari -b
+02A.xfd|Chomper|
+02A.xfd|Mr. TNT|
+02A.xfd|Getaway|
+02A.xfd|River Raid|
+02A.xfd|Spies Demise (crash?)|
+02A.xfd|Gorf|
+02A.xfd|Star Raiders|
+02B.xfd|Richard Petty's Talladega (Rennzirkus)|
+02B.xfd|Ball Blaster|
+02B.xfd|Ghost Encounter|
+02B.xfd|Gomulu|
+02B.xfd|Adventure Write (DOS)|{dos}
+02B.xfd|Up'n Down|
+02B.xfd|Mr. Dig|-b
+02B.xfd|Destination Unknown|
+02B.xfd|Java Jim|
+02B.xfd|Capture The Flag|
+03A.xfd|Locomotion|
+03A.xfd|Sentinel I|
+03A.xfd|Robot Battle|
+03A.xfd|Amphibian!|
+03A.xfd|K-Razy Antics|
+03A.xfd|Night Strike|
+03A.xfd|Jumpman Jr.|
+03B.xfd|Caverns of Mars II|
+03B.xfd|Nautilus|-b
+03B.xfd|Montezuma's Revenge|
+03B.xfd|Amphibian!|
+03B.xfd|Letter Perfect (DOS)|{dos}
+03B.xfd|VisiCalc (DOS)|{dos}
+03B.xfd|Bootleg|
+03B.xfd|Henri (Dig Dug Clone)|
+03B.xfd|Shadow World|
+04A.xfd|Jungle Hunt|
+04A.xfd|Star Wars|
+04A.xfd|Aztec Challenge|
+04A.xfd|Robotron 2084|
+04A.xfd|Gyruss|
+04A.xfd|Decathlon|
+04A.xfd|The last Starfighter|
+04A.xfd|Landscape|
+04B.xfd|H.E.R.O. (hero)|
+04B.xfd|Pole Position Race Designer|
+04B.xfd|Atari Tennis|
+04B.xfd|Atlantis|
+04B.xfd|Soccer|
+04B.xfd|Hockey|
+04B.xfd|Encounter|
+04B.xfd|3D Tic Tac Toe|
+04B.xfd|Sargon II chess|
+04B.xfd|Pitfall|
+04B.xfd|James Bond 007|
+05A.xfd|Donkey Kong Jr.|
+05A.xfd|Fire Bird|
+05A.xfd|Hover Bover|
+05A.xfd|Hard Hat Willy|
+05A.xfd|Losttomb|
+05A.xfd|Scroll of Abadom|-b
+05A.xfd|Robin Hood|
+05A.xfd|Submarine Commander|
+05A.xfd|Space Invaders|
+05B.xfd|Atari Basket Ball|
+05B.xfd|Joust|
+05B.xfd|Mr. Robot|-a
+05B.xfd|Blue Max|
+05B.xfd|Quix|
+05B.xfd|Caverns of Mars I|
+05B.xfd|Night Mission Pinball|
+05B.xfd|Pogoman|
+05B.xfd|Tumblebugs|
+06A.xfd|Breakout|
+06A.xfd|Eastern Front 1941|
+06A.xfd|Trion|
+06A.xfd|Pinhead|
+06A.xfd|Eliminator|-b
+06A.xfd|Protektor II|-b
+06A.xfd|Journey to the Planets|
+06A.xfd|Frogger|
+06A.xfd|Asteroids|
+06B.xfd|Buggy|
+06B.xfd|Jumbo Jet Pilot II|
+06B.xfd|Galactic Chase|
+06B.xfd|Chicken|
+06B.xfd|Missile Commander|
+06B.xfd|Boulder Dash|
+06B.xfd|Moon Patrol|-b
+06B.xfd|Pole Position X|
+06B.xfd|BC's Quest for Tires|
+06B.xfd|Cosmic Tunnels|
+06B.xfd|Phobos|
+07A.xfd|Clowns & Baloons|
+07A.xfd|Q-Bert|
+07A.xfd|Pac-Man II|
+07A.xfd|Super Cobra|
+07A.xfd|Pooyan|
+07A.xfd|Pit Stop|
+07A.xfd|Star League Baseball|
+07A.xfd|Canyon Climber|
+07A.xfd|Los Angeles 1984 Games|
+07A.xfd|Fort Apocalypse|
+07A.xfd|Zenji|
+07B.xfd|Choplifter|
+07B.xfd|Star Sentry|
+07B.xfd|Dark Star|-a
+07B.xfd|Dreadnought Factor|-a
+07B.xfd|Buck Rogers|
+07B.xfd|Cannibals|
+07B.xfd|Rosens Brigade|
+07B.xfd|Flash Gordon|
+08A.xfd|Spy Hunter|
+08A.xfd|Laser gates|
+08A.xfd|Attack of the Mutant Camels|
+08A.xfd|Dropzone|
+08A.xfd|Flak!|
+08A.xfd|Zone Ranger|
+08A.xfd|Mr. Do's Castle|
+08A.xfd|Stealth|
+08B.xfd|Allay Cat|
+08B.xfd|Mr. Do|
+08B.xfd|Star Wars - The Empire strikes back|
+08B.xfd|Special Delivery|-b
+08B.xfd|Espial|
+08B.xfd|River Rescue|
+08B.xfd|Porky|
+08B.xfd|Aztec Challenge|
+10A.xfd|Cavelord|
+10A.xfd|Cavelord|
+10A.xfd|Medit (DOS)|{dos}
+10A.xfd|Sky Blazer|
+10A.xfd|Captain Beeble|
+10A.xfd|XLload|
+10A.xfd|Pahrao's Curse|-b
+10A.xfd|Sea Dragon|
+10A.xfd|Zeppelin|
+10A.xfd|Highrise|
+10B.xfd|Super Pac-Man|
+10B.xfd|Beamrider|
+10B.xfd|Ollie's Follies|
+10B.xfd|Astrochase|
+10B.xfd|Centipede|
+10B.xfd|Super Pac-Man|
+11A.xfd|Roundabout|
+11A.xfd|Twerps|
+11A.xfd|Congo Bongo|
+11A.xfd|Montezuma's Revenge|
+11A.xfd|Donkey Kong|
+11A.xfd|Dig Dug|
+11A.xfd|Miner 2049er|
+11A.xfd|Manager 1350 (DOS)|{dos}
+11B.xfd|Springer|
+11B.xfd|Pastfinder|
+11B.xfd|Quasimodo|
+11B.xfd|Super Zaxxon III|
+11B.xfd|C'est la vie!|-b
+11B.xfd|Frantic!|
+11B.xfd|Berzerk|
+11B.xfd|Cruncher (DOS)|-b {dos}
+11B.xfd|Cuttlemania|
+11B.xfd|Bank Panic|
+

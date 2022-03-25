@@ -1,0 +1,59 @@
+#!/bin/bash
+# Script zum Erstellen einer runxlindex.txt Datei, die nachher angepasst werden MUSS
+# Es wird eine indexdatei fuer die Files im aktuellen Verzichnis erzeugt.
+# Version 1.1 - 09.01.2014
+
+
+if [ "$1" == "-h"  ] || [ "$1" == "--help" ]; then
+   echo "Makeindex 1.1 - Erzeugt ein standard-Indexfile (runxlindex.txt) aus den Files des aktuellen Verzeichnisses."
+   echo "Das indexfile muss danach den Erfordernissen angepasst werden."
+   echo "usage:"
+   echo "   makeindex [-f|-h|--help]"
+   echo "         -f : Überschreibt vorhandene runxlindex.txt"
+   echo "         -h, --help : diese Meldung"
+   echo
+   exit
+fi
+
+if [ "$1" == "-f" ]; then
+   rm -f runxlindex.txt
+fi
+
+if [ -e "runxlindex.txt" ]; then
+   echo "runxlindex.txt existiert bereits. Verwende -f zum Überbügeln."
+   echo
+   exit
+fi
+
+echo "Name der Sammlung" > runxlindex.txt
+echo "<Globale Emulatoroptionen, Zeile komplett leeren falls keine benötigt werden>" >> runxlindex.txt
+
+# Suche files nach Dateinamen und schreibe die Funde in die Datei runxlindex.txt
+find -maxdepth 1 -type f |  egrep -i "exe|atr|xfd|xex|com|bin|cas|bas|lst$" | awk -F"/" '
+BEGIN {
+   IGNORECASE=1;
+}
+{
+   ext=tolower(substr($NF,length($NF)-2,3));
+   #printf("ext ist %s /n",ext);
+   param1="";
+   param2="";
+   param3="";
+   if (match(tolower($NF), "\-bas") || ext == "bas" || ext =="lst") {
+      param1="-basic";
+   }
+   if (match($NF, "\-800")) {
+      param2=" -atari";
+   }
+   if (ext == "cas") {
+      param3=" -boottape";
+   }
+
+   printf("%s|%s|%s%s%s\n",$NF,substr($NF,1,length($NF)-4),param1,param2,param3) 
+}' >> runxlindex.tmp
+sort -t '|' -k2 runxlindex.tmp >> runxlindex.txt
+rm runxlindex.tmp
+echo "runxlindex.txt erzeugt. Bitte überprüfen und editieren."
+echo
+
+

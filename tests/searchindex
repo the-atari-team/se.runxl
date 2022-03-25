@@ -1,0 +1,33 @@
+#!/bin/bash
+BASEDIR="/usr/share/atari"
+
+   find -L $BASEDIR -iname "runxlindex*.txt" -type f -exec awk -F"|" '
+      BEGIN { 
+         IGNORECASE = 1;
+      }
+      {
+         # Erste Zeile der Indexdatei auswerten
+         if (NR == 1) {
+            # Titel der Disk(s) die durch die aktuelle Datei indiziert sind
+            diskname=$0;
+
+            # Pfad zur Indexdatei ermitteln, ist geleichzeitig Pfad zu den indizierten Disks
+            mindex = match(FILENAME, "^.*/");
+            filepath = substr(FILENAME,1,RLENGTH);
+         }
+
+         # Zweite Zeile der Indexdatei
+         if (NR == 2) {
+            diskopts=$0
+         }
+      }
+      tolower($2) ~ /'visicalc'/ {
+         if (NR > 2) {
+            gsub(/[ \t]+$/, "", $2);
+            printf("%s|%s (%s)|%s %s\n",$1,$2,diskname,$3,diskopts);
+         }
+      }
+   ' {} \; 
+
+exit
+

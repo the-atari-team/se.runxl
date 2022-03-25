@@ -1,0 +1,1888 @@
+Holmes 1: Applications
+
+1030 Express 2.1.atr|1030 Express 2.1|
+1050 Disk Diagnostics.atr|1050 Disk Diagnostics|
+1050 Menu 2.2.atr|1050 Menu 2.2|
+1050 Speedy HS System.atr|1050 Speedy HS System|
+1050 to Kiwi Chip Archiver.atr|1050 to Kiwi Chip Archiver|
+1050 US Duplicator Rev4 Disk A Side 1.atr|1050 US Duplicator Rev4 Disk A Side 1|
+1050 US Duplicator Rev4 Disk A Side 2.atr|1050 US Duplicator Rev4 Disk A Side 2|
+1050 US Duplicator Rev4 Disk B Side 1.atr|1050 US Duplicator Rev4 Disk B Side 1|
+1050 US Duplicator Rev4 Disk B Side 2.atr|1050 US Duplicator Rev4 Disk B Side 2|
+1050 US Duplicator Rev4 Side 1.atr|1050 US Duplicator Rev4 Side 1|
+1050 US Duplicator Rev4 Side 2.atr|1050 US Duplicator Rev4 Side 2|
+1050 US Duplicator Rev5 disk 2.atr|1050 US Duplicator Rev5 disk 2|
+1050 US Duplicator Rev5 disk 3.atr|1050 US Duplicator Rev5 disk 3|
+1050 US Duplicator Rev5 Side 1.atr|1050 US Duplicator Rev5 Side 1|
+1050 US Duplicator Rev5 Side 2.atr|1050 US Duplicator Rev5 Side 2|
+1050 US Duplicator Rev5 Side 3.atr|1050 US Duplicator Rev5 Side 3|
+1050 US Duplicator Rev5 Side 4.atr|1050 US Duplicator Rev5 Side 4|
+1050 US Duplicator Rev5 Side 5.atr|1050 US Duplicator Rev5 Side 5|
+1050 US Duplicator Rev5 Side 6.atr|1050 US Duplicator Rev5 Side 6|
+1090xl Text Docs.atr|1090xl Text Docs|
+130XE Assembler A.atr|130XE Assembler A|-xe
+130XE Assembler B.atr|130XE Assembler B|-xe
+130XE Duplicator.atr|130XE Duplicator|-xe
+130XE One Pass Disk Copier.atr|130XE One Pass Disk Copier|-xe
+130xe Spell Magic Rev 5 A.atr|130xe Spell Magic Rev 5 A|-xe
+130xe Spell Magic Rev 5 B.atr|130xe Spell Magic Rev 5 B|-xe
+130xe Spell Magic Rev 5 C.atr|130xe Spell Magic Rev 5 C|-xe
+130xe Spell Magic Rev 5 D.atr|130xe Spell Magic Rev 5 D|-xe
+1 Drive Copy.atr|1 Drive Copy|
+6502 Assembler 1.0 -800b.atr|6502 Assembler 1.0|-b
+80 Columns.atr|80 Columns|
+810 Master Disk DOS 2.0s.atr|810 Master Disk DOS 2.0s|
+850 & 830 Reference Text.atr|850 & 830 Reference Text|
+850 Express 1.0.atr|850 Express 1.0|
+850 Express 1.1.atr|850 Express 1.1|
+850 Express 3.0.atr|850 Express 3.0|
+850 Express 3.00p A.atr|850 Express 3.00p A|
+850 Express 3.00p B.atr|850 Express 3.00p B|
+A2AT.atr|A2AT|
+A8 Jdpeg Jpeg Viewer.atr|A8 Jdpeg Jpeg Viewer|
+ABC A Basic Compiler 1.02.atr|ABC A Basic Compiler 1.02|
+ABC A Basic Compiler 1.03 [pro].atr|ABC A Basic Compiler 1.03 [pro]|
+ABC A Basic Compiler 1.05.atr|ABC A Basic Compiler 1.05|
+Accounts Payable -basic.atr|Accounts Payable|-basic
+Accounts Receivable -basic.atr|Accounts Receivable|-basic
+Ace C Compiler.atr|Ace C Compiler|
+Action.atr|Action|
+Action [alt].atr|Action [alt]|
+Action Data A.atr|Action Data A|
+Action Data B.atr|Action Data B|
+Action demos A.atr|Action demos A|
+Action demos B.atr|Action demos B|
+Action Tool Kit.atr|Action Tool Kit|
+Action Tutor A.atr|Action Tutor A|
+Action Tutor B.atr|Action Tutor B|
+Action Tutor C.atr|Action Tutor C|
+Admenu System 1 to 4.atr|Admenu System 1 to 4|
+Admenu System 5 to 8.atr|Admenu System 5 to 8|
+Advanced Atari Protection Techniques.atr|Advanced Atari Protection Techniques|
+Advanced Music System.atr|Advanced Music System|
+Advanced Software Protection Techniques -bas.atr|Advanced Software Protection Techniques -bas|
+Adventure Helper.atr|Adventure Helper|
+Adventure Hints No.6 -800b.atr|Adventure Hints No.6|-b
+A Financial Wizard -basic.atr|A Financial Wizard|-basic
+AIDS Tools Pack.atr|AIDS Tools Pack|
+AlfArc View 2.53.atr|AlfArc View 2.53|
+Alfback MIO Backup Utility 1.0.atr|Alfback MIO Backup Utility 1.0|
+Alf Cruncher 1.4.atr|Alf Cruncher 1.4|
+Alfrestore Utility 1.0.atr|Alfrestore Utility 1.0|
+Alf Uncrunch 1.4.atr|Alf Uncrunch 1.4|
+Alpha-Load Delete.atr|Alpha-Load Delete|
+Alpha-Load Format.atr|Alpha-Load Format|
+Alpha-Load Format 2.atr|Alpha-Load Format 2|
+Alpha-Load Menu Fonts 1.2.atr|Alpha-Load Menu Fonts 1.2|
+Alpha-Load Menu Fonts 3.atr|Alpha-Load Menu Fonts 3|
+Alpha-Load Menu Maker 2.atr|Alpha-Load Menu Maker 2|
+Alpha-Load Menu Maker A.atr|Alpha-Load Menu Maker A|
+Alpha-Load Menu Maker B.atr|Alpha-Load Menu Maker B|
+Alpha-Load Menu Maker [LPS].atr|Alpha-Load Menu Maker [LPS]|
+Alpha-Load Punk Menu Maker.atr|Alpha-Load Punk Menu Maker|
+Alpha-Load Punk Menu Update.atr|Alpha-Load Punk Menu Update|
+Alpha-Load Rename.atr|Alpha-Load Rename|
+Alpha-Load Transfer.atr|Alpha-Load Transfer|
+Alpha-Load Transfer 2.atr|Alpha-Load Transfer 2|
+Alpha Utils-Rambo Copy & Bob's Editors.atr|Alpha Utils-Rambo Copy & Bob's Editors|
+Alternate Reality Maps.atr|Alternate Reality Maps|
+Alternative Reality 2 Music Collection.atr|Alternative Reality 2 Music Collection|
+Amac A.atr|Amac A|
+Amac B.atr|Amac B|
+Amis BBS A -basic.atr|Amis BBS A|-basic
+AMIS BBS [alt] A -basic.atr|AMIS BBS [alt] A|-basic
+AMIS BBS [alt] B.atr|AMIS BBS [alt] B|
+Amis BBS B.atr|Amis BBS B|
+Amis BBS C.atr|Amis BBS C|
+Amis BBS D.atr|Amis BBS D|
+Amodem 5.4.atr|Amodem 5.4|
+Amodem 7.5 -bas.atr|Amodem 7.5 -bas|-basic
+AMP Antic Music Processor 2.0 A.atr|AMP Antic Music Processor 2.0 A|
+AMP Antic Music Processor 2.0 B.atr|AMP Antic Music Processor 2.0 B|
+AMS Synthesiser 2.3 A.atr|AMS Synthesiser 2.3 A|
+AMS Synthesiser 2.3 B.atr|AMS Synthesiser 2.3 B|
+Analog Database.atr|Analog Database|
+Analysizer [alpha sys].atr|Analysizer [alpha sys]|
+ANG Sample Utilities A.atr|ANG Sample Utilities A|
+ANG Sample Utilities B.atr|ANG Sample Utilities B|
+Animation Studio 2.atr|Animation Studio 2|
+Animation Studio 2.0.atr|Animation Studio 2.0|
+Animator.atr|Animator|
+Animator -bas.atr|Animator|-basic
+Animator & Tools.atr|Animator & Tools|
+Animotor 1.0.atr|Animotor 1.0|
+ANSITERM.atr|ANSITERM|
+Antic Disassemble.atr|Antic Disassemble|
+Antic Forth 1.4s A.atr|Antic Forth 1.4s A|
+Antic Forth 1.4s B.atr|Antic Forth 1.4s B|
+Apacshow 1.0 (PI9).atr|Apacshow 1.0 (PI9)|
+ApacView 2.2 (Digitised Faces).atr|ApacView 2.2 (Digitised Faces)|
+Apacview 2.4.atr|Apacview 2.4|
+APC Archiver.atr|APC Archiver|
+APC Packer 1.1.atr|APC Packer 1.1|
+Ape f32g.atr|Ape f32g|
+Ape Warp.atr|Ape Warp|
+APE Warp Boot Patch 1.01.atr|APE Warp Boot Patch 1.01|
+Apocalypse Noter 2.0.atr|Apocalypse Noter 2.0|
+Apocalypse Noter 21.atr|Apocalypse Noter 21|
+Append -CZ.atr|Append -CZ|
+APX Graphic Shop.atr|APX Graphic Shop|
+APX Graphic Shop Docs.atr|APX Graphic Shop Docs|
+Arc 1.2.atr|Arc 1.2|
+Archivers-UUdecode etc.atr|Archivers-UUdecode etc|
+Arc Viewer 3.0.atr|Arc Viewer 3.0|
+Art Converter.atr|Art Converter|
+Artikelverwaltung A.atr|Artikelverwaltung A|
+Artikelverwaltung B.atr|Artikelverwaltung B|
+Artist Unleashed A.atr|Artist Unleashed A|
+Artist Unleashed B Demo's.atr|Artist Unleashed B Demo's|
+Assembler -basic.atr|Assembler (BASIC)|-basic
+Assembler Docs.atr|Assembler Docs|
+Assembler Editor [alt].atr|Assembler Editor [alt]|
+Assembly Tools -basic.atr|Assembly Tools|-basic
+Atari 1020 Plotter Utils A.atr|Atari 1020 Plotter Utils A|
+Atari 1020 Plotter Utils B.atr|Atari 1020 Plotter Utils B|
+Atari 1020 Super Dumper Program -bas.atr|Atari 1020 Super Dumper Program|-basic
+Atari 800 Basic v1.0.atr|Atari 800 Basic v1.0|
+Atari Artist -nw.atr|Atari Artist -nw|
+Atari Basic Cross Reference.atr|Atari Basic Cross Reference|
+Atari CPM Help Copy Program 3.0.atr|Atari CPM Help Copy Program 3.0|
+Atari Demo Developer Kit A.atr|Atari Demo Developer Kit A|
+Atari Demo Developer Kit B.atr|Atari Demo Developer Kit B|
+Atari Desktop.atr|Atari Desktop|
+Atari Digital Autoplayer.atr|Atari Digital Autoplayer|
+Atari Disk Directory Sorter -basic.atr|Atari Disk Directory Sorter -basic|
+Atari DOS 2.0-2.5 Formatter.atr|Atari DOS 2.0-2.5 Formatter|
+Atari Drums 2.0.atr|Atari Drums 2.0|
+Atari Drums -basic.atr|Atari Drums -basic|-basic
+Atari Dummy Virus.atr|Atari Dummy Virus|
+Atari Educational System.atr|Atari Educational System|
+Atari File Developer 1.1.atr|Atari File Developer 1.1|
+Atari File Restore.atr|Atari File Restore|
+Atari Gadgets 1A.atr|Atari Gadgets 1A|
+Atari Gadgets 1B.atr|Atari Gadgets 1B|
+Atari Gadgets 2A.atr|Atari Gadgets 2A|
+Atari Gadgets 2B.atr|Atari Gadgets 2B|
+Atari Home Filing Manager Convertor.atr|Atari Home Filing Manager Convertor|
+Atari Label Maker.atr|Atari Label Maker|
+Atari MacroAssembler 1.0a.atr|Atari MacroAssembler 1.0a|
+Atari Music.atr|Atari Music|
+Atari Music I A.atr|Atari Music I A|
+Atari Music I B.atr|Atari Music I B|
+Atari Music II A.atr|Atari Music II A|
+Atari Music II B.atr|Atari Music II B|
+Atari Pascal A.atr|Atari Pascal A|
+Atari Pascal B.atr|Atari Pascal B|
+Atari Planetarium A.atr|Atari Planetarium A|
+Atari Planetarium B.atr|Atari Planetarium B|
+Atari Raytracer [de].atr|Atari Raytracer [de]|
+Atarischreiber.atr|Atarischreiber|
+Atari System Reference Manual A.atr|Atari System Reference Manual A|
+Atari System Reference Manual B.atr|Atari System Reference Manual B|
+Atari Taschen Rechner Sim.atr|Atari Taschen Rechner Sim|
+Atari to DaisyDot Font Convertor.atr|Atari to DaisyDot Font Convertor|
+Atari Turbo System.atr|Atari Turbo System|
+Atari User Gadgets A.atr|Atari User Gadgets A|
+Atari User Gadgets B.atr|Atari User Gadgets B|
+Atari User Gadgets C.atr|Atari User Gadgets C|
+Atari User Gadgets D.atr|Atari User Gadgets D|
+Atari User Toolkit.atr|Atari User Toolkit|
+Atari Utils.atr|Atari Utils|
+Atari View 2.0 A.atr|Atari View 2.0 A|
+Atari View 2.0 B.atr|Atari View 2.0 B|
+Atari View 8 1.2.atr|Atari View 8 1.2|
+Atari World 3D.atr|Atari World 3D|
+Atari Writer 80 Column.atr|Atari Writer 80 Column|
+Atari Writer Clipart.atr|Atari Writer Clipart|
+Atari Writer Plus 130 XE.atr|Atari Writer Plus 130 XE|-xe
+Atari Writer Plus 800 XL.atr|Atari Writer Plus 800 XL|
+Atari Writer Plus Demo.atr|Atari Writer Plus Demo|
+Atari Writer Plus Dictionary.atr|Atari Writer Plus Dictionary|
+Atari Writer Plus XE.atr|Atari Writer Plus XE|-xe
+Atari Writer Plus XL.atr|Atari Writer Plus XL|
+Atari Writer Utils.atr|Atari Writer Utils|
+Atari XL to 400-800 Emulator.atr|Atari XL to 400-800 Emulator|
+Atex Assembler.atr|Atex Assembler|
+AText 1.0.atr|AText 1.0|
+Atmas II Macroassembler A.atr|Atmas II Macroassembler A|
+Atmas II Macroassembler B.atr|Atmas II Macroassembler B|
+Atmas II Makroasembler [alt].atr|Atmas II Makroasembler [alt]|
+Atmas II Toolbox [de].atr|Atmas II Toolbox [de]|
+Atomit Cheater.atr|Atomit Cheater|
+ATOS 720kb.atr|ATOS 720kb|
+Atr8000 Multiboot Docs 1.1.atr|Atr8000 Multiboot Docs 1.1|
+ATSpeller A.atr|ATSpeller A|
+ATSpeller B Dictionary .atr|ATSpeller B Dictionary |
+Atzmodem 1.2.atr|Atzmodem 1.2|
+Automatic Picture Converter.atr|Automatic Picture Converter|
+Automenu.atr|Automenu|
+Avalon Boot 2k1.atr|Avalon Boot 2k1|
+Awardware A.atr|Awardware A|
+Awardware B.atr|Awardware B|
+Awps Menu.atr|Awps Menu|
+Backtalk 1.2 A.atr|Backtalk 1.2 A|
+Backtalk 1.2 B.atr|Backtalk 1.2 B|
+Backup Master.atr|Backup Master|
+Bad Sector Disk Copier.atr|Bad Sector Disk Copier|
+Bank Street Music Writer A.atr|Bank Street Music Writer A|
+Bank Street Music Writer B.atr|Bank Street Music Writer B|
+Bank Street Writer.atr|Bank Street Writer|
+Bank Street Writer Tutorial -basic.atr|Bank Street Writer Tutorial -basic|
+Bash a Drum -basic.atr|Bash a Drum -basic|
+BasicA.atr|BasicA|
+Basic Building Blocks -basic.atr|Basic Building Blocks -basic|-basic
+Basic Cross Reference.atr|Basic Cross Reference|
+Basic Design Tool 1.0 -basic.atr|Basic Design Tool 1.0 -basic|-basic
+Basic Hits A -basic.atr|Basic Hits A -basic|-basic
+Basic Hits B.atr|Basic Hits B|
+Basic Lister.atr|Basic Lister|
+Basic Program Lister.atr|Basic Program Lister|
+Basic Switcher.atr|Basic Switcher|
+Basic Switcher XL-XE.atr|Basic Switcher XL-XE|
+Basic Turbocharger Program A.atr|Basic Turbocharger Program A|
+Basic Turbocharger Program B.atr|Basic Turbocharger Program B|
+Basic Turbocharger Source Disk 1 A.atr|Basic Turbocharger Source Disk 1 A|
+Basic Turbocharger Source Disk 1 B.atr|Basic Turbocharger Source Disk 1 B|
+Basic Turbocharger Source Disk 2 A.atr|Basic Turbocharger Source Disk 2 A|
+Basic Turbocharger Source Disk 2 B.atr|Basic Turbocharger Source Disk 2 B|
+Basic View A.atr|Basic View A|
+Basic View B [docs].atr|Basic View B [docs]|
+Basic XE.atr|Basic XE|-xe
+Basic XE Detokeniser 1.11.atr|Basic XE Detokeniser 1.11|-xe
+BASIC XE Extention Disk.atr|BASIC XE Extention Disk|-xe
+Basic XL Tool Kit.atr|Basic XL Tool Kit|
+Batch File Maker.atr|Batch File Maker|
+Batch File Menu.atr|Batch File Menu|
+BBKart.atr|BBKart|
+Bbk Monitor.atr|Bbk Monitor|
+BB Switch CTH HD Browser.atr|BB Switch CTH HD Browser|
+B-calc.atr|B-calc|
+B-copy.atr|B-copy|
+B-edit 1.5.atr|B-edit 1.5|
+Beginner Forth 1.0 -800b.atr|Beginner Forth 1.0|-b
+Best File Copy.atr|Best File Copy|
+Better File Copy.atr|Better File Copy|
+B-Graph -bas.atr|B-Graph|-basic
+Biboassembler Tools A.atr|Biboassembler Tools A|
+Biboassembler Tools B.atr|Biboassembler Tools B|
+Biboassembler Tools C.atr|Biboassembler Tools C|
+BiboDos 5.4RF [de].atr|BiboDos 5.4RF [de]|
+BiboDos 5.4RN [en].atr|BiboDos 5.4RN [en]|
+BiboDos 6.4 RF.atr|BiboDos 6.4 RF|
+Bibo Menu Makers.atr|Bibo Menu Makers|
+Bibo Menu Makers [alt].atr|Bibo Menu Makers [alt]|
+Big Assembler side A.atr|Big Assembler side A|
+Big Assembler side B.atr|Big Assembler side B|
+Binary Buster.atr|Binary Buster|
+Binary File Menu Maker.atr|Binary File Menu Maker|
+Black Box HD Utilities DISK 2 Side A.atr|Black Box HD Utilities DISK 2 Side A|
+Black Box HD Utilities DISK 2 Side B.atr|Black Box HD Utilities DISK 2 Side B|
+Black Box HD Utilities Side A.atr|Black Box HD Utilities Side A|
+Black Box HD Utilities Side B.atr|Black Box HD Utilities Side B|
+Black Box Utilities.atr|Black Box Utilities|
+Black Magic Composer A.atr|Black Magic Composer A|
+Black Magic Composer B.atr|Black Magic Composer B|
+Black Magic Composer -basic.atr|Black Magic Composer|-basic
+Black Patch 1.atr|Black Patch 1|
+Black Patch 1.1 [alt].atr|Black Patch 1.1 [alt]|
+Black Patch A.atr|Black Patch A|
+Black Patch B.atr|Black Patch B|
+Black Rabbit 3.0.atr|Black Rabbit 3.0|
+Blazing Paddles.atr|Blazing Paddles|
+Bld Initialiser 0.6.atr|Bld Initialiser 0.6|
+BLIZARD.atr|BLIZARD|
+Bloc.atr|Bloc|
+Bob's Disk Editor [DD].atr|Bob's Disk Editor [DD]|
+Bob's Disk Editor [ED].atr|Bob's Disk Editor [ED]|
+Bob Term 1.0+.atr|Bob Term 1.0+|
+Bob Term 1.02.atr|Bob Term 1.02|
+Bob Term 1.10.atr|Bob Term 1.10|
+Bob Term 1.20.atr|Bob Term 1.20|
+Bob Term 1.21.atr|Bob Term 1.21|
+Bob Term 1.21 [alt].atr|Bob Term 1.21 [alt]|
+Bob Term X.atr|Bob Term X|
+Boot Cassette Maker 1.0 -osb.atr|Boot Cassette Maker 1.0 -osb|
+Boot Disk Menu Maker.atr|Boot Disk Menu Maker|
+Boot Fix 1.5.atr|Boot Fix 1.5|
+Boot Fixer.atr|Boot Fixer|
+Bootmanager [96].atr|Bootmanager [96]|
+Bootstrap '85.atr|Bootstrap '85|
+Bootstrap '89.atr|Bootstrap '89|
+Boss XE1.atr|Boss XE1|-xe
+Boss XE2.atr|Boss XE2|-xe
+Broderbund Software Unprotect.atr|Broderbund Software Unprotect|
+Broderbund Unprotect.atr|Broderbund Unprotect|
+Bullentin Board Construction Set A.atr|Bullentin Board Construction Set A|
+Bullentin Board Construction Set B.atr|Bullentin Board Construction Set B|
+Bullentin Board Construction Set C.atr|Bullentin Board Construction Set C|
+Bullentin Board Construction Set D.atr|Bullentin Board Construction Set D|
+Business Inventory System -basic.atr|Business Inventory System -basic|
+Bw DOS 1.0.atr|Bw DOS 1.0|
+Bw DOS 1.00 A.atr|Bw DOS 1.00 A|
+Bw DOS 1.00 B.atr|Bw DOS 1.00 B|
+Bw DOS 1.10 A.atr|Bw DOS 1.10 A|
+Bw DOS 1.10 B.atr|Bw DOS 1.10 B|
+Bw DOS 1.30 A.atr|Bw DOS 1.30 A|
+Bw DOS 1.30 B.atr|Bw DOS 1.30 B|
+Bw Tape System Disk.atr|Bw Tape System Disk|
+Bw Update1.atr|Bw Update1|
+Bw Update2.atr|Bw Update2|
+C++ 1.2 A.atr|C++ 1.2 A|
+C++ 1.2 B.atr|C++ 1.2 B|
+C 2.3 Compiler.atr|C 2.3 Compiler|
+CAD 3d.atr|CAD 3d|
+CAD CAM A -basic.atr|CAD CAM A -basic|
+CAD Cam [alt] A.atr|CAD Cam [alt] A|
+CAD Cam [alt] B.atr|CAD Cam [alt] B|
+CAD CAM B.atr|CAD CAM B|
+Calc Magic A.atr|Calc Magic A|
+Calc Magic [alt] B.atr|Calc Magic [alt] B|
+Calc Magic B.atr|Calc Magic B|
+Calculator.atr|Calculator|
+Calendar 1.0.atr|Calendar 1.0|
+Cardstax 2.1 A -basic.atr|Cardstax 2.1 A|-basic
+Cardstax 2.1 B.atr|Cardstax 2.1 B|
+Cardware.atr|Cardware|
+Carina BBS 1.1 A.atr|Carina BBS 1.1 A|
+Carina BBS 1.1 [alt] A.atr|Carina BBS 1.1 [alt] A|
+Carina BBS 1.1 [alt] B.atr|Carina BBS 1.1 [alt] B|
+Carina BBS 1.1 B.atr|Carina BBS 1.1 B|
+Cart Clone 2.2.atr|Cart Clone 2.2|
+Cart Clone 2.4 XL.atr|Cart Clone 2.4 XL|
+Cart Clone 3.2.atr|Cart Clone 3.2|
+Cart Copy.atr|Cart Copy|
+Cartridge Copier.atr|Cartridge Copier|
+Cartridge Copier [alt].atr|Cartridge Copier [alt]|
+Cartridge Copy [8k 16k].atr|Cartridge Copy [8k 16k]|
+Cartridge Copy [8k & 16k].atr|Cartridge Copy [8k & 16k]|
+Cartridge Dumper ['01].atr|Cartridge Dumper ['01]|
+Cartridge Dumper 2.0.atr|Cartridge Dumper 2.0|
+Cartrige Hack Util.atr|Cartrige Hack Util|
+Casdup 1.0.atr|Casdup 1.0|
+Casdup 2.0.atr|Casdup 2.0|
+Casette Operating System.atr|Casette Operating System|
+Cassette Copier [83].atr|Cassette Copier [83]|
+Cassette Copy.atr|Cassette Copy|
+Cassette to Disk.atr|Cassette to Disk|
+Cassette to disk copy.atr|Cassette to disk copy|
+C.Elton Menu Maker [HI].atr|C.Elton Menu Maker [HI]|
+C.Elton Menu Maker [LO].atr|C.Elton Menu Maker [LO]|
+Chaos Loader.atr|Chaos Loader|
+Chaos Music Composer.atr|Chaos Music Composer|
+Chaos Music Composer 2.0.atr|Chaos Music Composer 2.0|
+Chaos Music Composer 2.0+.atr|Chaos Music Composer 2.0+|
+Chaos Music Composer 2.0s.atr|Chaos Music Composer 2.0s|
+Chaos Music Composer 3.0.atr|Chaos Music Composer 3.0|
+Chaos Music Composer Special.atr|Chaos Music Composer Special|
+Chaos Music M. 2.3.atr|Chaos Music M. 2.3|
+Character Editor.atr|Character Editor|
+Character Editor [alt].atr|Character Editor [alt]|
+Character Font.atr|Character Font|
+Character Set Creator 1.0.atr|Character Set Creator 1.0|
+Character Set Displayer.atr|Character Set Displayer|
+Character Set Display Utility.atr|Character Set Display Utility|
+Charset GFX Editors.atr|Charset GFX Editors|
+CHEAT - Alpha Systems.atr|CHEAT - Alpha Systems|
+Checking Manager 2.1 -basic.atr|Checking Manager 2.1|-basic
+Chickscratch.atr|Chickscratch|
+Chipmunk 2.9.atr|Chipmunk 2.9|
+Chipmunk 2.92 Docs.atr|Chipmunk 2.92 Docs|
+Chipmunk 3.04 A.atr|Chipmunk 3.04 A|
+Chipmunk 3.04 A -Basic.atr|Chipmunk 3.04 A|-basic
+Chipmunk 3.0 B.atr|Chipmunk 3.0 B|
+Chipmunk A.atr|Chipmunk A|
+Chipmunk B.atr|Chipmunk B|
+Cin 1.2.atr|Cin 1.2|
+Circuit Database.atr|Circuit Database|
+Clean 2.0.atr|Clean 2.0|
+CMC Module Player.atr|CMC Module Player|
+Code3 Cruncher 2.2.atr|Code3 Cruncher 2.2|
+Code3 Cruncher 3.0.atr|Code3 Cruncher 3.0|
+CodeBuster.atr|CodeBuster|
+Codebuster [alt].atr|Codebuster [alt]|
+Col80 2.0.atr|Col80 2.0|
+Color Dump 1.03.atr|Color Dump 1.03|
+Color Helper 4.0.atr|Color Helper 4.0|
+Colorizer 1.1.atr|Colorizer 1.1|
+Colorview 2.5.atr|Colorview 2.5|
+Colorview 2.6.atr|Colorview 2.6|
+Colorview 2.61 A .atr|Colorview 2.61 A |
+Colorview 2.61 B .atr|Colorview 2.61 B |
+Colour Enhancer.atr|Colour Enhancer|
+Colourspace A.atr|Colourspace A|
+Colourspace B.atr|Colourspace B|
+Com-Dos 3.1.atr|Com-Dos 3.1|
+Communications Utils 1 - Aterm.atr|Communications Utils 1 - Aterm|
+Communications Utils 2 - Flick 80.atr|Communications Utils 2 - Flick 80|
+Communications Utils 3 - QWK Read.atr|Communications Utils 3 - QWK Read|
+Communications Utils 4 - VT52A.atr|Communications Utils 4 - VT52A|
+Communications Utils 5 - Vterm.atr|Communications Utils 5 - Vterm|
+Composers Jukebox II.atr|Composers Jukebox II|
+Compression Utilities.atr|Compression Utilities|
+Computer Canvas -basic.atr|Computer Canvas|-basic
+Computer Eyes 1.3 -bas.atr|Computer Eyes 1.3|-basic
+Computer Eyes 2.0 -basic.atr|Computer Eyes 2.0|-basic
+Computer Gourmet A.atr|Computer Gourmet A|
+Computer Gourmet B.atr|Computer Gourmet B|
+Computerised Card File -basic [apx].atr|Computerised Card File -basic [apx]|-basic
+Computer Tester 1.0.atr|Computer Tester 1.0|
+Conan's Screens.atr|Conan's Screens|
+Copier Um-disk.atr|Copier Um-disk|
+Copy 130XE.atr|Copy 130XE|-xe
+Copyall XE XL.atr|Copyall XE XL|-xe
+Copycat Disk Copy.atr|Copycat Disk Copy|
+Copy Cat Disk Copy.atr|Copy Cat Disk Copy|
+Copy DT.atr|Copy DT|
+Copymate 1040 -800b.atr|Copymate 1040 |-b
+Copymate 1.4 [alt] -osb.atr|Copymate 1.4 [alt]|-b
+Copymate 1.4 -osb.atr|Copymate 1.4|-b
+Copymate 4.3.atr|Copymate 4.3|
+Copymate 4.4.atr|Copymate 4.4|
+Copymate XE.atr|Copymate XE|
+Copymate XE 3.7.atr|Copymate XE 3.7|-xe
+Copy Plus 3.0.atr|Copy Plus 3.0|
+Copy Programs.atr|Copy Programs|
+Copy Utilites.atr|Copy Utilites|
+Copy Wizard 1.8.atr|Copy Wizard 1.8|
+CRC16.atr|CRC16|
+Crc16 2.0.atr|Crc16 2.0|
+Crc16 2.3.atr|Crc16 2.3|
+Crc16 2.4.atr|Crc16 2.4|
+Create a Font -basic.atr|Create a Font|-basic
+Creative Process 1.8 A.atr|Creative Process 1.8 A|
+Creative Process 1.8 [alt] A.atr|Creative Process 1.8 [alt] A|
+Creative Process 1.8 [alt] B.atr|Creative Process 1.8 [alt] B|
+Creative Process 1.8 B Docs.atr|Creative Process 1.8 B Docs|
+Crossword Creator.atr|Crossword Creator|
+Crossword Generator for the Legend 880.atr|Crossword Generator for the Legend 880|
+Cruncher 4.64.atr|Cruncher 4.64|
+Cruncher 5.0.atr|Cruncher 5.0|
+Crunchmans Disc -800b.atr|Crunchmans Disc|-b
+CTH Fast Basic.atr|CTH Fast Basic|
+CTH Sound Utility.atr|CTH Sound Utility|
+Cute Labels.atr|Cute Labels|
+Cvtnum 1.0.atr|Cvtnum 1.0|
+CX85 Reeve Key.atr|CX85 Reeve Key|
+Daisy Dot A.atr|Daisy Dot A|
+Daisy Dot B.atr|Daisy Dot B|
+Daisy Dot II A.atr|Daisy Dot II A|
+Daisy Dot II A [alt].atr|Daisy Dot II A [alt]|
+Daisy Dot II A [alt2].atr|Daisy Dot II A [alt2]|
+Daisy Dot II B.atr|Daisy Dot II B|
+Daisy Dot II B Documentation [alt].atr|Daisy Dot II B Documentation [alt]|
+Daisy Dot II Font Editor.atr|Daisy Dot II Font Editor|
+Daisy Dot II Fonts 1.atr|Daisy Dot II Fonts 1|
+Daisy Dot II Fonts 2.atr|Daisy Dot II Fonts 2|
+Daisy Dot III A.atr|Daisy Dot III A|
+Daisy Dot III B.atr|Daisy Dot III B|
+Daisy Dot III Boot Disk [alt].atr|Daisy Dot III Boot Disk [alt]|
+Daisy Dot III Fonts 4 A.atr|Daisy Dot III Fonts 4 A|
+Daisy Dot III Fonts 4 B.atr|Daisy Dot III Fonts 4 B|
+Daisy Dot III Jacket Maker.atr|Daisy Dot III Jacket Maker|
+Daisy Dot III Program Disk [alt].atr|Daisy Dot III Program Disk [alt]|
+Daisy Dot Pal 1.1.atr|Daisy Dot Pal 1.1|
+Data Perfect.atr|Data Perfect|
+Dataset Utility Dump 1.0.atr|Dataset Utility Dump 1.0|
+DataSoft Apps -800b.atr|DataSoft Apps|-b
+Dateiurwaltung [de].atr|Dateiverwaltung [de]|
+Dcopy 1.03.atr|Dcopy 1.03|
+Dcopy 1.05.atr|Dcopy 1.05|
+Dcopy! 3.atr|Dcopy! 3|
+Dean Garraghty's Digidisk Player 4.00a -basic.atr|Dean Garraghty's Digidisk Player 4.00a|-basic
+Debug+.atr|Debug+|
+Debugging Tools 2.atr|Debugging Tools 2|
+Decompactor XE -basic.atr|Decompactor XE|-xe -basic
+Deep Blue C A.atr|Deep Blue C A|
+Deep Blue C [alt] A.atr|Deep Blue C [alt] A|
+Deep Blue C [alt] B.atr|Deep Blue C [alt] B|
+Deep Blue C B.atr|Deep Blue C B|
+Degasrd 1.0.atr|Degasrd 1.0|
+Degas View.atr|Degas View|
+Degas View XE 1.1.atr|Degas View XE 1.1|-xe
+DE Logos Maker.atr|DE Logos Maker|
+Delta Composer 1.7.atr|Delta Composer 1.7|
+Delta Drawing 3.20.atr|Delta Drawing 3.20|
+Delta Drawing 3.23.atr|Delta Drawing 3.23|
+Demamenu 0.9.atr|Demamenu 0.9|
+Demo Maker 2.0.atr|Demo Maker 2.0|
+Der Basic Compiler (Datasoft).atr|Der Basic Compiler (Datasoft)|
+De Re Atari 400-800 A.atr|De Re Atari 400-800 A|
+De Re Atari 400-800 B.atr|De Re Atari 400-800 B|
+De Re Atari 400-800 C.atr|De Re Atari 400-800 C|
+De Re Atari 400-800 D.atr|De Re Atari 400-800 D|
+De Re Atari 400-800 E.atr|De Re Atari 400-800 E|
+Designers Pencil -800b.atr|Designers Pencil -800b|
+Design Master 1.1 A.atr|Design Master 1.1 A|
+Design Master 1.1 B.atr|Design Master 1.1 B|
+Design Master Data Disk.atr|Design Master Data Disk|
+Design Master Label Disk.atr|Design Master Label Disk|
+Design Master Pictures 1 A.atr|Design Master Pictures 1 A|
+Design Master Pictures 1 B.atr|Design Master Pictures 1 B|
+Design Master Pictures 2 A.atr|Design Master Pictures 2 A|
+Design Master Pictures 2 B.atr|Design Master Pictures 2 B|
+Design Master Pictures 3 A.atr|Design Master Pictures 3 A|
+Design Master Pictures 3 B.atr|Design Master Pictures 3 B|
+Design Master [pl].atr|Design Master [pl]|
+DeTerm 850 1.59.atr|DeTerm 850 1.59|
+Diamond GOS.atr|Diamond GOS|
+Diamond GOS [kiwi systems].atr|Diamond GOS [kiwi systems]|
+Diamond GOS System [iron fist].atr|Diamond GOS System [iron fist]|
+Diamond GOS Utilites.atr|Diamond GOS Utilites|
+Diamond Paint.atr|Diamond Paint|
+Diamond Writer.atr|Diamond Writer|
+Digidisk Player 4.0a A -bas.atr|Digidisk Player 4.0a A|-basic
+Digidisk Player 4.0a B.atr|Digidisk Player 4.0a B|
+DigiDrum.atr|DigiDrum|
+DigiDrum II.atr|DigiDrum II|
+Digital Music Studio 2.0 -bas.atr|Digital Music Studio 2.0|-basic
+Digital Sound Instruction Language A.atr|Digital Sound Instruction Language A|
+Digital Sound Instruction Language B.atr|Digital Sound Instruction Language B|
+Digitised Sound Player.atr|Digitised Sound Player|
+Digitize Digital Audio.atr|Digitize Digital Audio|
+DigiVoice Audio Processing System.atr|DigiVoice Audio Processing System|
+Directories R Us.atr|Directories R Us|
+Directory Re-organiser 4.2.atr|Directory Re-organiser 4.2|
+Directory Reorganiser 5.6.atr|Directory Reorganiser 5.6|
+Dir Protector.atr|Dir Protector|
+Disassembler 6502.atr|Disassembler 6502|
+Disassembler 6502 1.0.atr|Disassembler 6502 1.0|
+Disassembler [page 6] -basic.atr|Disassembler [page 6]|-basic
+Disassembler [quality software] -basic.atr|Disassembler [quality software]|-basic
+Disc Tool -basic.atr|Disc Tool|-basic
+Disc Wizard 1.1 -basic.atr|Disc Wizard 1.1|-basic
+Diskbase 1.0.atr|Diskbase 1.0|
+Disk Communicator 3!.atr|Disk Communicator 3!|
+Disk Communicator 3.2.atr|Disk Communicator 3.2|
+Disk Configuration Program.atr|Disk Configuration Program|
+Diskcopy.atr|Diskcopy|
+Diskcopy Utility.atr|Diskcopy Utility|
+Disk Cracker.atr|Disk Cracker|
+Disk Doctor II.atr|Disk Doctor II|
+Disk Doctor II -bas.atr|Disk Doctor II|-basic
+Disked 24k (Amulet) -800b.atr|Disked 24k (Amulet)|-b
+Disk Editor [page 6] -basic.atr|Disk Editor [page 6]|-basic
+Diskey Disk Access and Repair -basic.atr|Diskey Disk Access and Repair|-basic
+Diskey II DD.atr|Diskey II DD|
+Diskey II ED.atr|Diskey II ED|
+Diskformer 0.9.atr|Diskformer 0.9|
+Disk GR Operating System 0.1.atr|Disk GR Operating System 0.1|
+Disk Index.atr|Disk Index|
+Disk Index Catalogue Maintance.atr|Disk Index Catalogue Maintance|
+Diskio 4.3 20w Rev C -basic.atr|Diskio 4.3 20w Rev C|-basic
+Diskio 4.4.atr|Diskio 4.4|
+Diskio Plus 25w Rev C -basic.atr|Diskio Plus 25w Rev C|-basic
+DiskIO Plus -basic.atr|DiskIO Plus|-basic
+DiskIO Plus -basic [alt].atr|DiskIO Plus [alt]|-basic
+Disk Keeper -800b.atr|Disk Keeper |-b
+Disk Mailing List -basic.atr|Disk Mailing List|-basic
+Disk Manifold.atr|Disk Manifold|
+Disk Masher XE 1.0.atr|Disk Masher XE 1.0|-xe
+Disk Master.atr|Disk Master|
+Disk Master [85].atr|Disk Master [85]|
+Disk Menu.atr|Disk Menu|
+Diskscan.atr|Diskscan|
+Disk Scanner.atr|Disk Scanner|
+Disk Scanner A.atr|Disk Scanner A|
+Disk Scanner B.atr|Disk Scanner B|
+Disk Tool 4 -Basic.atr|Disk Tool 4|-basic
+Disk Utilities.atr|Disk Utilities|
+Disk Utils Vol.1.atr|Disk Utils Vol.1|
+Disk Utils Vol.2.atr|Disk Utils Vol.2|
+Disk Wizard 1.1 -bas.atr|Disk Wizard 1.1|-basic
+Disk Wizard II 2.1.atr|Disk Wizard II 2.1|
+Disk Wizard II 2.1 [alt].atr|Disk Wizard II 2.1 [alt]|
+Disk Wizard II 2.1 [alt2].atr|Disk Wizard II 2.1 [alt2]|
+Disk Wizard II 2.1 [holmes].atr|Disk Wizard II 2.1 [holmes]|
+Disk Workshop (original dump) -800b -basic.atr|Disk Workshop (original dump)|-b -basic
+Display Master.atr|Display Master|
+Diss-Assembler.atr|Diss-Assembler|
+Diverse Utils.atr|Diverse Utils|
+Dj Pack.atr|Dj Pack|
+Dj Pack 2.atr|Dj Pack 2|
+Documentation File Reader.atr|Documentation File Reader|
+Documentation Output Program.atr|Documentation Output Program|
+Documentation View.atr|Documentation View|
+DOM Menu -basic.atr|DOM Menu|-basic
+Dos 1.0.atr|Dos 1.0|
+Dos 2.0.atr|Dos 2.0|
+Dos 2.0d.atr|Dos 2.0d|
+Dos 2.0 [David Young].atr|Dos 2.0 [David Young]|
+Dos 2.0R.atr|Dos 2.0R|
+Dos 2.0s.atr|Dos 2.0s|
+Dos 2.0s2.atr|Dos 2.0s2|
+Dos 2.0s [Ultra].atr|Dos 2.0s [Ultra]|
+Dos 2.1c.atr|Dos 2.1c|
+Dos 2.1p.atr|Dos 2.1p|
+Dos 2.5.atr|Dos 2.5|
+Dos 2.52.atr|Dos 2.52|
+Dos 2.5 [256k].atr|Dos 2.5 [256k]|
+Dos 2.5F Enhanced.atr|Dos 2.5F Enhanced|
+Dos 2.5 [fte].atr|Dos 2.5 [fte]|
+Dos 2.5m.atr|Dos 2.5m|
+Dos 2.5pls.atr|Dos 2.5pls|
+Dos 2.5 Quick Dos.atr|Dos 2.5 Quick Dos|
+Dos 2.5 with 4 drives.atr|Dos 2.5 with 4 drives|
+Dos 2.6f.atr|Dos 2.6f|
+Dos 2.8f.atr|Dos 2.8f|
+Dos 2 [german].atr|Dos 2 [german/deutsch]|
+Dos 2 with 4 drives.atr|Dos 2 with 4 drives|
+Dos 3.0.atr|Dos 3.0|
+Dos 3.0 [alt ver.].atr|Dos 3.0 [alt ver.]|
+Dos 4.0.atr|Dos 4.0|
+Dos 4.0 US & Happy.atr|Dos 4.0 US & Happy|
+Dos 4.1 [Tap].atr|Dos 4.1 [Tap]|
+Dos Control 1.0.atr|Dos Control 1.0|
+Dos II+ 6.4.atr|Dos II+ 6.4|
+Dos II+d 6.1.atr|Dos II+d 6.1|
+Dos Menu.atr|Dos Menu|
+DOS Pack of 4.atr|DOS Pack of 4|
+DOS Pack of 8.atr|DOS Pack of 8|
+DOS Utils 5.atr|DOS Utils 5|
+DOS Utils 6.atr|DOS Utils 6|
+DOS Wizard 1.0.4.atr|DOS Wizard 1.0.4|
+DOS Wizard 2.0.0.atr|DOS Wizard 2.0.0|
+Dos XE 1.0.atr|Dos XE 1.0|
+Dos XE 1.0 [alt].atr|Dos XE 1.0 [alt]|-xe
+Dos XE Docs A.atr|Dos XE Docs A|-xe
+Dos XE Docs B.atr|Dos XE Docs B|-xe
+Dos XE Docs C.atr|Dos XE Docs C|-xe
+Dos XE Docs D.atr|Dos XE Docs D|-xe
+Dos XL 2.2.atr|Dos XL 2.2|
+Dos XL 2.30.atr|Dos XL 2.30|
+Dos XL 2.35.atr|Dos XL 2.35|
+Dos XL 2.45.atr|Dos XL 2.45|
+Dot Magic.atr|Dot Magic|
+Double Black Rabbit.atr|Double Black Rabbit|
+Double Density Disk Copy.atr|Double Density Disk Copy|
+Double Density  Dos V2.atr|Double Density  Dos V2|
+Download Doctor.atr|Download Doctor|
+Draper Pascal 2.1 A.atr|Draper Pascal 2.1 A|
+Draper Pascal 2.1 B.atr|Draper Pascal 2.1 B|
+Draw 7 XE 2.0 A -basic.atr|Draw 7 XE 2.0 A|-basic -xe
+Draw 7 XE 2.0 B.atr|Draw 7 XE 2.0 B|-xe
+Drawing Board -basic.atr|Drawing Board|-basic
+DrawIT.atr|DrawIT|
+DRC Trainers.atr|DRC Trainers|
+Dreamvision A.atr|Dreamvision A|
+Dreamvision B.atr|Dreamvision B|
+Dt auto Copy.atr|Dt auto Copy|
+Dunion's Debugging Tool 2.atr|Dunion's Debugging Tool 2|
+Dup 1050 Sector Copier.atr|Dup 1050 Sector Copier|
+Duplicator Copy Program Rev 2.5.atr|Duplicator Copy Program Rev 2.5|
+Duplicator Rev3 Side 1.atr|Duplicator Rev3 Side 1|
+Duplicator Rev3 Side 2.atr|Duplicator Rev3 Side 2|
+Earth Views A.atr|Earth Views A|
+Earth Views B.atr|Earth Views B|
+Easy Scan 2.0 A -bas.atr|Easy Scan 2.0 A|-basic
+Easy Scan 2.0 B.atr|Easy Scan 2.0 B|
+ECA Duplicate.atr|ECA Duplicate|
+Edit 2.5.atr|Edit 2.5|
+Edunetics Animal World A.atr|Edunetics Animal World A|
+Edunetics Animal World B.atr|Edunetics Animal World B|
+Edunetics CPR A.atr|Edunetics CPR A|
+Edunetics CPR B.atr|Edunetics CPR B|
+Edunetics Pilots A.atr|Edunetics Pilots A|
+Edunetics Pilots B.atr|Edunetics Pilots B|
+Elton C Low Menu Maker.atr|Elton C Low Menu Maker|
+Energy Editor 2.1b.atr|Energy Editor 2.1b|
+Energy Editor 2.2c.atr|Energy Editor 2.2c|
+Energy Editor Reader.atr|Energy Editor Reader|
+Enhanced Pokey Player A -basic.atr|Enhanced Pokey Player A|-basic
+Enhanced Pokey Player B Docs.atr|Enhanced Pokey Player B Docs|
+Envision A.atr|Envision A|
+Envision [alt.2] A.atr|Envision [alt.2] A|
+Envision [alt] A.atr|Envision [alt] A|
+Envision B Docs.atr|Envision B Docs|
+Envision C Utilities.atr|Envision C Utilities|
+Envision D Maps & Fonts.atr|Envision D Maps & Fonts|
+Envision E Tools.atr|Envision E Tools|
+Epset.atr|Epset|
+Epson Printer Program.atr|Epson Printer Program|
+Escal Paint 1.0.atr|Escal Paint 1.0|
+ESI writer.atr|ESI writer|
+Euro Tekst 4.0.atr|Euro Tekst 4.0|
+Express 3.0.atr|Express 3.0|
+Express 3.0 Cx85 Macros.atr|Express 3.0 Cx85 Macros|
+Express Cart Controller.atr|Express Cart Controller|
+Extended DDT A.atr|Extended DDT A|
+Extended DDT B [docs].atr|Extended DDT B [docs]|
+Ez Read 2.atr|Ez Read 2|
+FA Editor [pl].atr|FA Editor [pl]|
+Family Budgets -bas.atr|Family Budgets|-basic
+Family Finances -bas.atr|Family Finances|-basic
+Family History A.atr|Family History A|
+Family History B.atr|Family History B|
+Family Tree A.atr|Family Tree A|
+Family Tree B Docs.atr|Family Tree B Docs|
+Fampy MD8 Player 2.3 A.atr|Fampy MD8 Player 2.3 A|
+Fampy MD8 Player 2.3 B.atr|Fampy MD8 Player 2.3 B|
+Fancy Writer.atr|Fancy Writer|
+Fastchip Translator.atr|Fastchip Translator|
+Fastcopy 1.0.atr|Fastcopy 1.0|
+Fastdup 1.1.1.atr|Fastdup 1.1.1|
+Fast Formatter 2.0.atr|Fast Formatter 2.0|
+Fast Fractal Generator.atr|Fast Fractal Generator|
+Fastpack 3.3.atr|Fastpack 3.3|
+Fatback 1.1.atr|Fatback 1.1|
+Fatcheck 1.1.atr|Fatcheck 1.1|
+Fatprint 1.1.atr|Fatprint 1.1|
+Fatrest 1.1.atr|Fatrest 1.1|
+Fdisk 1.38.atr|Fdisk 1.38|
+Fenders 3 Sector File Load Menu Maker.atr|Fenders 3 Sector File Load Menu Maker|
+Fig Forth 1.0d A.atr|Fig Forth 1.0d A|
+Fig Forth 1.0d B.atr|Fig Forth 1.0d B|
+Fig Forth 1.1.atr|Fig Forth 1.1|
+Fig Forth 1.4S A.atr|Fig Forth 1.4S A|
+Fig Forth 1.4S B.atr|Fig Forth 1.4S B|
+File Disassembler and Reassembler 1.1.atr|File Disassembler and Reassembler 1.1|
+File em 2 -Basic.atr|File em 2|-basic
+File em 2 db1.atr|File em 2 db1|
+File em 2 db2.atr|File em 2 db2|
+File-Fax 2.atr|File-Fax 2|
+File Fixer 2.0.atr|File Fixer 2.0|
+File Manager 800+ -800b-Basic.atr|File Manager 800+|-b -basic
+Fileselector 0.4.atr|Fileselector 0.4|
+File Selector 0.4.atr|File Selector 0.4|
+File Writer [alt] -basic.atr|File Writer [alt] -basic|
+File Writer -basic.atr|File Writer|-basic
+Film Editor.atr|Film Editor|
+Film Editor Player.atr|Film Editor Player|
+Finance Program 2.1.atr|Finance Program 2.1|
+Financial Apps-Speed Calc etc.atr|Financial Apps-Speed Calc etc|
+Financial Cookbook.atr|Financial Cookbook|
+Financial Cookbook [crk].atr|Financial Cookbook [crk]|
+Fireworks.atr|Fireworks|
+Fixup!.atr|Fixup!|
+Fixup 2.0sd.atr|Fixup 2.0sd|
+Fix-Xl.atr|Fix-Xl|
+Flash Pack 2.0.atr|Flash Pack 2.0|
+Flash Pack 2.0 Help.atr|Flash Pack 2.0 Help|
+Flash Pack 2.1.atr|Flash Pack 2.1|
+Flash Pack 3.3.atr|Flash Pack 3.3|
+Flipper.atr|Flipper|
+Floating Point Package A.atr|Floating Point Package A|
+Floating Point Package B.atr|Floating Point Package B|
+Font Designer 5.0.atr|Font Designer 5.0|
+Fontmaker.atr|Fontmaker|
+Font Maker.atr|Font Maker|
+Font Master.atr|Font Master|
+Football Predicter [antic] -bas.atr|Football Predicter [antic]|-basic
+Format 2.0.atr|Format 2.0|
+Format Disk (warning).atr|Format Disk (warning)|
+Fractal Express -basic.atr|Fractal Express|-basic
+Fractal Plotter.atr|Fractal Plotter|
+Fractasia 1.57 A.atr|Fractasia 1.57 A|
+Fractasia 1.57 B.atr|Fractasia 1.57 B|
+French -nw.atr|French -nw|
+Frost Basic.atr|Frost Basic|
+Fun Dos -basic.atr|Fun Dos|-basic
+Fun Music.atr|Fun Music|
+Fun with Art.atr|Fun with Art|
+Future Composer.atr|Future Composer|
+Future Composer 1.32.atr|Future Composer 1.32|
+Game Creation Utils A.atr|Game Creation Utils A|
+Game Creation Utils B.atr|Game Creation Utils B|
+Game Creation Utils C.atr|Game Creation Utils C|
+Game Creation Utils D.atr|Game Creation Utils D|
+Game Graph Editor.atr|Game Graph Editor|
+Game Graph Utility 2.0.atr|Game Graph Utility 2.0|
+Ged.atr|Ged|
+Genie.atr|Genie|
+Genology Database & Family Tree Organiser 4.1 -basic.atr|Genealogy Database & Family Tree Organiser 4.1|-basic
+German.atr|German|
+GFX Programs.atr|GFX Programs|
+Gif Encoder.atr|Gif Encoder|
+Gizmo Ram.atr|Gizmo Ram|
+Globe Master Disk 1 -basic.atr|Globe Master Disk 1|-basic
+Glu.com 2.0.atr|Glu.com 2.0|
+Glyph Font Editor 1.0.atr|Glyph Font Editor 1.0|
+Goe Blurb.atr|Goe Blurb|
+Goe Demo.atr|Goe Demo|
+Graf-term 1.2r.atr|Graf-term 1.2r|
+Grammar [heb].atr|Grammar [heb]|
+Graph 3d.atr|Graph 3d|
+Graphax Hires Dump.atr|Graphax Hires Dump|
+Graphical Operating System - GOS.atr|Graphical Operating System - GOS|
+Graphics 0 Dump to Printer.atr|Graphics 0 Dump to Printer|
+Graphics 9 Object Designer A.atr|Graphics 9 Object Designer A|
+Graphics 9 Object Designer B.atr|Graphics 9 Object Designer B|
+Graphics Arts Department.atr|Graphics Arts Department|
+Graphics Arts Department [alt].atr|Graphics Arts Department [alt]|
+Graphic Shop A.atr|Graphic Shop A|
+Graphic Shop B.atr|Graphic Shop B|
+Graphics Projector.atr|Graphics Projector|
+Graphics Terminal 0.7.atr|Graphics Terminal 0.7|
+Graphics Terminal 0.9r.atr|Graphics Terminal 0.9r|
+Graphics Terminal Pix.atr|Graphics Terminal Pix|
+Graphics Transformer [nw].atr|Graphics Transformer [nw]|
+Grip Assembler.atr|Grip Assembler|
+Gumby stereo kit A.atr|Gumby stereo kit A|
+Gumby stereo kit B.atr|Gumby stereo kit B|
+Gumby Stereo Player -basic.atr|Gumby Stereo Player|-basic
+Hack Utilities.atr|Hack Utilities|
+Happy 1050 Chip 1.1.atr|Happy 1050 Chip 1.1|
+Happy 1050 to Chip.atr|Happy 1050 to Chip|
+Happy 130XE Copier.atr|Happy 130XE Copier|
+Happy 256k Sector Copier.atr|Happy 256k Sector Copier|
+Happy Atari Sector Copier 1.atr|Happy Atari Sector Copier 1|
+Happy Atari Sector Copier 2.atr|Happy Atari Sector Copier 2|
+Happy Atari Sector Copier 3.atr|Happy Atari Sector Copier 3|
+Happy Backup 7 A.atr|Happy Backup 7 A|
+Happy Backup 7 B.atr|Happy Backup 7 B|
+Happy Computer DOS II+D.atr|Happy Computer DOS II+D|
+Happy DOS 2.0.atr|Happy DOS 2.0|
+Happy Freezer.atr|Happy Freezer|
+Happy Master Quad+ 4.2.atr|Happy Master Quad+ 4.2|
+Happy Programmers Menu 1.0.atr|Happy Programmers Menu 1.0|
+Happy Protection Software -basic.atr|Happy Protection Software|-basic
+Happy Set.atr|Happy Set|
+Happy Super Menu.atr|Happy Super Menu|
+Happy Utility Menu.atr|Happy Utility Menu|
+Happy XL OS 1c.atr|Happy XL OS 1c|
+Hardback.atr|Hardback|
+Hard Disk Directory Builder.atr|Hard Disk Directory Builder|
+Hard Disk Physical Formatter 1.91.atr|Hard Disk Physical Formatter 1.91|
+Hard Disk Physical Formatter v8.atr|Hard Disk Physical Formatter v8|
+Hard Drive Utilities A.atr|Hard Drive Utilities A|
+Hard Drive Utilities B.atr|Hard Drive Utilities B|
+Haushaltsbuch -basic.atr|Haushaltsbuch|-basic
+Haushaltsplan -basic.atr|Haushaltsplan|-basic
+Hawkquest Cheater.atr|Hawkquest Cheater|
+HBug.atr|HBug|
+HDI-OS.atr|HDI-OS|
+Headliner.atr|Headliner|
+Heartware.atr|Heartware|
+Hebrew Accounting [heb] -basic.atr|Hebrew Accounting [heb]|-basic
+Hebrew Programs 14B.atr|Hebrew Programs 14B|
+Hebrew Programs 16B.atr|Hebrew Programs 16B|
+Hebrew Programs Atari Games 2.atr|Hebrew Programs Atari Games 2|
+HHomeFilingManagerKartons.atr|HHomeFilingManagerKartons|
+HighSpeed Copy.atr|HighSpeed Copy|
+Hip Viewer 1.0.atr|Hip Viewer 1.0|
+Hip Viewer 1.1.atr|Hip Viewer 1.1|
+Hip Viewer 1.1 [alt].atr|Hip Viewer 1.1 [alt]|
+Hires to RLE File Converter.atr|Hires to RLE File Converter|
+Home Accountant A -basic.atr|Home Accountant A|-basic
+Home Accountant B.atr|Home Accountant B|
+Homecard.atr|Homecard|
+Homecard 2.5 A.atr|Homecard 2.5 A|
+Homecard 2.5 B.atr|Homecard 2.5 B|
+Home Filing Manager.atr|Home Filing Manager|
+Home Filing Manager A [alt].atr|Home Filing Manager A [alt]|
+Home Filing Manager B [alt].atr|Home Filing Manager B [alt]|
+Home Filing Manager Data Disk (Cheats).atr|Home Filing Manager Data Disk (Cheats)|
+Home Filing Manager Print Utility.atr|Home Filing Manager Print Utility|
+Home Finance Manger -basic.atr|Home Finance Manger|-basic
+Home Inventory -basic.atr|Home Inventory|-basic
+Home Made Midi Interface.atr|Home Made Midi Interface|
+Homepak.atr|Homepak|
+Homepak -800b.atr|Homepak (old 800)|-b
+Homepak A.atr|Homepak A|
+Homepak B.atr|Homepak B|
+Homepak Patch.atr|Homepak Patch|
+Hometerm Customizer A.atr|Hometerm Customizer A|
+Hometerm Customizer B.atr|Hometerm Customizer B|
+Home Translator.atr|Home Translator|
+Homeword [protected].atr|Homeword [protected]|
+Hope Init.atr|Hope Init|
+Hope Install.atr|Hope Install|
+Howfen Dos 3.0.atr|Howfen Dos 3.0|
+Howfen Dos 3.07.atr|Howfen Dos 3.07|
+Howfen Dos 3.07 Comp.atr|Howfen Dos 3.07 Comp|
+Howfen Dos 3.08.atr|Howfen Dos 3.08|
+Howfen Tape to Disk 1.0.atr|Howfen Tape to Disk 1.0|
+Howfen Translator X.atr|Howfen Translator X|
+Hyper XF.atr|Hyper XF|
+Ian K Menu Converter.atr|Ian K Menu Converter|
+Ian K Menu Creator.atr|Ian K Menu Creator|
+Ian K Menu Maker 1.9.atr|Ian K Menu Maker 1.9|
+Ian M Menu Creator.atr|Ian M Menu Creator|
+Icd xpac.atr|Icd xpac|
+Ice T.atr|Ice T|
+Ice T 800 -Terminal Software.atr|Ice T 800 -Terminal Software|
+Ice T [alt].atr|Ice T [alt]|
+Icon Shop A.atr|Icon Shop A|
+Icon Shop B Docs.atr|Icon Shop B Docs|
+Impossible!.atr|Impossible!|
+Inertia Player 3.6.atr|Inertia Player 3.6|
+Inertia Player 4.0.atr|Inertia Player 4.0|
+Infiltrator Cheater Program.atr|Infiltrator Cheater Program|
+Ing 0.7.atr|Ing 0.7|
+Instedit -bas.atr|Instedit|-basic
+Interlace Graphics Editor 1.3.atr|Interlace Graphics Editor 1.3|
+Interlace Logo Designer.atr|Interlace Logo Designer|
+Inter-Lisp 2.1.atr|Inter-Lisp 2.1|
+Inter Painter 1.1.atr|Inter Painter 1.1|
+Interpainter View 1.0.atr|Interpainter View 1.0|
+Intetia 2.9.atr|Intetia 2.9|
+Irg.atr|Irg|
+Iron Debugger.atr|Iron Debugger|
+Itay Utilities 1.atr|Itay Utilities 1|
+Itay Utilities 2.atr|Itay Utilities 2|
+Itay Utilities 3.atr|Itay Utilities 3|
+Itay Utilities 4.atr|Itay Utilities 4|
+Jet Graphics Planner 1.0.atr|Jet Graphics Planner 1.0|
+Jingle Disk.atr|Jingle Disk|
+Jon C Autoboot File to Dos Converter.atr|Jon C Autoboot File to Dos Converter|
+Jon C Utilities.atr|Jon C Utilities|
+JView XL 1.0.atr|JView XL 1.0|
+K3 Wave Table Editor.atr|K3 Wave Table Editor|
+Kasm65 2.41.atr|Kasm65 2.41|
+Kasm65 2.51.atr|Kasm65 2.51|
+Kaybub Header Byte Lister [MB RobC].atr|Kaybub Header Byte Lister [MB RobC]|
+K Edit 1.51.atr|K Edit 1.51|
+Kermit 3.7.atr|Kermit 3.7|
+Kermit 65 doc.atr|Kermit 65 doc|
+Kermit 65 exec.atr|Kermit 65 exec|
+Kermit 65 src.atr|Kermit 65 src|
+Kermit 65 v35.atr|Kermit 65 v35|
+Kermit 65 v36.atr|Kermit 65 v36|
+Kermit 65 v37.atr|Kermit 65 v37|
+Kermit 850 3.3.atr|Kermit 850 3.3|
+Kermit (action).atr|Kermit (action)|
+Keyboard.atr|Keyboard|
+Kfx.atr|Kfx|
+Klink65.atr|Klink65|
+Koala Picture Viewer.atr|Koala Picture Viewer|
+Koala Slideshow XE.atr|Koala Slideshow XE|-xe
+Kompresor Bitowy.atr|Kompresor Bitowy|
+Kopier Superautomat 800xl copy 4.3.atr|Kopier Superautomat 800xl copy 4.3|
+KSS Paint.atr|KSS Paint|
+Kyan Pascal 1.1.atr|Kyan Pascal 1.1|
+Kyan Pascal A.atr|Kyan Pascal A|
+Kyan Pascal B.atr|Kyan Pascal B|
+Labelmaster 1.6.atr|Labelmaster 1.6|
+Lady Bug 4.0.atr|Lady Bug 4.0|
+LA Machine 2.0.atr|LA Machine 2.0|
+Laser 1050 to Chip Converter [LPS] .atr|Laser 1050 to Chip Converter [LPS] |
+Laserteller A.atr|Laserteller A|
+Laserteller B.atr|Laserteller B|
+LBS Map Maker Editor.atr|LBS Map Maker Editor|
+LDS C Drive Emulator.atr|LDS C Drive Emulator|
+Lebreak 2.0a.atr|Lebreak 2.0a|
+Lebreak III.atr|Lebreak III|
+Lebreak Plus 2a A.atr|Lebreak Plus 2a A|
+Lebreak Plus 2a B.atr|Lebreak Plus 2a B|
+Leonardo.atr|Leonardo|
+Lestrad.atr|Lestrad|
+Letter Perfect.atr|Letter Perfect|
+Letter Perfect -800b.atr|Letter Perfect |-b
+Letter Perfect [alt] -800b.atr|Letter Perfect [alt] |-b
+Life.atr|Life|
+Life !.atr|Life !|
+Life 2.0a.atr|Life 2.0a|
+Line Editor.atr|Line Editor|
+Lisp.atr|Lisp|
+Listed Text to Epson Printer.atr|Listed Text to Epson Printer|
+Lister Plus -basic.atr|Lister Plus -basic|
+LOCO File Compacter 2.1.atr|LOCO File Compacter 2.1|
+Logo [pl].atr|Logo [pl]|
+Logo's.atr|Logo's|
+Logo's Maker 1.1.atr|Logo's Maker 1.1|
+Lotto A.atr|Lotto A|
+Lotto B.atr|Lotto B|
+Lzw Archiver 3.0.atr|Lzw Archiver 3.0|
+Mac 65.1 A.atr|Mac 65.1 A|
+Mac 65.1 B.atr|Mac 65.1 B|
+Mac 65 4.2.atr|Mac 65 4.2|
+Mac 65 4.2 A.atr|Mac 65 4.2 A|
+Mac 65 4.2 B.atr|Mac 65 4.2 B|
+Mac 65 [alt].atr|Mac 65 [alt]|
+Mac 65 Dissassembler.atr|Mac 65 Dissassembler|
+Mac65 Floating Point Package A.atr|Mac65 Floating Point Package A|
+Mac65 Floating Point Package B.atr|Mac65 Floating Point Package B|
+Mac65 Toolkit.atr|Mac65 Toolkit|
+Mace Formatter.atr|Mace Formatter|
+MACE Library Catalog A.atr|MACE Library Catalog A|
+MACE Library Catalog B.atr|MACE Library Catalog B|
+Mach DOS 2.1.atr|Mach DOS 2.1|
+Mach DOS 3.7a.atr|Mach DOS 3.7a|
+Machine Code Tutor [85].atr|Machine Code Tutor [85]|
+Machine Code Tutor [alt 85].atr|Machine Code Tutor [alt 85]|
+Machine Code Tutor disk1 Side A.atr|Machine Code Tutor disk1 Side A|
+Machine Code Tutor disk1 Side B.atr|Machine Code Tutor disk1 Side B|
+Machine Rutines Brack Demo Side 1.atr|Machine Rutines Brack Demo Side 1|
+Machine Rutines Brack Demo Side 2.atr|Machine Rutines Brack Demo Side 2|
+Macro Edit.atr|Macro Edit|
+Mad Copier.atr|Mad Copier|
+Mad Designer.atr|Mad Designer|
+Magic Painter.atr|Magic Painter|
+Magic Painter [alt].atr|Magic Painter [alt]|
+Magic Player v.6 A -basic.atr|Magic Player v.6 A|-basic
+Magic Player v.6 B.atr|Magic Player v.6 B|
+Magic Spell.atr|Magic Spell|
+Magic Window -basic.atr|Magic Window|-basic
+Magnify.atr|Magnify|
+Magnify [print pics].atr|Magnify [print pics]|
+Magniprint.atr|Magniprint|
+Mail Merge.atr|Mail Merge|
+Manager 1350.atr|Manager 1350|
+Mandelbrot Fractals A.atr|Mandelbrot Fractals A|
+Mandelbrot Fractals B.atr|Mandelbrot Fractals B|
+Map Disk Copy Program.atr|Map Disk Copy Program|
+Mapware A -basic.atr|Mapware A -basic|
+Mapware B.atr|Mapware B|
+Marco Loader.atr|Marco Loader|
+Marco Pixel Editor 2.1.atr|Marco Pixel Editor 2.1|
+Mathematical Methods -basic.atr|Mathematical Methods|-basic
+Math Wizard II -bas.atr|Math Wizard II|-basic
+Mdos v1.0 A.atr|Mdos v1.0 A|
+Mdos v1.0 B.atr|Mdos v1.0 B|
+MEC DOS.atr|MEC DOS|
+Mega Color Editor 1.2.atr|Mega Color Editor 1.2|
+Mega Copier Disk A.atr|Mega Copier Disk A|
+Mega Copier Disk B.atr|Mega Copier Disk B|
+Megafont.atr|Megafont|
+Megafont II+.atr|Megafont II+|
+Megafont II [protected].atr|Megafont II [protected]|
+Megaplayer 1.5.atr|Megaplayer 1.5|
+Megaplayer 1.51.atr|Megaplayer 1.51|
+Megaplayer 1.6.atr|Megaplayer 1.6|
+Megaplayer 2.0.atr|Megaplayer 2.0|
+Megaplayer 2.1.atr|Megaplayer 2.1|
+Mem Check.atr|Mem Check|
+Memo.com 1.0a.atr|Memo.com 1.0a|
+MemorEase A -basic.atr|MemorEase A -basic|
+MemorEase B.atr|MemorEase B|
+Memory Upgrade Checkers.atr|Memory Upgrade Checkers|
+Memory Upgrade Docs A.atr|Memory Upgrade Docs A|
+Memory Upgrade Docs B.atr|Memory Upgrade Docs B|
+Memtest 1.0.atr|Memtest 1.0|
+Menues.atr|Menues|
+Menu Loader.atr|Menu Loader|
+Menu Maker 2.2.atr|Menu Maker 2.2|
+Menu to Binary.atr|Menu to Binary|
+Menu Writer -basic.atr|Menu Writer|-basic
+Mercenary 2nd City Maker.atr|Mercenary 2nd City Maker|
+Microcheck 130XE -basic.atr|Microcheck 130XE|-xe -basic
+Microcheck The Electronic Checkbook.atr|Microcheck The Electronic Checkbook|
+Microdos II Initializer.atr|Microdos II Initializer|
+MicroDos XL Creator.atr|MicroDos XL Creator|
+MicroFiler.atr|MicroFiler|
+Microhome -basic.atr|Microhome|-basic
+Micro Home -nw.atr|Micro Home -nw|
+Micro Illustrator.atr|Micro Illustrator|
+Micro Map -bas.atr|Micro Map|-basic
+Micro Paint -basic.atr|Micro Paint|-basic
+Micro Painter.atr|Micro Painter|
+Micro Painter [alt].atr|Micro Painter [alt]|
+Micro Rhythm -basic.atr|Micro Rhythm|-basic
+Microsoft Basic 1.0 [alt].atr|Microsoft Basic 1.0 [alt]|
+Microsoft Basic v1.0.atr|Microsoft Basic v1.0|
+Microsoft Basic v2.0.atr|Microsoft Basic v2.0|
+Midi Interface.atr|Midi Interface|
+Midi Master.atr|Midi Master|
+Midi Music System -basic.atr|Midi Music System|-basic
+Midi Pattern Editor 2.3.atr|Midi Pattern Editor 2.3|
+Midi Sequencer.atr|Midi Sequencer|
+Midi Track III.atr|Midi Track III|
+Midi Track III Track Stripper -basic.atr|Midi Track III Track Stripper|-basic
+Mikran Gamemaster Menu Maker.atr|Mikran Gamemaster Menu Maker|
+Mini Office 2 A.atr|Mini Office 2 A|
+Mini Office 2 B.atr|Mini Office 2 B|
+Mini Office Suite A.atr|Mini Office Suite A|
+Mini Office Suite B.atr|Mini Office Suite B|
+Mio Utilities.atr|Mio Utilities|
+Mio Utils.atr|Mio Utils|
+Misc Apps.atr|Misc Apps|
+Mj Database [page 6.29] -basic.atr|Mj Database [page 6.29]|-basic
+Mlt DOS 1.30.atr|Mlt DOS 1.30|
+MMG Basic Compiler 2.0 [alt].atr|MMG Basic Compiler 2.0 [alt]|
+MMG Basic Compiler 2.0 [alt.2].atr|MMG Basic Compiler 2.0 [alt.2]|
+MMG Basic Compiler A.atr|MMG Basic Compiler A|
+MMG Basic Compiler B.atr|MMG Basic Compiler B|
+MM Home.atr|MM Home|
+Mockingbird Multimenu Transfer.atr|Mockingbird Multimenu Transfer|
+Mod Player.atr|Mod Player|
+Monday Morning Manager A.atr|Monday Morning Manager A|
+Monday Morning Manager B.atr|Monday Morning Manager B|
+Monitor.atr|Monitor|
+Monitor XL.atr|Monitor XL|
+Monitor XL 1.0.atr|Monitor XL 1.0|
+Monkey Wrench.atr|Monkey Wrench|
+Monkey Wrench II -800b.atr|Monkey Wrench II|-b
+Mossad 1.1.atr|Mossad 1.1|
+Movie Maker A.atr|Movie Maker A|
+Movie Maker B.atr|Movie Maker B|
+Mpv 1.0.atr|Mpv 1.0|
+MR Fuzz.atr|MR Fuzz|
+Msc1 1.03.atr|Msc1 1.03|
+Mscopy 1.8.atr|Mscopy 1.8|
+Multiboot Bootbase.atr|Multiboot Bootbase|
+Multiboot Converter.atr|Multiboot Converter|
+Multiboot Customiser [jon w].atr|Multiboot Customiser [jon w]|
+Multiboot File Delete.atr|Multiboot File Delete|
+Multiboot [gold].atr|Multiboot [gold]|
+Multiboot Menu.atr|Multiboot Menu|
+Multiboot Polycopy.atr|Multiboot Polycopy|
+Multiboot Repair.atr|Multiboot Repair|
+Multiboot Sector Seeker.atr|Multiboot Sector Seeker|
+Multiboot Super XL 3.1.atr|Multiboot Super XL 3.1|
+Multiboot Super XL Plus 1.0.atr|Multiboot Super XL Plus 1.0|
+Multiboot Super XL Plus 1.1.atr|Multiboot Super XL Plus 1.1|
+Multiboot to Binary File.atr|Multiboot to Binary File|
+Multiboot to Ultraspeed [1050].atr|Multiboot to Ultraspeed [1050]|
+Multiboot to Warpspeed.atr|Multiboot to Warpspeed|
+Multiboot to Warpspeed [810 1050].atr|Multiboot to Warpspeed [810 1050]|
+Multiboot Utilities.atr|Multiboot Utilities|
+Multiboot Utilities 1.atr|Multiboot Utilities 1|
+Multiboot XL.atr|Multiboot XL|
+Multiboot XL [red].atr|Multiboot XL [red]|
+Multi-Cassette to Disk.atr|Multi-Cassette to Disk|
+Multicolor Drawer.atr|Multicolor Drawer|
+Multi Colour Drawer.atr|Multi Colour Drawer|
+Multicopy.atr|Multicopy|
+MultiDos.atr|MultiDos|
+Multidrive Formats 3.0.atr|Multidrive Formats 3.0|
+Multi-file copy II.atr|Multi-file copy II|
+Multifile Copy II.atr|Multifile Copy II|
+Multi-formatter.atr|Multi-formatter|
+Multi Formatter [alt].atr|Multi Formatter [alt]|
+Multigraph View 1.2.atr|Multigraph View 1.2|
+Multi Graph View 1.2.atr|Multi Graph View 1.2|
+Multi Graph View 1.3.atr|Multi Graph View 1.3|
+Multi Graph View 1.3 Docs.atr|Multi Graph View 1.3 Docs|
+Multiload to DOS Converter.atr|Multiload to DOS Converter|
+Multi Menu Directory 2.0.atr|Multi Menu Directory 2.0|
+Multi Menu Directory 4.0.atr|Multi Menu Directory 4.0|
+Multi Menu Renamer 1.0.atr|Multi Menu Renamer 1.0|
+MultiMouse 2.1.atr|MultiMouse 2.1|
+Multi Mouse Config 2.1c.atr|Multi Mouse Config 2.1c|
+Multitasking Operating System.atr|Multitasking Operating System|
+Musak Synthik II -bas.atr|Musak Synthik II|-basic
+Musica.atr|Musica|
+Music Composer [atari].atr|Music Composer [atari]|
+Music Construction Set.atr|Music Construction Set|
+Music Construction Set [alt].atr|Music Construction Set [alt]|
+Music Construction Set [alt.2].atr|Music Construction Set [alt.2]|
+Music Painter.atr|Music Painter|
+Music Protracker 2.0.atr|Music Protracker 2.0|
+Music Protracker 2.1c.atr|Music Protracker 2.1c|
+Music Protracker 2.4.atr|Music Protracker 2.4|
+Music Protracker 2.4s.atr|Music Protracker 2.4s|
+Music Synthesizer.atr|Music Synthesizer|
+Music Writer -basic.atr|Music Writer|-basic
+MycopyeR.atr|MycopyeR|
+Mycopyr! 2.0.atr|Mycopyr! 2.0|
+Mycopyr! 2.1.atr|Mycopyr! 2.1|
+My Disks A -bas.atr|My Disks A|-basic
+My Disks B.atr|My Disks B|
+MyDos 3.01.atr|MyDos 3.01|
+MyDos 4.5.atr|MyDos 4.5|
+Mydos 4.50.atr|Mydos 4.50|
+Mydos 4.50 Tooldisk Maker 2.0.atr|Mydos 4.50 Tooldisk Maker 2.0|
+Mydos 4.51.atr|Mydos 4.51|
+Mydos 4.53.atr|Mydos 4.53|
+Mydos 4.5d.atr|Mydos 4.5d|
+Mydos 4.5 Docs.atr|Mydos 4.5 Docs|
+Mydos 4.5 Enh.atr|Mydos 4.5 Enh|
+Mydos 4.5m.atr|Mydos 4.5m|
+Mydos 4.5mx.atr|Mydos 4.5mx|
+Mydos 4.5s.atr|Mydos 4.5s|
+Mydos 4.5u.atr|Mydos 4.5u|
+MyDos Vtoc Fixer.atr|MyDos Vtoc Fixer|
+Myinit '89.atr|Myinit '89|
+My Menu.atr|My Menu|
+Mymenu Rom.atr|Mymenu Rom|
+New Art 1.0.atr|New Art 1.0|
+New Breed Software A.atr|New Breed Software A|
+New Breed Software B.atr|New Breed Software B|
+Newel 1meg.atr|Newel 1meg|
+News Editor A [heb] -basic.atr|News Editor A [heb]|-basic
+News Editor B.atr|News Editor B|
+NewsRoom A.atr|NewsRoom A|
+NewsRoom [alt] A.atr|NewsRoom [alt] A|
+NewsRoom B.atr|NewsRoom B|
+NewsRoom Clipart A.atr|NewsRoom Clipart A|
+NewsRoom Clipart B.atr|NewsRoom Clipart B|
+Nexus Software Drone Menu -basic.atr|Nexus Software Drone Menu|-basic
+Nightmares Cheater.atr|Nightmares Cheater|
+No Frills Disk Copy.atr|No Frills Disk Copy|
+Oasis Pal 2.1.atr|Oasis Pal 2.1|
+Oasis Test Drive A Boot.atr|Oasis Test Drive A Boot|
+Oasis Test Drive B One.atr|Oasis Test Drive B One|
+Oasis Test Drive C Two.atr|Oasis Test Drive C Two|
+Omnicom.atr|Omnicom|
+Omniloader.atr|Omniloader|
+Omnimon.atr|Omnimon|
+Omniview.atr|Omniview|
+Omniwriter.atr|Omniwriter|
+Ortografia.atr|Ortografia|
+OS A+ 4.1.atr|OS A+ 4.1|
+OS Code Ramdisk 128.atr|OS Code Ramdisk 128|-xe
+OSSA+.atr|OSSA+|
+OSSA+ Pro 2.12.atr|OSSA+ Pro 2.12|
+PABQWK.atr|PABQWK|
+Pabqwk 1.1b.atr|Pabqwk 1.1b|
+Pabqwk 1.1bx.atr|Pabqwk 1.1bx|
+Packtool Disk Utility.atr|Packtool Disk Utility|
+Page Designer 1.2 [alt].atr|Page Designer 1.2 [alt]|
+Page Designer 1.2 [xlent].atr|Page Designer 1.2 [xlent]|
+Page Designer -nopatches.atr|Page Designer -nopatches|
+Page Editor 3.3 A.atr|Page Editor 3.3 A|
+Page Editor 3.3 B.atr|Page Editor 3.3 B|
+Page Six Utility Disk -basic.atr|Page Six Utility Disk|-basic
+Paint!.atr|Paint!|
+Paint 256.atr|Paint 256|
+Paint 256 Pics.atr|Paint 256 Pics|
+Paint -800b -basic.atr|Paint|-basic -b
+Pantheon View 2.1 -basic.atr|Pantheon View 2.1|-basic
+Panther.atr|Panther|
+Paper Airplanes A.atr|Paper Airplanes A|
+Paper Airplanes B.atr|Paper Airplanes B|
+Paperclip 1.0.atr|Paperclip 1.0|
+Paperclip 1.0 [blue].atr|Paperclip 1.0 [blue]|
+Paperclip Beta No Key 1.0 -800b.atr|Paperclip Beta No Key 1.0|-b
+Paperclip Dictionary.atr|Paperclip Dictionary|
+Paperclip Spellcheck.atr|Paperclip Spellcheck|
+Paperclip XE 2.0.atr|Paperclip XE 2.0|-xe
+Paperclip XE 2.0 [alt].atr|Paperclip XE 2.0 [alt]|-xe
+Paperclip XL 1.2.atr|Paperclip XL 1.2|
+Paperclip XL 1.2 [alt].atr|Paperclip XL 1.2 [alt]|
+Paperclip XL 1.2X.atr|Paperclip XL 1.2X|
+Paperweight 3.1.atr|Paperweight 3.1|
+Parrot 2 [protected].atr|Parrot 2 [protected]|
+Parrot Audio File Player.atr|Parrot Audio File Player|
+PartyWare A.atr|PartyWare A|
+PartyWare B.atr|PartyWare B|
+PartyWare C.atr|PartyWare C|
+PartyWare D.atr|PartyWare D|
+Pascal A.atr|Pascal A|
+Pascal B.atr|Pascal B|
+Pascal Documentation.atr|Pascal Documentation|
+Patch Virtuoso 1.4.atr|Patch Virtuoso 1.4|
+PC File Xfer.atr|PC File Xfer|
+Pcv 1.42.atr|Pcv 1.42|
+PD Disk Utilities A -basic.atr|PD Disk Utilities A|-basic
+PD Disk Utilities B.atr|PD Disk Utilities B|
+PDI Music Box -bas.atr|PDI Music Box -bas|
+PD Libraries Catalogs A.atr|PD Libraries Catalogs A|
+PD Libraries Catalogs B.atr|PD Libraries Catalogs B|
+PD Libraries Catalogs C.atr|PD Libraries Catalogs C|
+Personal Accountant -Basic.atr|Personal Accountant|-basic
+Personal Fitness Program -basic.atr|Personal Fitness Program|-basic
+Per-vert.atr|Per-vert|
+Physics Elementary Mechanics A.atr|Physics Elementary Mechanics A|
+Physics Elementary Mechanics B.atr|Physics Elementary Mechanics B|
+PI9 Colour Loader [APAC].atr|PI9 Colour Loader [APAC]|
+Picasso.atr|Picasso|
+Picility.atr|Picility|
+Pic Print 2.atr|Pic Print 2|
+Pictrix.atr|Pictrix|
+Picture Bender.atr|Picture Bender|
+Picture Converter.atr|Picture Converter|
+Picture Plus -basic.atr|Picture Plus|-basic
+Picture View.atr|Picture View|
+Piracy Tools A -basic.atr|Piracy Tools A|-basic
+Piracy Tools B -basic.atr|Piracy Tools B|-basic
+Pirate Punks Binary Buster.atr|Pirate Punks Binary Buster|
+Pirate Punks Menu to Binary -800b.atr|Pirate Punks Menu to Binary -800b|-b
+Pirate Punks Multiload Transfer.atr|Pirate Punks Multiload Transfer|
+Pirate Punks Multiload Transfer -800b.atr|Pirate Punks Multiload Transfer -800b|-b
+Pirate Punks Short Multiboot Maker.atr|Pirate Punks Short Multiboot Maker|
+Pirate's Treasure Chest.atr|Pirate's Treasure Chest|
+Pirate's Treasure Chest A.atr|Pirate's Treasure Chest A|
+Pirate's Treasure Chest A -basic.atr|Pirate's Treasure Chest A -basic|-basic
+Pirate's Treasure Chest B.atr|Pirate's Treasure Chest B|
+Pirate's Treasure Chest -basic.atr|Pirate's Treasure Chest -basic|-basic
+Pixel Artist Deluxe 1.3.atr|Pixel Artist Deluxe 1.3|
+Pl Loader.atr|Pl Loader|
+Poke Loader.atr|Poke Loader|
+Pokey Player.atr|Pokey Player|
+Power Play.atr|Power Play|
+Powersoft info Diskette 9406a.atr|Powersoft info Diskette 9406a|
+Powersoft info Diskette 9406b.atr|Powersoft info Diskette 9406b|
+Printer Driver Construction Set A -basic.atr|Printer Driver Construction Set A -basic|-basic
+Printer Driver Construction Set B.atr|Printer Driver Construction Set B|
+Printer Editor -800b.atr|Printer Editor -800b|-b
+PrintShop A.atr|PrintShop A|
+PrintShop B.atr|PrintShop B|
+PrintShop Companion A.atr|PrintShop Companion A|
+PrintShop Companion B.atr|PrintShop Companion B|
+PrintShop File Converter 3.0.atr|PrintShop File Converter 3.0|
+PrintShop File Image Converters.atr|PrintShop File Image Converters|
+PrintShop Graphic Editor A.atr|PrintShop Graphic Editor A|
+Printshop Graphic Editor B.atr|Printshop Graphic Editor B|
+PrintShop Graphics Canada 1.atr|PrintShop Graphics Canada 1|
+PrintShop Graphics Germany 1.atr|PrintShop Graphics Germany 1|
+PrintShop Graphics Germany 2.atr|PrintShop Graphics Germany 2|
+PrintShop Graphics Germany 3.atr|PrintShop Graphics Germany 3|
+PrintShop Graphics Germany 4.atr|PrintShop Graphics Germany 4|
+PrintShop Graphics Germany 5.atr|PrintShop Graphics Germany 5|
+PrintShop Graphics Germany 6.atr|PrintShop Graphics Germany 6|
+PrintShop Graphics Germany 7.atr|PrintShop Graphics Germany 7|
+PrintShop Graphics Germany 8.atr|PrintShop Graphics Germany 8|
+PrintShop Graphics Germany 9 A.atr|PrintShop Graphics Germany 9 A|
+PrintShop Graphics Germany 9 B.atr|PrintShop Graphics Germany 9 B|
+PrintShop Graphics Signs.atr|PrintShop Graphics Signs|
+PrintShop Graphics USA 1.atr|PrintShop Graphics USA 1|
+PrintShop Graphics USA 2.atr|PrintShop Graphics USA 2|
+PrintShop Graphics USA 3 A.atr|PrintShop Graphics USA 3 A|
+PrintShop Graphics USA 3 B.atr|PrintShop Graphics USA 3 B|
+PrintShop [holmes ver.] A.atr|PrintShop [holmes ver.] A|
+PrintShop [holmes ver.] B.atr|PrintShop [holmes ver.] B|
+PrintShop [holmes ver.] Graphics 1.atr|PrintShop [holmes ver.] Graphics 1|
+PrintShop [holmes ver.] Graphics 2.atr|PrintShop [holmes ver.] Graphics 2|
+PrintShop Icons 01.atr|PrintShop Icons 01|
+PrintShop Icons 02.atr|PrintShop Icons 02|
+PrintShop Icons 03.atr|PrintShop Icons 03|
+PrintShop Icons 03 [alt].atr|PrintShop Icons 03 [alt]|
+PrintShop Icons 04.atr|PrintShop Icons 04|
+PrintShop Icons 05.atr|PrintShop Icons 05|
+PrintShop Icons 06.atr|PrintShop Icons 06|
+PrintShop Icons 07.atr|PrintShop Icons 07|
+PrintShop Icons 08.atr|PrintShop Icons 08|
+PrintShop Icons 09.atr|PrintShop Icons 09|
+PrintShop Icons 10.atr|PrintShop Icons 10|
+PrintShop Icons 11.atr|PrintShop Icons 11|
+PrintShop Icons 12.atr|PrintShop Icons 12|
+PrintShop Icons 13.atr|PrintShop Icons 13|
+PrintShop Icons 14.atr|PrintShop Icons 14|
+PrintShop Interface A.atr|PrintShop Interface A|
+PrintShop Interface [alt].atr|PrintShop Interface [alt]|
+PrintShop Interface B.atr|PrintShop Interface B|
+PrintShop Picture Printer Utility.atr|PrintShop Picture Printer Utility|
+PrintShop Picture Viewer.atr|PrintShop Picture Viewer|
+PrintShop to Dos Converter.atr|PrintShop to Dos Converter|
+PrintShop Tool.atr|PrintShop Tool|
+PrintShop Utilities.atr|PrintShop Utilities|
+Printwiz.atr|Printwiz|
+Probj 1.0.atr|Probj 1.0|
+Profesional Demo.atr|Profesional Demo|
+Professional Copy 2.0.atr|Professional Copy 2.0|
+Professional Copy 2.0 Docs [pl].atr|Professional Copy 2.0 Docs [pl]|
+Programers Speech Tool.atr|Programers Speech Tool|
+Programers Workshop A -bas.atr|Programers Workshop A -bas|-basic
+Programers Workshop B.atr|Programers Workshop B|
+Programers Workshop [ori] -osb -bas.atr|Programers Workshop [ori] -osb -bas|-b -basic
+Program Sector Seeker.atr|Program Sector Seeker|
+Program Text-Editor 1.0 A.atr|Program Text-Editor 1.0 A|
+Program Text-Editor 1.0 B -basic.atr|Program Text-Editor 1.0 B -basic|-basic
+Project Obwody drukowane.atr|Project Obwody drukowane|
+Protracker.atr|Protracker|
+Protracker Player.atr|Protracker Player|
+Pzine Editor 1.2c.atr|Pzine Editor 1.2c|
+QS Forth 1.0 -800b.atr|QS Forth 1.0 -800b|-b
+Quick Assembler.atr|Quick Assembler|
+Quick Format 1.0.atr|Quick Format 1.0|
+Quick Menu Maker.atr|Quick Menu Maker|
+Quickref 1.2.atr|Quickref 1.2|
+Quikfont.atr|Quikfont|
+Qwik Silver.atr|Qwik Silver|
+Qwk8 Offline Reader 3.0.atr|Qwk8 Offline Reader 3.0|
+Qwk8 Offline Reader src.atr|Qwk8 Offline Reader src|
+Rainbow Dos.atr|Rainbow Dos|
+Rainbow Dos 2.atr|Rainbow Dos 2|
+Ram Based A Chip Operating System.atr|Ram Based A Chip Operating System|
+Rambo Dos 2.5.atr|Rambo Dos 2.5|
+Rambrandt 2.0 A.atr|Rambrandt 2.0 A|
+Rambrandt 2.0 B Docs.atr|Rambrandt 2.0 B Docs|
+Rambrandt A.atr|Rambrandt A|
+Rambrandt B Docs.atr|Rambrandt B Docs|
+Rambrandt Utils A.atr|Rambrandt Utils A|
+Rambrandt Utils B.atr|Rambrandt Utils B|
+Ram Cart - Utils.atr|Ram Cart - Utils|
+Ramdisk Utils A.atr|Ramdisk Utils A|
+Ramdisk Utils B.atr|Ramdisk Utils B|
+Ram Tester.atr|Ram Tester|
+R-Draw 1.3 A.atr|R-Draw 1.3 A|
+R-Draw 1.3 B.atr|R-Draw 1.3 B|
+Read Macpainter Images 2.0.atr|Read Macpainter Images 2.0|
+Rembrandt [alt ver.].atr|Rembrandt [alt ver.]|
+Report Writer -basic.atr|Report Writer -basic|-basic
+Resurex 2.0.atr|Resurex 2.0|
+Retail Invoice System.atr|Retail Invoice System|
+Retail Invoice System -basic.atr|Retail Invoice System -basic|-basic
+Rezident.atr|Rezident|
+RLE Converter.atr|RLE Converter|
+RLE Converter [pd].atr|RLE Converter [pd]|
+RLE Picture Show.atr|RLE Picture Show|
+Rob C Menu Maker.atr|Rob C Menu Maker|
+Rob C Menu Maker -800b.atr|Rob C Menu Maker -800b|-b
+Rob C Menu Maker-Diskey II-Musical Menu Maker.atr|Rob C Menu Maker-Diskey II-Musical Menu Maker|
+Rob C Menu Title Changer.atr|Rob C Menu Title Changer|
+Rob C Menu Transfer Utility.atr|Rob C Menu Transfer Utility|
+Rob C Musical Menu Maker A.atr|Rob C Musical Menu Maker A|
+Rob C Musical Menu Maker A [alt].atr|Rob C Musical Menu Maker A [alt]|
+Rob C Musical Menu Maker B.atr|Rob C Musical Menu Maker B|
+Rob C Musical Menu Maker C.atr|Rob C Musical Menu Maker C|
+Rob C Musical Menu Maker D.atr|Rob C Musical Menu Maker D|
+Rob C Utilities 1.atr|Rob C Utilities 1|
+Rob C Utilities -800b 1.atr|Rob C Utilities -800b 1|-b
+Rob C Utilities -800b 2.atr|Rob C Utilities -800b 2|-b
+Rob C Utils -800b.atr|Rob C Utils -800b|-b
+ROBOX.atr|ROBOX|
+Rock n Rhythm.atr|Rock n Rhythm|
+RODS.atr|RODS|
+R-TIME8 for Spartados disk.atr|R-TIME8 for Spartados disk|
+Rubber Stamp 1.0 [crk].atr|Rubber Stamp 1.0 [crk]|
+Rubber Stamp 1.0 [xlent].atr|Rubber Stamp 1.0 [xlent]|
+Rubber Stamp -nopatches.atr|Rubber Stamp -nopatches|
+Rythmizer.atr|Rythmizer|
+S212 Amodem 7.50 Software Clock.atr|S212 Amodem 7.50 Software Clock|
+Salt 1.00.atr|Salt 1.00|
+Salt 2.04.atr|Salt 2.04|
+Salt 2.05.atr|Salt 2.05|
+SAM.atr|SAM|
+SAM A -basic.atr|SAM A -basic|-basic
+SAM B.atr|SAM B|
+SAM -basic [alt].atr|SAM -basic [alt]|-basic
+SAM Tutorial -basic.atr|SAM Tutorial -basic|-basic
+Scandisc.atr|Scandisc|
+Schema Design [de].atr|Schema Design [de]|
+Schematic Designer [alpha systems].atr|Schematic Designer [alpha systems]|
+School Grades.atr|School Grades|
+Screen Aided Management 1.2.atr|Screen Aided Management 1.2|
+Screen Aided Management 1.2 [alt].atr|Screen Aided Management 1.2 [alt]|
+Screen Print Software -bas.atr|Screen Print Software -bas|-basic
+Screens 1.0 A.atr|Screens 1.0 A|
+Screens 1.0 B.atr|Screens 1.0 B|
+Script 80 2.0 -basic.atr|Script 80 2.0 -basic|-basic
+Scrolly Text Editor.atr|Scrolly Text Editor|
+Scrunch 1.1 [boot to file].atr|Scrunch 1.1 [boot to file]|
+Sector Copier 130XE.atr|Sector Copier 130XE|-xe
+Sector Copier 810.atr|Sector Copier 810|
+Sector Copier 810 [alt].atr|Sector Copier 810 [alt]|
+Sector Copy 1.5.atr|Sector Copy 1.5|
+Sector Surgeon.atr|Sector Surgeon|
+Sector Tool -Basic.atr|Sector Tool -Basic|-basic
+Setcol -nw.atr|Setcol -nw|
+Sherlock 0.2 -800b.atr|Sherlock 0.2 -800b|-b
+Sherlock 1050 A.atr|Sherlock 1050 A|
+Sherlock 1050 B.atr|Sherlock 1050 B|
+Sherlock 2.2 [protected].atr|Sherlock 2.2 [protected]|
+Sherlock 2.3.atr|Sherlock 2.3|
+Show 89.atr|Show 89|
+Sideprint.atr|Sideprint|
+Sidload 1.0.5.atr|Sidload 1.0.5|
+Sign Maker -bas.atr|Sign Maker -bas|-basic
+Silentbutler A.atr|Silentbutler A|
+Silent Butler A.atr|Silent Butler A|
+Simple Soft Minuet.atr|Simple Soft Minuet|
+Sio2Pc 3.16 A.atr|Sio2Pc 3.16 A|
+Sio2Pc 3.16 B docs.atr|Sio2Pc 3.16 B docs|
+Smartdos 1.5R Beta.atr|Smartdos 1.5R Beta|
+Smartdos 6.1d.atr|Smartdos 6.1d|
+Smartdos 6.1d [alt ver.].atr|Smartdos 6.1d [alt ver.]|
+Smartt 7.14.atr|Smartt 7.14|
+Smart Terminal 6.1.atr|Smart Terminal 6.1|
+Smon 1.2.atr|Smon 1.2|
+Snapshot 3.0.atr|Snapshot 3.0|
+Softboot.atr|Softboot|
+Soft Music Composer.atr|Soft Music Composer|
+Softsynth A -basic.atr|Softsynth A -basic|-basic
+Softsynth B.atr|Softsynth B|
+Software Protection Utilities (Alpha Systems) -basic.atr|Software Protection Utilities (Alpha Systems) -basic|-basic
+Software Screen Dump II.atr|Software Screen Dump II|
+Songwriter.atr|Songwriter|
+Sound Monitor 1.8.atr|Sound Monitor 1.8|
+Sound Monitor 1.9 A.atr|Sound Monitor 1.9 A|
+Sound Monitor 1.9 B.atr|Sound Monitor 1.9 B|
+Sound Monitor Professional 1.2 (soundtracker).atr|Sound Monitor Professional 1.2 (soundtracker)|
+Soundtracker.atr|Soundtracker|
+Soundtracker Player.atr|Soundtracker Player|
+Spacer!.atr|Spacer!|
+Spacer! [alt].atr|Spacer! [alt]|
+Sparky -nw.atr|Sparky -nw|
+Spartados 1.1HS.atr|Spartados 1.1HS|
+Spartados 2.3e Docs.atr|Spartados 2.3e Docs|
+Spartados 3.2d.atr|Spartados 3.2d|
+Spartados 3.2d [alt].atr|Spartados 3.2d [alt]|
+Spartados 3.2g.atr|Spartados 3.2g|
+Spartados 3.2g [Dirt].atr|Spartados 3.2g [Dirt]|
+Spartados 3.2g [fte].atr|Spartados 3.2g [fte]|
+Spartados 3.2g Utils 1.atr|Spartados 3.2g Utils 1|
+Spartados 3.2g Utils 2.atr|Spartados 3.2g Utils 2|
+Spartados 3.2g Utils 3.atr|Spartados 3.2g Utils 3|
+Spartados 3.3b.atr|Spartados 3.3b|
+Spartados Directory Sorter.atr|Spartados Directory Sorter|
+Spartados Duplicate Disk.atr|Spartados Duplicate Disk|
+Spartados Fte 3.2f.atr|Spartados Fte 3.2f|
+Spartados Fte 3.2f b.atr|Spartados Fte 3.2f b|
+Spartados Fte 3.2f Toolkit.atr|Spartados Fte 3.2f Toolkit|
+Spartados Fte 3.2f Toolkit b.atr|Spartados Fte 3.2f Toolkit b|
+Spartados II Multifile Deleter.atr|Spartados II Multifile Deleter|
+Spartados Subdirectory Renamer.atr|Spartados Subdirectory Renamer|
+Spartados Toolkit.atr|Spartados Toolkit|
+Spartados Utitlites A.atr|Spartados Utitlites A|
+Spartados Utitlites B.atr|Spartados Utitlites B|
+Spartados Utitlites C.atr|Spartados Utitlites C|
+Spartados X Disk Preparer.atr|Spartados X Disk Preparer|
+Spartindex Disk Organiser.atr|Spartindex Disk Organiser|
+Speedcalc.atr|Speedcalc|
+Speed Menu Maker 2.0.atr|Speed Menu Maker 2.0|
+Speed Menu Maker 3.0.atr|Speed Menu Maker 3.0|
+Speed Menu Maker 3.4.atr|Speed Menu Maker 3.4|
+Speed Menu Maker 3 Ultra Speed.atr|Speed Menu Maker 3 Ultra Speed|
+Speedscript 3.0.atr|Speedscript 3.0|
+Speedscript 3.0 [alt].atr|Speedscript 3.0 [alt]|
+Speedscript 3.0 Customiser -basic.atr|Speedscript 3.0 Customiser -basic|-basic
+Speedy 1050 1.4 [aspi].atr|Speedy 1050 1.4 [aspi]|
+Speedy 1050 Software -bas.atr|Speedy 1050 Software -bas|-basic
+Speedy Backup 1.3.atr|Speedy Backup 1.3|
+Speedy Backup 1.3 [alt].atr|Speedy Backup 1.3 [alt]|
+Spellmagic 130XE A.atr|Spellmagic 130XE A|
+Spellmagic 130XE B.atr|Spellmagic 130XE B|
+Spellmagic 130XE C.atr|Spellmagic 130XE C|
+Spellmagic 130XE D Docs.atr|Spellmagic 130XE D Docs|
+Spellweaver -basic.atr|Spellweaver -basic|-basic
+Speracz 1.0.atr|Speracz 1.0|
+Steve's High Menu Creator.atr|Steve's High Menu Creator|
+Stock Analysis -basic.atr|Stock Analysis -basic|-basic
+Stockit II -basic.atr|Stockit II -basic|-basic
+Stock Management -bas.atr|Stock Management -bas|-basic
+Stocksofts Tape to Disk Utility.atr|Stocksofts Tape to Disk Utility|
+Streamliner 1.0.atr|Streamliner 1.0|
+Sunburst Communications -basic.atr|Sunburst Communications -basic|-basic
+Super 3D Plotter II.atr|Super 3D Plotter II|
+Super 3d Plotter II [alt].atr|Super 3d Plotter II [alt]|
+Super Arc.atr|Super Arc|
+Super Arc [alt].atr|Super Arc [alt]|
+Super Cart (Frontrunner-Fixed).atr|Super Cart (Frontrunner-Fixed)|
+Super Cart (Frontrunner-Original DOS-DUP Deleted).atr|Super Cart (Frontrunner-Original DOS-DUP Deleted)|
+Super Debugger XL 3.64.atr|Super Debugger XL 3.64|
+Super Dos 2.9.atr|Super Dos 2.9|
+Super Dos 5.1.atr|Super Dos 5.1|
+Super Duper Copier.atr|Super Duper Copier|
+Super Duper Double.atr|Super Duper Double|
+Super Eye.atr|Super Eye|
+Superhop!.atr|Superhop!|
+SuperKey Swapfk -nw.atr|SuperKey Swapfk -nw|
+Super Mailer Plus.atr|Super Mailer Plus|
+Super Mover.atr|Super Mover|
+Super Packer 1.0.atr|Super Packer 1.0|
+SuperPacker & Sparta Utils.atr|SuperPacker & Sparta Utils|
+Super Transfer X1.atr|Super Transfer X1|
+Super Unarc 1.4.atr|Super Unarc 1.4|
+Super Unarcalf 1.0.atr|Super Unarcalf 1.0|
+Super Unlzh 1.0.atr|Super Unlzh 1.0|
+Swift Spreadsheet.atr|Swift Spreadsheet|
+Synapse Demo Disk 1.0a.atr|Synapse Demo Disk 1.0a|
+Syn Assembler -800b.atr|Syn Assembler -800b|-b
+Syn Assembler V4.0.atr|Syn Assembler V4.0|
+Syn Assembler XL 4.0.atr|Syn Assembler XL 4.0|
+SynCalc.atr|SynCalc|
+SynCalc [alt ver.].atr|SynCalc [alt ver.]|
+SynCalc [fully working].atr|SynCalc [fully working]|
+Synchron.atr|Synchron|
+Syncopy.atr|Syncopy|
+Synfile+ 1.02 A.atr|Synfile+ 1.02 A|
+Synfile+ 1.02 B Tutor -basic.atr|Synfile+ 1.02 B Tutor -basic|-basic
+Synfile+ -800b.atr|Synfile+ -800b|-b
+SynGraph -Basic.atr|SynGraph -Basic|-basic
+SynLabel 1.0.atr|SynLabel 1.0|
+SynPower XE (Syncalc-Synfile).atr|SynPower XE (Syncalc-Synfile)|
+SynStat.atr|SynStat|
+SynTrend A - Stat.atr|SynTrend A - Stat|
+SynTrend B - Graph -basic.atr|SynTrend B - Graph -basic|-basic
+Sys Info 2.03.atr|Sys Info 2.03|
+Sys Info 2.2.atr|Sys Info 2.2|
+System Information 1.8.atr|System Information 1.8|
+System Information 2.03.atr|System Information 2.03|
+Szperacz Dyskowy.atr|Szperacz Dyskowy|
+Tapecopy [kbs].atr|Tapecopy [kbs]|
+Tape Transfer Utilities.atr|Tape Transfer Utilities|
+Tarkus Cheater.atr|Tarkus Cheater|
+Technical Notes Side A.atr|Technical Notes Side A|
+Technical Notes Side B.atr|Technical Notes Side B|
+Technicolor Dream A.atr|Technicolor Dream A|
+Technicolor Dream A [alt].atr|Technicolor Dream A [alt]|
+Technicolor Dream B.atr|Technicolor Dream B|
+Tedit.atr|Tedit|
+Telephone Numbers Catalog [heb].atr|Telephone Numbers Catalog [heb]|
+Test 1088 memory upgrade.atr|Test 1088 memory upgrade|
+Test 576k memory upgrade.atr|Test 576k memory upgrade|
+TextPro 1.2a Ext 2.5c.atr|TextPro 1.2a Ext 2.5c|
+TextPro 1.2a with ICD ext.2.3b.atr|TextPro 1.2a with ICD ext.2.3b|
+Textpro 2.5r A.atr|Textpro 2.5r A|
+Textpro 2.5r B.atr|Textpro 2.5r B|
+TextPro 3.2r.atr|TextPro 3.2r|
+TextPro 4.0x.atr|TextPro 4.0x|
+Textpro 4.0x [alt].atr|Textpro 4.0x [alt]|
+TextPro 4.5 A [800-XL].atr|TextPro 4.5 A [800-XL]|
+TextPro 4.5 B [XE].atr|TextPro 4.5 B [XE]|-xe
+TextPro 4.5 C Docs.atr|TextPro 4.5 C Docs|
+TextPro 5.0x.atr|TextPro 5.0x|
+TextPro 5.12x A.atr|TextPro 5.12x A|
+TextPro 5.12x B.atr|TextPro 5.12x B|
+TextPro 5.20x.atr|TextPro 5.20x|
+TextPro Docs.atr|TextPro Docs|
+TextPro Extra's.atr|TextPro Extra's|
+Text Tidier 3.0.atr|Text Tidier 3.0|
+Text-Wizard 1.3 -800b.atr|Text-Wizard 1.3 -800b|-b
+The 8bit Mouse 2.01.atr|The 8bit Mouse 2.01|
+The ABC of CPR A.atr|The ABC of CPR A|
+The ABC of CPR B.atr|The ABC of CPR B|
+The Adventurer's Companion -basic.atr|The Adventurer's Companion -basic|-basic
+The Alchemist.atr|The Alchemist|
+The Anderson Network [home inv] -basic.atr|The Anderson Network [home inv] -basic|-basic
+The Antic Database.atr|The Antic Database|
+The Antic Music Processor.atr|The Antic Music Processor|
+The Archiver 1.0.atr|The Archiver 1.0|
+The Archiver 1.1.atr|The Archiver 1.1|
+The Archiver 1.2.atr|The Archiver 1.2|
+The Archiver 3.02.atr|The Archiver 3.02|
+The Archiver 3.03.atr|The Archiver 3.03|
+The Atari Bedside Alarm.atr|The Atari Bedside Alarm|
+The Atari File Restorer.atr|The Atari File Restorer|
+The Atari Wordprocessor 1.0 -800b.atr|The Atari Wordprocessor 1.0 -800b|-b
+The Backup Master 1.3 -basic.atr|The Backup Master 1.3 -basic|-basic
+The Bbk Artist.atr|The Bbk Artist|
+The Bear Essentials.atr|The Bear Essentials|
+The Black Magic Composer.atr|The Black Magic Composer|
+The Black Magic Composer [alt].atr|The Black Magic Composer [alt]|
+The Boss I.atr|The Boss I|
+The Cartoonist A -bas.atr|The Cartoonist A -bas|-basic
+The Cartoonist B -bas.atr|The Cartoonist B -bas|-basic
+The Colleen Music Compendium -bas.atr|The Colleen Music Compendium -bas|-basic
+The Colleen Music Creator -bas.atr|The Colleen Music Creator -bas|-basic
+The Color Accountant -basic.atr|The Color Accountant -basic|-basic
+The Compactor Detector 2.7.atr|The Compactor Detector 2.7|
+The Compactor Detector 3.0.atr|The Compactor Detector 3.0|
+The Compactor Detector 3.1.atr|The Compactor Detector 3.1|
+The Complete Machine Code Tutor.atr|The Complete Machine Code Tutor|
+The Complete Machine Code Tutor [84].atr|The Complete Machine Code Tutor [84]|
+The Complete Machine Code Tutor [alt].atr|The Complete Machine Code Tutor [alt]|
+The Computer Gourmet.atr|The Computer Gourmet|
+The Computer Gourmet Recipes 1.atr|The Computer Gourmet Recipes 1|
+The Computer Gourmet Recipes 10.atr|The Computer Gourmet Recipes 10|
+The Computer Gourmet Recipes 11.atr|The Computer Gourmet Recipes 11|
+The Computer Gourmet Recipes 12.atr|The Computer Gourmet Recipes 12|
+The Computer Gourmet Recipes 13.atr|The Computer Gourmet Recipes 13|
+The Computer Gourmet Recipes 2.atr|The Computer Gourmet Recipes 2|
+The Computer Gourmet Recipes 3.atr|The Computer Gourmet Recipes 3|
+The Computer Gourmet Recipes 4.atr|The Computer Gourmet Recipes 4|
+The Computer Gourmet Recipes 5.atr|The Computer Gourmet Recipes 5|
+The Computer Gourmet Recipes 6.atr|The Computer Gourmet Recipes 6|
+The Computer Gourmet Recipes 7.atr|The Computer Gourmet Recipes 7|
+The Computer Gourmet Recipes 8.atr|The Computer Gourmet Recipes 8|
+The Computer Gourmet Recipes 9.atr|The Computer Gourmet Recipes 9|
+The Convertor.atr|The Convertor|
+The Cruncher 2.atr|The Cruncher 2|
+The Designers Pencil -800b.atr|The Designers Pencil -800b|-b
+The Digital Editor 2.0.atr|The Digital Editor 2.0|
+The Disassembler 1.1.atr|The Disassembler 1.1|
+The Disk Tool II.atr|The Disk Tool II|
+The Dragons Tail Vol1 A.atr|The Dragons Tail Vol1 A|
+The Dragons Tail Vol1 B.atr|The Dragons Tail Vol1 B|
+The Dragons Tail Vol2 A.atr|The Dragons Tail Vol2 A|
+The Dragons Tail Vol2 B.atr|The Dragons Tail Vol2 B|
+The Dragons Tail Vol3 A.atr|The Dragons Tail Vol3 A|
+The Dragons Tail Vol3 B.atr|The Dragons Tail Vol3 B|
+The Drum Machine.atr|The Drum Machine|
+The Family Tree A.atr|The Family Tree A|
+The Family Tree B Docs.atr|The Family Tree B Docs|
+The First XLent Word Processor.atr|The First XLent Word Processor|
+The First Xlent Word Processor 2.1.atr|The First Xlent Word Processor 2.1|
+The First XLent Word Processor [alt].atr|The First XLent Word Processor [alt]|
+The First XLent Word Processor Data Disk.atr|The First XLent Word Processor Data Disk|
+The Fix XL.atr|The Fix XL|
+The Freezer.atr|The Freezer|
+The Freezer Editor.atr|The Freezer Editor|
+The Graphics Magician Picture Painter.atr|The Graphics Magician Picture Painter|
+The Graphics Magician Picture Painter [alt].atr|The Graphics Magician Picture Painter [alt]|
+The Graphics Trilogy A -bas.atr|The Graphics Trilogy A -bas|-basic
+The Graphics Trilogy B -bas.atr|The Graphics Trilogy B -bas|-basic
+The Graphics Wizard.atr|The Graphics Wizard|
+The Graphics Wizard [cor].atr|The Graphics Wizard [cor]|
+The GT Data Manager.atr|The GT Data Manager|
+The GT Data Manager [alt.2].atr|The GT Data Manager [alt.2]|
+The GT Data Manger [alt].atr|The GT Data Manger [alt]|
+The GT Estate Word Processor.atr|The GT Estate Word Processor|
+The GT Estate Word Processor [alt].atr|The GT Estate Word Processor [alt]|
+The Koala.atr|The Koala|
+The Koala Micro Illustrator.atr|The Koala Micro Illustrator|
+The Lazer Drive Supercharger.atr|The Lazer Drive Supercharger|
+The Mind Tuner A -basic.atr|The Mind Tuner A -basic|-basic
+The Mind Tuner B.atr|The Mind Tuner B|
+The Music Editor.atr|The Music Editor|
+The Music Player 8m.atr|The Music Player 8m|
+The Music Studio.atr|The Music Studio|
+The Music Studio [crk].atr|The Music Studio [crk]|
+The Music Studio [yogi].atr|The Music Studio [yogi]|
+The Newsroom A.atr|The Newsroom A|
+The Newsroom B.atr|The Newsroom B|
+The News Station A.atr|The News Station A|
+The News Station B.atr|The News Station B|
+The News Station Companion.atr|The News Station Companion|
+The Next Step.atr|The Next Step|
+The Personal Spelling Checker.atr|The Personal Spelling Checker|
+The Pill A.atr|The Pill A|
+The Pill B.atr|The Pill B|
+The Plot -basic.atr|The Plot -basic|-basic
+The Print Master -bas.atr|The Print Master -bas|-basic
+The Print Tool A.atr|The Print Tool A|
+The Print Tool B.atr|The Print Tool B|
+The Repair Station.atr|The Repair Station|
+The Rhythm Composer A.atr|The Rhythm Composer A|
+The Rhythm Composer B Docs.atr|The Rhythm Composer B Docs|
+The Rotberg Marquee Program.atr|The Rotberg Marquee Program|
+The Scanalyzer.atr|The Scanalyzer|
+The Scanalyzer [alt].atr|The Scanalyzer [alt]|
+The Shadow -800b.atr|The Shadow -800b|-b
+The Solid Object Module B.atr|The Solid Object Module B|
+The Sound Machine.atr|The Sound Machine|
+The Sound Machine -bas.atr|The Sound Machine -bas|-bas
+The Story Machine.atr|The Story Machine|
+The Super Archiver 3.2.atr|The Super Archiver 3.2|
+The Super Archiver 3.2 [master].atr|The Super Archiver 3.2 [master]|
+The Super Archiver Bitwriter & Diags.atr|The Super Archiver Bitwriter & Diags|
+The Super Archiver Fuzzy Sector Maker.atr|The Super Archiver Fuzzy Sector Maker|
+The Talking Disk.atr|The Talking Disk|
+Theta Music Composer.atr|Theta Music Composer|
+The Trick [cheat maker].atr|The Trick [cheat maker]|
+The TypeSetter 1.3 XL48K.atr|The TypeSetter 1.3 XL48K|
+The TypeSetter 1.4 XE130K.atr|The TypeSetter 1.4 XE130K|-xe
+The Ultimate Cheat Maker 1.0.atr|The Ultimate Cheat Maker 1.0|
+The Voice Master -bas.atr|The Voice Master -bas|-basic
+The XL Fix.atr|The XL Fix|
+Timewise (Atari) -basic.atr|Timewise (Atari) -basic|-basic
+Title Maker.atr|Title Maker|
+Toms Copier 2.0.atr|Toms Copier 2.0|
+Toms MSDos 2 Atari-Ibm360.atr|Toms MSDos 2 Atari-Ibm360|
+Toms XE - PC - ST.atr|Toms XE - PC - ST|-xe
+Top Dos 1.5.atr|Top Dos 1.5|
+Top Dos 1.5a.atr|Top Dos 1.5a|
+Touch Edit A -basic.atr|Touch Edit A -basic|-basic
+Touch Edit B.atr|Touch Edit B|
+Touch Typing -basic.atr|Touch Typing -basic|-basic
+Toxic Mega Menu 1 Copiers.atr|Toxic Mega Menu 1 Copiers|
+Toxic Mega Menu 2 Alpha-Load Utils.atr|Toxic Mega Menu 2 Alpha-Load Utils|
+Transdisk IV Supplement XE 1.0.atr|Transdisk IV Supplement XE 1.0|-xe
+Transdisk IV & Utils.atr|Transdisk IV & Utils|
+Transdisk IV & Utils [alt].atr|Transdisk IV & Utils [alt]|
+Transdisk Utility.atr|Transdisk Utility|
+Transdisk XE 4.2.atr|Transdisk XE 4.2|-xe
+Translator A.atr|Translator A|
+Translator B.atr|Translator B|
+Translator OS-A.atr|Translator OS-A|
+Translator OS-B.atr|Translator OS-B|
+Translator PAL.atr|Translator PAL|
+Translator Pal OSA.atr|Translator Pal OSA|
+Translators.atr|Translators|
+Translators A & B & XL.atr|Translators A & B & XL|
+Translator XE.atr|Translator XE|-xe
+Translator XL.atr|Translator XL|
+Traveller -basic.atr|Traveller -basic|-basic
+Tricky Tutorial 10 -basic.atr|Tricky Tutorial 10 -basic|-basic
+Tricky Tutorial 11 -basic.atr|Tricky Tutorial 11 -basic|-basic
+Tricky Tutorial 14 -basic.atr|Tricky Tutorial 14 -basic|-basic
+Tricky Tutorial 1a -basic.atr|Tricky Tutorial 1a -basic|-basic
+Tricky Tutorial 2+4 -basic.atr|Tricky Tutorial 2+4 -basic|-basic
+Tricky Tutorial 2 -basic.atr|Tricky Tutorial 2 -basic|-basic
+Tricky Tutorial 3a -basic.atr|Tricky Tutorial 3a -basic|-basic
+Tricky Tutorial 4a -basic.atr|Tricky Tutorial 4a -basic|-basic
+Tricky Tutorial 5 -basic.atr|Tricky Tutorial 5 -basic|-basic
+Tricky Tutorial 6 -basic.atr|Tricky Tutorial 6 -basic|-basic
+Tricky Tutorial 7 -basic.atr|Tricky Tutorial 7 -basic|-basic
+Tricky Tutorial 8 -basic.atr|Tricky Tutorial 8 -basic|-basic
+Tricky Tutorial 9 -basic.atr|Tricky Tutorial 9 -basic|-basic
+Tricky Tutorials -basic.atr|Tricky Tutorials -basic|-basic
+Tscope 1030.atr|Tscope 1030|
+Turbo Basic 1.4 400-800 version.atr|Turbo Basic 1.4 400-800 version|-b
+Turbo Basic 1.4 [alt].atr|Turbo Basic 1.4 [alt]|
+Turbo Basic 2.1 [TTdos].atr|Turbo Basic 2.1 [TTdos]|
+Turbo Basic XL 1.5 A.atr|Turbo Basic XL 1.5 A|
+Turbo Basic XL 1.5 [alt].atr|Turbo Basic XL 1.5 [alt]|
+Turbo Basic XL 1.5 [alt.2].atr|Turbo Basic XL 1.5 [alt.2]|
+Turbo Basic XL 1.5 B.atr|Turbo Basic XL 1.5 B|
+Turbo Basic XL A.atr|Turbo Basic XL A|
+Turbo Basic XL B.atr|Turbo Basic XL B|
+Turbocharger XL.atr|Turbocharger XL|
+Turbo Dos 2.0EX.atr|Turbo Dos 2.0EX|
+TurboDos XE.atr|TurboDos XE|-xe
+Turbo Dos XE 2.1.atr|Turbo Dos XE 2.1|-xe
+Turbo Paint.atr|Turbo Paint|
+Turbo Watson 4.0.atr|Turbo Watson 4.0|
+Typit.atr|Typit|
+Ultima 4 Map Editor A.atr|Ultima 4 Map Editor A|
+Ultima 4 Map Editor B.atr|Ultima 4 Map Editor B|
+Ultimate Copy -basic.atr|Ultimate Copy -basic|-basic
+Ultrafiler -basic.atr|Ultrafiler -basic|-basic
+Ultrafix XL 1.3.atr|Ultrafix XL 1.3|
+Ultrafont.atr|Ultrafont|
+Ultraspeed Backup 2.3.atr|Ultraspeed Backup 2.3|
+Ultra Speed BT Menu 1.0.atr|Ultra Speed BT Menu 1.0|
+Ultra Translator 2.0.atr|Ultra Translator 2.0|
+Umon XL.atr|Umon XL|
+Unscrunch!.atr|Unscrunch!|
+Unusual Bootloaders to Dos Converter.atr|Unusual Bootloaders to Dos Converter|
+Unzip 1.13.atr|Unzip 1.13|
+US Doubler 1 Drive Copier.atr|US Doubler 1 Drive Copier|
+US Doubler 2 Drive Copier.atr|US Doubler 2 Drive Copier|
+US Doubler Disk Copier 2 [alpha].atr|US Doubler Disk Copier 2 [alpha]|
+US Doubler Routine.atr|US Doubler Routine|
+US Doubler Routine Info.atr|US Doubler Routine Info|
+US Doubler Super Mover.atr|US Doubler Super Mover|
+Utilities 256k.atr|Utilities 256k|-320xe
+UUE Encode and Decoders.atr|UUE Encode and Decoders|
+Various Utils.atr|Various Utils|
+Various Utils 10 - Little Lister.atr|Various Utils 10 - Little Lister|
+Various Utils 11 - Basic Utils.atr|Various Utils 11 - Basic Utils|
+Various Utils 12 - Uuencode.atr|Various Utils 12 - Uuencode|
+Various Utils 1a - Calender.atr|Various Utils 1a - Calender|
+Various Utils 1b - Calender..atr|Various Utils 1b - Calender.|
+Various Utils 2a - Printing.atr|Various Utils 2a - Printing|
+Various Utils 2b - Copying.atr|Various Utils 2b - Copying|
+Various Utils 3 - Calculator.atr|Various Utils 3 - Calculator|
+Various Utils 4 - Picture Manipulation.atr|Various Utils 4 - Picture Manipulation|
+Various Utils 5 - Macros.atr|Various Utils 5 - Macros|
+Various Utils 6 - Data Scan.atr|Various Utils 6 - Data Scan|
+Various Utils 7a - Disk Fix.atr|Various Utils 7a - Disk Fix|
+Various Utils 7b - Disk IO.atr|Various Utils 7b - Disk IO|
+Various Utils 8 - Print.atr|Various Utils 8 - Print|
+Various Utils 9 - Column 80.atr|Various Utils 9 - Column 80|
+Vcr Plus.atr|Vcr Plus|
+Video 130XE 2.10 A.atr|Video 130XE 2.10 A|-xe
+Video 130XE 2.10 B.atr|Video 130XE 2.10 B|-xe
+Video Easel.atr|Video Easel|
+Video Interface.atr|Video Interface|
+Video Scanner -bas.atr|Video Scanner -bas|
+Video Tape Record.atr|Video Tape Record|
+Vidig Paint A Master.atr|Vidig Paint A Master|
+Vidig Paint B Bilder.atr|Vidig Paint B Bilder|
+Viditerm A.atr|Viditerm A|
+Viditerm [alt].atr|Viditerm [alt]|
+Viditerm B.atr|Viditerm B|
+Vid Pack.atr|Vid Pack|
+Virtuoso 1.6 A.atr|Virtuoso 1.6 A|
+Virtuoso 1.6 B.atr|Virtuoso 1.6 B|
+VisiCalc 1.74a.atr|VisiCalc 1.74a|
+Visualiser A.atr|Visualiser A|
+Visualiser B.atr|Visualiser B|
+Voicemaster XE -basic.atr|Voicemaster XE -basic|-xe
+VT850.atr|VT850|
+Vtext 1.3 Blue.atr|Vtext 1.3 Blue|
+Vtex The Text Viewing Program.atr|Vtex The Text Viewing Program|
+VTOC Fixer 2.0.atr|VTOC Fixer 2.0|
+Wacio.atr|Wacio|
+Warp Speed Dos 7.atr|Warp Speed Dos 7|
+Warpspeed Utils.atr|Warpspeed Utils|
+Wa-Tor.atr|Wa-Tor|
+Watson II.atr|Watson II|
+Wedge Docs.atr|Wedge Docs|
+Wedge [needs DOS].atr|Wedge [needs DOS]|
+Window XL XE [de].atr|Window XL XE [de]|
+Word Magic.atr|Word Magic|
+Word Magic & Graphic Magic A.atr|Word Magic & Graphic Magic A|
+Word Magic & Graphic Magic B.atr|Word Magic & Graphic Magic B|
+Wordval A.atr|Wordval A|
+Wordval B.atr|Wordval B|
+Write 80.atr|Write 80|
+WSYIWIG! Cassette Jackets -basic.atr|WSYIWIG! Cassette Jackets -basic|-basic
+XE Commander.atr|XE Commander|-xe
+XE-XL Warp Menu.atr|XE-XL Warp Menu|
+XF551 Utility Disk.atr|XF551 Utility Disk|
+Xfd Tools.atr|Xfd Tools|
+XL Art.atr|XL Art|
+Xlent Software Icon A.atr|Xlent Software Icon A|
+Xlent Software Icon B.atr|Xlent Software Icon B|
+Xlent Software Icon C.atr|Xlent Software Icon C|
+Xlent Software Picture 1A.atr|Xlent Software Picture 1A|
+Xlent Software Picture 1B.atr|Xlent Software Picture 1B|
+Xlent Software Picture 2A.atr|Xlent Software Picture 2A|
+XL Paint Viewer 1.1.atr|XL Paint Viewer 1.1|
+Xltest 1.4.atr|Xltest 1.4|
+XL-XE Translator.atr|XL-XE Translator|
+Yau.atr|Yau|
+Zerofree.atr|Zerofree|

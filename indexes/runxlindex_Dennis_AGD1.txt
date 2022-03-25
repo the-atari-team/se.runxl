@@ -1,0 +1,18 @@
+Atari 800XL Game Disk 01
+-basic
+Game_Disk_1.atr|DOS 2.5|
+Game_Disk_1.atr|Paratroop Attack (Basic)|
+Game_Disk_1.atr|Cavern (Basic)|
+Game_Disk_1.atr|Chicken (Basic)|
+Game_Disk_1.atr|Speed Demon (Basic)|
+Game_Disk_1.atr|Cylon Zap (Basic)|
+Game_Disk_1.atr|Bats (Basic)|
+Game_Disk_1.atr|Laser Gunner (Basic)|
+Game_Disk_1.atr|Danger UXB (Basic)|
+Game_Disk_1.atr|Down the Trench Attack on the Death Star (Basic)|
+Game_Disk_1.atr|Hidden Maze (Basic)|
+Game_Disk_1.atr|Tie-Fighter (Basic)|
+Game_Disk_1.atr|Juggler (Basic)|
+Game_Disk_1.atr|Thunderbird (Basic)|
+Game_Disk_1.atr|Horserace (Basic)|
+Game_Disk_1.atr|Copycat (ähnlich Senso) (Basic)|
