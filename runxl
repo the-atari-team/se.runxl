@@ -1,54 +1,53 @@
 #!/bin/bash
 # -----------------------------------------------------------------
-# runxl - Skript zum komfortablen Starten des atari800 Emulators
+# runxl - Script for comfortable starting of the atari800 emulator
 # (cdw) 03.12.2010 Stephan Elsner
 # -----------------------------------------------------------------
-# TODO: 
-#   1. Images die in einer Index-Datei vorkommen nicht durch den Dateinamen finden lassen (schwierig)
-#   2. Dateinamen die ein single-Quote ' enthalten (kommt bei Rohar-Archiven vor) erzeugen einen fehler im
-#      output-script. Das muss noch im filenamen gequotet werden.
+# TODO:
+#   1. images in an index file can not be found by the filename (difficult)
+#   2. filenames containing a single-quote ' (occurs with Rohar archives) generate an error in the
+#      output-script. This must be quotet in the filename.
 #
 # History:
-# 1.4.2  Language changed to english
-# 1.4.1  Bugfix bei -r
-# 1.4.0  erlaubt {dir} als Kuerzel in den Emu-Opts der Indexdatei. Wird durch aktuellen Pfad ersetzt
-# 1.3.10:Hilfetext angepasst
-# 1.3.9: erlaubt {dos} als Shortcut in den Emulator-Optionen der Indexdatei, Fix für Atari800 2.2.1
-# 1.3.8: Images mit File-Endungen in Grossbuchtaben werden gefunden
-# 1.3.7: Erlaubt das Ausblenden von Images ueber die Index-Datei
-# 1.3.6: Images, die in einer Index-Datei vorkommen, werden nicht noch  zusaetzlich 
-#        durch den Dateinamen gefunden
-# 1.3.5: -b und -d Parameter hinzugefuegt
-# 1.3.4: Bugfix (Case bei Spielenamen ignorieren)
-# 1.3.3: Bugfix (Index-Dateien koennen symlinked sein)
-# 1.3.2: Bugfix (Syntax Error)
+# 1.4.2: Language changed to english, bugfix with -o
+# 1.4.1: Bugfix with -r
+# 1.4.0: allows {dir} as abbreviation in the emu-ops of the index file. Replaced by current path
+# 1.3.10:help text adapted
+# 1.3.9: allow {dos} as shortcut in emulator options of index file, fix for Atari800 2.2.1
+# 1.3.8: images with file extensions in upper case are found
+# 1.3.7: Allow to hide images via the index file
+# 1.3.6: Images contained in an index file will not be found additionally
+#        by the filename
+# 1.3.5: -b and -d parameters added
+# 1.3.4: bugfix (ignore case in game names)
+# 1.3.3: Bugfix (index files can be symlinked)
+# 1.3.2: Bugfix (syntax error)
 # 1.3.1: Code cleanup
-# 1.3.0: -e Parameter fuer 130XE-Emulation hinzugefuegt
-# 1.2.0: unterstuetzt Emulator-Optionen fuer jedes einzelne Programm in den index-Files
-# 1.1.0: Unterstuetzt index-Files fuer Multi-File-Disks (z.B.Yogi) mit Loader
+# 1.3.0: added -e parameter for 130XE emulation
+# 1.2.0: support emulator options for each program in index files
+# 1.1.0: support index files for multi-file disks (e.g.Yogi) with loader
 # 1.06 : Bugfixes
-# 1.05 : Textanpassungen
-# 1.04 : Startverhalten geaendert, default jetzt liste + interaktive Auswahl
-#        -r parameter hinzugefuegt für starten des ersten fundes.
-# 1.03 : Bugfix: fehlende quotes in find kommandos
-# 1.02 : umbenannt in runxl
-# 1.01 : Hilfetext angepasst
-# 1.00 : unterstuetzung von cartridge-files rom, bin
-# 0.90 : Programmliste wird nach Programmnamen sortiert
-
+# 1.05 : Text adjustments
+# 1.04 : startup behavior changed, default now list + interactive selection
+#        -r parameter added for start of first find.
+# 1.03 : bugfix: missing quotes in find commands
+# 1.02 : renamed to runxl
+# 1.01 : help text adapted
+# 1.00 : support for cartridge-files rom, bin
+# 0.90 : program list is sorted by program name
 
 # -----------------------------------------------------------------
-#  Change tese settings to your own needs:
+#  Change these settings to your own needs:
 # -----------------------------------------------------------------
 
-# Base dircetory for atari programs (without slash!)
+# Base directory for atari programs (without slash!)
 BASEDIR="/usr/share/atari"
 
 # Fixed start options fuer atari800, dynamic optionen will be added
 STARTOPTIONS="-windowed -audio16"
 
 # Path to preferred DOS disk
-DOSDISKPATH="/usr/share/atari/XL_Proggies/boots/turbodos.xfd"
+DOSDISKPATH="/usr/share/atari/XL_Proggies/XL-DISKS_Lars/TURBO.XFD"
 
 # -----------------------------------------------------------------
 
@@ -103,29 +102,29 @@ DISKEMUPTS=""
 # Functions:
 
 # --------------------------------------------------------------------------------
-# Numeriertes Auflisten aller Dateien in denen $GAMENAME vorkommt 
+# shows a numbered list of all files with $GAMENAME in their name 
 listprogs()
 {
    createlist
    if [ "$NUMFINDS" -gt "0" ]; then
        echo
-       echo "   Nr.  Name"
+       echo "   No.  Name"
        echo "--------------------------------------------------------------"
 
-       # Namen herausklauben, numerieren, anzeigen
+       # extract name, add number, display
        cat /tmp/atarilist | cut -d '|' -f 2 | nl
        echo
        rm /tmp/atarilist
    else
-       echo "Kein Programm gefunden."
+       echo "No matching programm found."
    fi
 }
 
 # --------------------------------------------------------------------------------
-# Erstelle eine temporaere Liste der gesuchten Programme in /tmp/atarilist
-# und ermittle Anzahl der Eintraege (in $NUMFINDS)
-# Aufbau der Liste:
-# Pfad zum disk-image oder atari-executable|Angezeigter Name|Zusaetzliche Emulator-Optionen
+# Create a temporary list of the searched programs in /tmp/atarilist
+# and count entries (in $NUMFINDS)
+# format of the list:
+# Path to disk image or atari-executable|Displayed name|additional emulator options
 createlist()
 {
    # Suche files nach Dateinamen und schreibe die Funde in die Datei flist
@@ -134,15 +133,16 @@ createlist()
          printf("%s|%s|\n",$0,$NF) 
       }' > /tmp/flist
 
-   # Suche in runxmlindex*.text und haenge die Funde an die Ergebnisliste an
-   # Die erste Zeile von runxmlindex enthaelt den Namen der Disk
-   # Die zweite Zeile die Zusatzoptionen zum Starten des Emulators die fuer alle indizierten Files gelten. 
-   # Bei den Yogi-Disks ist es das Yogiloader-Image
-   # Eine Index-Zeile ist folgendermassen aufgebaut:
-   # Dateiname Disk-Image (ohne Pfad)|Angezeigter Name des Spiels|Emulator-optionen, sowie {dos} als
-   #                                                              Platzhalter für DOS-Disk 
-   # (z.b. wenn das Spiel nicht auf einem XL laeuft, oder ein DOS gebootet werden muss)
-   # Ist der angezeigte Name  - wird das file ausgeblendet, parktisch z.b. bei Multi-Disk Spielen
+   # search in runxmlindex*.text and append the finds to the result list
+   # The first line of runxmlindex contains the name of the image file
+   # The second line contains the additional options to start the emulator which are valid for all indexed files. 
+   # For the Yogi discs it is the Yogiloader image
+   # An index line is constructed as follows:
+   # Filename Disk-Image (without path)|Displayed name of the game|Emulator-options, and {dos} as
+   # placeholder for DOS-Disk 
+   # (e.g. if the game does not run on an XL, or a DOS must be booted)
+   # If the displayed name is - the file is hidden, comes handy e.g. with multi-disk games
+
    find -L $BASEDIR -iname "runxlindex*.txt" -type f -exec awk -F"|" '
       function basename(path) {
          n=split(path,a,"/")
@@ -194,8 +194,9 @@ createlist()
       }
    ' {} \; > /tmp/ilist
 
-   # Filtern der Suchergebnisse nach Dateinamen. Es werden nur die Ergebnisse beruecksichtigt, die
-   # nicht schon durch die Suche in den Indexdateien gefunden wurden
+   # Filter the search results by file name. Only those results are taken into account that
+   # were not already found by the search in the index files
+
    awk -F"|" '
       BEGIN {
          while ((getline < "/tmp/ilist") > 0)
@@ -206,10 +207,10 @@ createlist()
             printf("%s\n",$0)
       }' /tmp/flist > /tmp/llist
 
-   # Die mit delete gekennzeichneten Zeilen herausfiltern
+   # filter lines out that are marked with "delete"
    cat /tmp/llist /tmp/ilist | grep -v '**delete**' > /tmp/alist
 
-   # Ergebnisliste alphabetisch sortieren
+   # sort result list
    sort -t '|' -k2 /tmp/alist > /tmp/atarilist
    NUMFINDS=$(cat /tmp/atarilist | wc -l)
    rm /tmp/alist
@@ -219,19 +220,19 @@ createlist()
 }
 
 # --------------------------------------------------------------------------------
-# Auswaehlen des Atari-Programmes Nr. $GAMENUMBER aus der Liste der auf $GAMENAME
-# passenden files. Vollstaendiger Pfad befindet sich in $AFILE
+# Select the Atari program no. $GAMENUMBER from the list of files matching $GAMENAME. 
+# Full path is in $AFILE
 findprog()
 {
    createlist
    if ([ "$GAMENUMBER" -le "$NUMFINDS" ] && [ "$GAMENUMBER" -ge "1" ]) then 
-      # Pfad lesen
+      # read path
       AFILE=$(cat /tmp/atarilist | head -$GAMENUMBER | tail -1 | cut -d '|' -f1)
 
-      # lesen der zusatzoptionen, bei normalen programmen leer, bei yogi-disks pfad zum loader
+      # reading the additional options, for normal programs empty, for yogi-disks path to loader
       DISKEMUOPTS=$(cat /tmp/atarilist | head -$GAMENUMBER | tail -1 | cut -d '|' -f3)
    else
-      echo "Programmnummer muss zwischen 1 und $NUMFINDS liegen."
+      echo "Please type a number beween 1 and $NUMFINDS."
       exit
    fi
    rm /tmp/atarilist
@@ -244,9 +245,9 @@ if [ $# -lt 1 ]; then
    exit 1
 fi
 
-# Gamename ist immer letztes Argument, in variable ueberfuehren
+# Name of game ist always last element
 GNAME=${@: -1}
-# in lowercase wandeln
+# convert to lower case
 GAMENAME=${GNAME,,}
 
 if [ ${GAMENAME:0:1} == "-" -a $GAMENAME != "-h"  ]; then
@@ -254,23 +255,23 @@ if [ ${GAMENAME:0:1} == "-" -a $GAMENAME != "-h"  ]; then
    exit 1
 fi
 
-# Parameter auswerten
+# Evaluate parameters
 while getopts n:lhosrefbd OPT; do
   case $OPT in
      l)
-        # programme auflisten
+        # list programs
         if [ $# -lt 2 ]; then
            echo "$USAGE"
            exit 1
         fi
         MODE=1
         ;;
-     r) # erstes der gefundenen Programme starten
+     r) # start fist found program
         MODE=2
         GAMENUMER=1
         ;;
      n)
-        # Bestimmtes programm aus der Liste starten
+        # start specific program from the list
         MODE=2
         GAMENUMBER=$OPTARG
         ;;
@@ -281,7 +282,7 @@ while getopts n:lhosrefbd OPT; do
         ;;
      o)
         # o = old Atari 400/800
-        OPTIONS="$OPTIONS -b"
+        OPTIONS="$OPTIONS -atari"
         ;;
      e)
         # e = Atari 130 XE
@@ -304,34 +305,33 @@ while getopts n:lhosrefbd OPT; do
         OPTIONS="$OPTIONS $DOSDISKPATH"
         ;;
      \?)
-        #echo "Falscher Parameter: -$OPT" >&2
+        #echo "Wrong Parameter: -$OPT" >&2
         exit 1
         ;;
   esac
 done
 
 case $MODE in
-   0) # -r suchen und starten des ersten passenden Programmes
+   0) # -r start first matching program
       # findfirstprog
       ;;
-   1) # -l Auflisten der gefundenen programme
+   1) # -l list matching programs
       listprogs
       exit
       ;;
-   2) # -n starten eines bestimmten programmes aus der liste
+   2) # -n start a specific program from the list
       findprog
       ;;
-   3) # ohne parameter: Auflisten der Programme aund Abfragen welches davon gestartet werden soll
+   3) # without parameters: List the programs and query which of them should be started
       listprogs
-      # Interaktives Abfragen der Spielenummer
       if [ "$NUMFINDS" -eq 0 ];
       then
 	 exit
       fi
-      echo "Welches Programm starten? [1-$NUMFINDS]"
+      echo "Start which program? [1-$NUMFINDS]"
       read GAMENUMBER
 
-      # Test ob eingabe numerisch ist, ansonsten Scriptende
+      # Test if input is numerical
       if [[ $GAMENUMBER =~ ^[0-9]+$ ]]; then
          findprog
       else
@@ -340,7 +340,7 @@ case $MODE in
       ;;
 esac
 
-# Pfad zum Programm ist ermittelt, starten
+# Path to the program is determined, now start
 if [ "$AFILE" != "" ];
 then
    EXTENSION="`echo ${AFILE: -3}|tr '[:upper:]' '[:lower:]'`"
@@ -361,12 +361,12 @@ then
          RUNCMD="-cart"
          ;;
       *)
-         echo "Unbekannter Dateityp: $EXTENSION"
+         echo "unknown file type: $EXTENSION"
          exit
          ;;
    esac
 else
-   echo "$GAMENAME nicht gefunden."
+   echo "$GAMENAME not found."
    exit
 fi
 
@@ -376,9 +376,9 @@ if [ "$MODE" -eq "0" -o "$MODE" -eq "2" ]; then
 fi
 
 if [ "$TASTE" == "n" ]; then
-   echo "dann eben nicht."
+   echo "ok then."
 else
-  # Erzeugen und ausfuehren des Startscriptes
+  # Create and execute the start script
   echo  "atari800 $STARTOPTIONS $OPTIONS $DISKEMUOPTS $RUNCMD '$AFILE'" > /tmp/atariscript
   chmod +x /tmp/atariscript
   /tmp/atariscript

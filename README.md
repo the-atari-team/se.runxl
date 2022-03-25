@@ -6,6 +6,7 @@ The script scans your atari program directory recursively to find the game you'r
 
 It also scans index files for
 * disks which contains more then one game
+* large disk images which needs a special loader program like the Yogi images
 * programs which needs special emulator parameters to start (i.e. emulate an old 48k Atari 400/800)
 * programs which needs a DOS disk
 * Multiple disk games, each in its own drive
@@ -79,6 +80,7 @@ With this index file, you can i.e. type
 	./runxl Minced
 
 and runxl will find the all corresponding entries, including the one from the index file, displays a list and asks for the program to start.
+You can find example index files in indexes folder.
 
 ## TBD
 * more documentation
