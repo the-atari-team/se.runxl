@@ -285,4 +285,16 @@ kennedy.xfd|Kennedy Approach|
 19a.xfd|Caverns of Khafka|-atari
 19a.xfd|Vanguard|
 19a.xfd|Orc Attack|
-
+20a.xfd|Kangaroo|
+20a.xfd|Jet Boot Jack|
+20a.xfd|Preppie II|
+20a.xfd|Cohen's Tower|
+20a.xfd|Pit Stop II|
+20a.xfd|Snake Byte II|
+20b.xfd|Atom smasher|
+20b.xfd|Pathfinder|
+20b.xfd|Madnetter|-atari
+20b.xfd|Thorn EMI Jigsaw|
+20b.xfd|Night Raiders|
+20b.xfd|Heathcliff|
+20b.xfd|Steve Davis Snooker|
