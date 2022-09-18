@@ -9,6 +9,7 @@
 #      output-script. This must be quotet in the filename.
 #
 # History:
+# 1.4.3: fixed comments - no change in function
 # 1.4.2: Language changed to english, bugfix with -o
 # 1.4.1: Bugfix with -r
 # 1.4.0: allows {dir} as abbreviation in the emu-ops of the index file. Replaced by current path
@@ -43,7 +44,7 @@
 # Base directory for atari programs (without slash!)
 BASEDIR="/usr/share/atari"
 
-# Fixed start options fuer atari800, dynamic optionen will be added
+# Fixed start options fuer atari800, dynamic options will be added
 STARTOPTIONS="-windowed -audio16"
 
 # Path to preferred DOS disk
@@ -96,7 +97,8 @@ RUNCMD=""
 # atari800 additional options
 OPTIONS=""
 
-# used for spectial emulator options for i.e. Yogi-Disks, will be set with the path to the loader 
+# used for special emulator options for i.e. Yogi-Disks, 
+# will be set with the path to the loader 
 DISKEMUPTS=""
 
 # Functions:
@@ -161,23 +163,23 @@ createlist()
       }
 
       {
-         # Erste Zeile der Indexdatei auswerten (Name der Sammlung)
+         # process first line of index file (name of collection)
          if (NR == 1) {
-            # Titel der Disk(s) die durch die aktuelle Datei indiziert sind
+            # title of the disk image(s) which are indexed by current file
             diskname=$0;
 
-            # Pfad zur Indexdatei ermitteln, ist geleichzeitig Pfad zu den indizierten Disks
+            # get path to index file and to inxed disk images (same path)
             mindex = match(FILENAME, "^.*/");
             filepath = substr(FILENAME,1,RLENGTH);
          }
 
-         # Zweite Zeile der Indexdatei (Emulatoroptionen für alle files dieser Sammlung)
+         # second line of index file: additional emulator options for this collection
          if (NR == 2) {
             diskopts=$0
             gsub("{dos}","'$DOSDISKPATH'", diskopts);
          }
       }
-      # Wenn der Spielename in der Beschreibung gefunden
+      # if gamename found in description...
       tolower($2) ~ /'$GAMENAME'/ {
          if (NR > 2) {
             gsub(/[ \t]+$/, "", $2);
@@ -187,8 +189,7 @@ createlist()
             printf("%s%s|%s (%s)|%s %s\n",filepath,$1,$2,diskname,$3,diskopts);
          }
       }
-      # enthaelt die zweite spalte ein Minuszeichen, wird die Zeile zum 
-      # spaeteren Entfernen markiert.
+      # mark the line for later removal if the second column contains a "-"
       $2 ~ "-" {
          printf("%s%s|**delete**|\n",filepath,$1);
       }
